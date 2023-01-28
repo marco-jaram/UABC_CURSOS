@@ -1,6 +1,62 @@
 # Notas Filosofia contemporanea
 # Sistema a base de preguntas y listas de temas y fundamentos
 ## SEMANA 1
+
+### Romainticismo intro
+Siglo XIX
+* La libertad y los limites
+* No hay lmites y lo voy a demostrar
+*  
+* Ruptura con lo clásico
+* El sentimiento como fundamento
+* Lo desborde de los límites
+* Nuevo clasicismo ¿cual es el viejo clasicismo?
+* 
+#### Clásico: simetría, unidad, armonía
+#### El david, Niguel Angel
+![Miguel angel](/1-contemporanea%20/1-images/El_david_MiguelAngel_1504dc.png)
+[![El-david-Miguel-Angel-1504dc.jpg](https://i.postimg.cc/prG1yj6s/El-david-Miguel-Angel-1504dc.jpg)](https://postimg.cc/m19S5PR9)
+
+#### Perseo copn la cabeza de medusa
+![Miguel angel](/1-contemporanea%20/1-images/Perseo_c_Nedusa_1800dcneoClasico.jpg)
+
+[![Perseo-c-Nedusa-1800dcneo-Clasico.jpg](https://i.postimg.cc/Bn1wQXcC/Perseo-c-Nedusa-1800dcneo-Clasico.jpg)](https://postimg.cc/yDsTL6GJ)
+## Los romanticos
+![Goya 1820](/1-contemporanea%20/1-images/Saturno_devorando_a_su__hijo.jpg)
+
+[![Saturno-devorando-a-su-hijo.jpg](https://i.postimg.cc/5y6S7Rsm/Saturno-devorando-a-su-hijo.jpg)](https://postimg.cc/D43GmBkW)
+
+ los sentimientos no se van
+![Goya 1820](/1-contemporanea%20/1-images/Delacroix_La%20libertad%20guiando%20al%20pueblo.jpg)
+
+ * Te ganan los sentimientos
+ * El juez y su hijo
+
+[![PORTADA-laspenasdel-jove.jpg](https://i.postimg.cc/xjvLSZp8/PORTADA-laspenasdel-jove.jpg)](https://postimg.cc/HjLrw6g1)
+
+# En folosofia el romanticismo esta marcado por lo siguiente
+* La razon infinita
+
+
+
+### Fichte
+primer principio
+a es , entonces a es
+
+![fichte.jpg](/1-contemporanea%20/1-images/fichte.jpg)
+
+
+[![fichte.jpg](https://i.postimg.cc/pXr640m4/fichte.jpg)](https://postimg.cc/BXWp1BcB)
+
+
+como exponer a fichte 
+es uy abstracto y por eso no es nada facil exponerlo
+pero debe haber una forma inclsio chsitosa de poder exponerlo vemoas
+algunas idelas
+primero el yo, no es el empirico, es paecido al sjeto en kant
+luego lo absolutmente incondicionado, debe ser incondiciona ndo de la
+manra mas abstracta que se puedan imaginal 
+
 ## SEMANA 2
 ## SEMANA 3
 ## SEMANA 4
@@ -20,30 +76,7 @@
 
 
 
-## Fichte
 
-Romainticismo
- el sentimiento  como infinito
- la razon como infinito
- 
- los entimientos no se van
- te ganan los sentimientos
- el juez y su hijo
-
-primer principio
-a es , entonces a es
-
-![fichte.jpg](./images/fichte.jpg)
-![foto fitche](https://i.postimg.cc/MTxLw7F7/fichte.jpg)
-
-
-como exponer a fichte 
-es uy abstracto y por eso no es nada facil exponerlo
-pero debe haber una forma inclsio chsitosa de poder exponerlo vemoas
-algunas idelas
-primero el yo, no es el empirico, es paecido al sjeto en kant
-luego lo absolutmente incondicionado, debe ser incondiciona ndo de la
-manra mas abstracta que se puedan imaginal 
 
 ## Helgel, reisar pdf presentaciones=
 fechas y sus contemporaneaos
