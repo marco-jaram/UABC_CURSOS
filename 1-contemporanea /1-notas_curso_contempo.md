@@ -21,8 +21,8 @@
 
 
 
-
-<a name="SEMANA_1">## SEMANA 1</a>
+## SEMANA 1
+<a name="SEMANA_1">01</a>
 
 ### Romainticismo intro
 Siglo XIX
@@ -79,27 +79,73 @@ primero el yo, no es el empirico, es paecido al sjeto en kant
 luego lo absolutmente incondicionado, debe ser incondiciona ndo de la
 manra mas abstracta que se puedan imaginal 
 ## SEMANA 1
-<a name="SEMANA_1">SEMANA 1</a>
-## SEMANA 2
+<a name="SEMANA_1">1</a>
+
 [Ir a inicio](#inicio)
-<a name="SEMANA_2">SEMANA 1</a>
+## SEMANA 2
+<a name="SEMANA_2">2</a>
+
+[Ir a inicio](#inicio)
 ## SEMANA 3
-<a name="SEMANA_3">SEMANA 3</a>
+<a name="SEMANA_3">3</a>
+
+[Ir a inicio](#inicio)
 ## SEMAN 4
-<a name="SEMANA_4">SEMANA 4</a>
-<a name="SEMANA_5">SEMANA 5</a>
-<a name="SEMANA_6">SEMANA 6</a>
-<a name="SEMANA_7">SEMANA 7</a>
-<a name="SEMANA_8">SEMANA 8</a>
-<a name="SEMANA_9">SEMANA 9</a>
-<a name="SEMANA_10">SEMANA 10</a>
-<a name="SEMANA_11">SEMANA 11</a>
-<a name="SEMANA_12">SEMANA 12</a>
-<a name="SEMANA_13">SEMANA 13</a>
-<a name="SEMANA_14">SEMANA 14</a>
-<a name="SEMANA_15">SEMANA 15</a>
-<a name="SEMANA_16">SEMANA 16</a>
-<a name="SEMANA_17">SEMANA 17</a>
+<a name="SEMANA_4">4</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 5
+<a name="SEMANA_5">5</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 6
+<a name="SEMANA_6">6</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 7
+<a name="SEMANA_7">7</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 8
+<a name="SEMANA_8">8</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 9
+<a name="SEMANA_9">9</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 10
+<a name="SEMANA_10">10</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 11
+<a name="SEMANA_11">11</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 12
+<a name="SEMANA_12">12</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 13
+<a name="SEMANA_13">13</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 14
+<a name="SEMANA_14">14</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 15
+<a name="SEMANA_15">15</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 16
+<a name="SEMANA_16">16</a>
+
+[Ir a inicio](#inicio)
+## SEMANA 17
+<a name="SEMANA_17">17</a>
+
+[Ir a inicio](#inicio)
 
 
 
