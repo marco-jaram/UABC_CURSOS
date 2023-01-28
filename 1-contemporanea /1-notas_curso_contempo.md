@@ -1,5 +1,6 @@
 # Notas Filosofia contemporanea
 # Sistema a base de preguntas y listas de temas y fundamentos
+<a name="inicio">INICIO</a>
 * [SEMANA_1](#SEMANA_1)
 * [SEMANA_2](#SEMANA_2)
 * [SEMANA_3](#SEMANA_3)
@@ -80,6 +81,7 @@ manra mas abstracta que se puedan imaginal
 ## SEMANA 1
 <a name="SEMANA_1">SEMANA 1</a>
 ## SEMANA 2
+[Ir a inicio](#inicio)
 <a name="SEMANA_2">SEMANA 1</a>
 ## SEMANA 3
 <a name="SEMANA_3">SEMANA 3</a>
