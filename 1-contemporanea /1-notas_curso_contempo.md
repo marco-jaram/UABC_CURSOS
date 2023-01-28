@@ -90,7 +90,7 @@ manra mas abstracta que se puedan imaginal
 <a name="SEMANA_3">3</a>
 
 [Ir a inicio](#inicio)
-## SEMAN 4
+## SEMANA 4
 <a name="SEMANA_4">4</a>
 
 [Ir a inicio](#inicio)
