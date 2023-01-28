@@ -1,22 +1,22 @@
 # Notas Filosofia contemporanea
 # Sistema a base de preguntas y listas de temas y fundamentos
 * [SEMANA_1](#SEMANA_1)
-* [SEMANA_2]()
-* [SEMANA_3]()
-* [SEMANA_4]()
-* [SEMANA_5]()
-* [SEMANA_6]()
-* [SEMANA_7]()
-* [SEMANA_8]()
-* [SEMANA_9]()
+* [SEMANA_2](#SEMANA_2)
+* [SEMANA_3](#SEMANA_3)
+* [SEMANA_4](#SEMANA_4)
+* [SEMANA_5](#SEMANA_5)
+* [SEMANA_6](#SEMANA_6)
+* [SEMANA_7](#SEMANA_7)
+* [SEMANA_8](#SEMANA_8)
+* [SEMANA_9](#SEMANA_9)
 * [SEMANA_10](#SEMANA_10)
-* [SEMANA_11]()
-* [SEMANA_12]()
-* [SEMANA_13]()
-* [SEMANA_14]()
-* [SEMANA_15]()
-* [SEMANA_16]()
-* [SEMANA_17]()
+* [SEMANA_11](#SEMANA_11)
+* [SEMANA_12](#SEMANA_12)
+* [SEMANA_13](#SEMANA_13)
+* [SEMANA_14](#SEMANA_14)
+* [SEMANA_15](#SEMANA_15)
+* [SEMANA_16](#SEMANA_16)
+* [SEMANA_17](#SEMANA_17)
 
 
 
@@ -78,22 +78,23 @@ primero el yo, no es el empirico, es paecido al sjeto en kant
 luego lo absolutmente incondicionado, debe ser incondiciona ndo de la
 manra mas abstracta que se puedan imaginal 
 
-## SEMANA 2
-## SEMANA 3
-## SEMANA 4
-## SEMANA 5
-## SEMANA 6
-## SEMANA 7
-## SEMANA 8
-## SEMANA 9
-<a name="SEMANA_10">## SEMANA 10</a>
-## SEMANA 11
-## SEMANA 12
-## SEMANA 13
-## SEMANA 14
-## SEMANA 15
-## SEMANA 16
-## SEMANA 17
+<a name="SEMANA_1">SEMANA 1</a>
+<a name="SEMANA_2">SEMANA 1</a>
+<a name="SEMANA_3">SEMANA 3</a>
+<a name="SEMANA_4">SEMANA 4</a>
+<a name="SEMANA_5">SEMANA 5</a>
+<a name="SEMANA_6">SEMANA 6</a>
+<a name="SEMANA_7">SEMANA 7</a>
+<a name="SEMANA_8">SEMANA 8</a>
+<a name="SEMANA_9">SEMANA 9</a>
+<a name="SEMANA_10">SEMANA 10</a>
+<a name="SEMANA_11">SEMANA 11</a>
+<a name="SEMANA_12">SEMANA 12</a>
+<a name="SEMANA_13">SEMANA 13</a>
+<a name="SEMANA_14">SEMANA 14</a>
+<a name="SEMANA_15">SEMANA 15</a>
+<a name="SEMANA_16">SEMANA 16</a>
+<a name="SEMANA_17">SEMANA 17</a>
 
 
 
