@@ -1,6 +1,27 @@
 # Notas Filosofia contemporanea
 # Sistema a base de preguntas y listas de temas y fundamentos
-## SEMANA 1
+* [SEMANA_1](#SEMANA_1)
+* [SEMANA_2]()
+* [SEMANA_3]()
+* [SEMANA_4]()
+* [SEMANA_5]()
+* [SEMANA_6]()
+* [SEMANA_7]()
+* [SEMANA_8]()
+* [SEMANA_9]()
+* [SEMANA_10](#SEMANA_10)
+* [SEMANA_11]()
+* [SEMANA_12]()
+* [SEMANA_13]()
+* [SEMANA_14]()
+* [SEMANA_15]()
+* [SEMANA_16]()
+* [SEMANA_17]()
+
+
+
+
+<a name="SEMANA_1">## SEMANA 1</a>
 
 ### Romainticismo intro
 Siglo XIX
@@ -65,7 +86,7 @@ manra mas abstracta que se puedan imaginal
 ## SEMANA 7
 ## SEMANA 8
 ## SEMANA 9
-## SEMANA 10
+<a name="SEMANA_10">## SEMANA 10</a>
 ## SEMANA 11
 ## SEMANA 12
 ## SEMANA 13
@@ -222,33 +243,6 @@ categorizar lo que encontre en la epoje
 
 
 ## Sartre
-Para examen asociaciones
-Relaciona cada concepto con el autor existencialista
-Indicaciones
-Respuestas
-
-    1. Jaspers
-Naufragio
-    2.Unamuno
-    Abismo
-    3.Heidegger
-    La caída
-    4.Sartre
-    El infierno
-
-Qué significa  el ser del ser ahí esta en estado abierto
-Elija al menos una respuesta correcta.
-
-    Respuesta 1
-
-    ====El ser del ser ahí no es definible====
-    Respuesta correcta
-    Respuesta 2
-
-    El ser del ser ahí es definible
-    Respuesta 3
-
-    el ser del ser ahí es descriptible
 
 
 ## Existencialismo=
