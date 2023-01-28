@@ -1,6 +1,7 @@
 # Notas Filosofia contemporanea
 # Sistema a base de preguntas y listas de temas y fundamentos
 <a name="inicio">INICIO</a>
+
 * [SEMANA_1](#SEMANA_1)
 * [SEMANA_2](#SEMANA_2)
 * [SEMANA_3](#SEMANA_3)
@@ -20,9 +21,11 @@
 * [SEMANA_17](#SEMANA_17)
 
 
+<a name="SEMANA_1">1</a>
 
 ## SEMANA 1
-<a name="SEMANA_1">01</a>
+
+
 
 ### Romainticismo intro
 Siglo XIX
@@ -33,17 +36,24 @@ Siglo XIX
 * El sentimiento como fundamento
 * Lo desborde de los límites
 * Nuevo clasicismo ¿cual es el viejo clasicismo?
-* 
+  
 #### Clásico: simetría, unidad, armonía
-#### El david, Niguel Angel
-![Miguel angel](/1-contemporanea%20/1-images/El_david_MiguelAngel_1504dc.png)
+#### El david, Miguel Angel
+![Miguel Angel](/1-contemporanea%20/1-images/El_david_MiguelAngel_1504dc.png)
 [![El-david-Miguel-Angel-1504dc.jpg](https://i.postimg.cc/prG1yj6s/El-david-Miguel-Angel-1504dc.jpg)](https://postimg.cc/m19S5PR9)
 
-#### Perseo copn la cabeza de medusa
-![Miguel angel](/1-contemporanea%20/1-images/Perseo_c_Nedusa_1800dcneoClasico.jpg)
 
-[![Perseo-c-Nedusa-1800dcneo-Clasico.jpg](https://i.postimg.cc/Bn1wQXcC/Perseo-c-Nedusa-1800dcneo-Clasico.jpg)](https://postimg.cc/yDsTL6GJ)
+#### Perseo con la cabeza de medusa
+
+[![Perseo](https://i.postimg.cc/Bn1wQXcC/Perseo-c-Nedusa-1800dcneo-Clasico.jpg)](https://postimg.cc/yDsTL6GJ)
+
+![Perseo](/1-contemporanea%20/1-images/Perseo_c_Nedusa_1800dcneoClasico.jpg)
+
+#### Jardines
+![jardines](/1-contemporanea%20/1-images/jardin_neoclasico.jpg)
+
 ## Los romanticos
+### Goya (1820), Saturno devorando a su hijo
 ![Goya 1820](/1-contemporanea%20/1-images/Saturno_devorando_a_su__hijo.jpg)
 
 [![Saturno-devorando-a-su-hijo.jpg](https://i.postimg.cc/5y6S7Rsm/Saturno-devorando-a-su-hijo.jpg)](https://postimg.cc/D43GmBkW)
@@ -55,6 +65,8 @@ Siglo XIX
  * El juez y su hijo
 
 [![PORTADA-laspenasdel-jove.jpg](https://i.postimg.cc/xjvLSZp8/PORTADA-laspenasdel-jove.jpg)](https://postimg.cc/HjLrw6g1)
+
+![Las pena del Joven](/1-contemporanea%20/1-images/PORTADA_laspenasdel%20jove.jpg)
 
 # En folosofia el romanticismo esta marcado por lo siguiente
 * La razon infinita
@@ -78,72 +90,111 @@ algunas idelas
 primero el yo, no es el empirico, es paecido al sjeto en kant
 luego lo absolutmente incondicionado, debe ser incondiciona ndo de la
 manra mas abstracta que se puedan imaginal 
-## SEMANA 1
-<a name="SEMANA_1">1</a>
 
-[Ir a inicio](#inicio)
-## SEMANA 2
+
+
+
 <a name="SEMANA_2">2</a>
 
+## SEMANA 2
+
+
 [Ir a inicio](#inicio)
-## SEMANA 3
+
 <a name="SEMANA_3">3</a>
 
+## SEMANA 3
+
 [Ir a inicio](#inicio)
-## SEMANA 4
+
 <a name="SEMANA_4">4</a>
 
+## SEMANA 4
+
+
 [Ir a inicio](#inicio)
-## SEMANA 5
+
 <a name="SEMANA_5">5</a>
 
+## SEMANA 5
+
+
 [Ir a inicio](#inicio)
-## SEMANA 6
 <a name="SEMANA_6">6</a>
 
+## SEMANA 6
+
+
 [Ir a inicio](#inicio)
-## SEMANA 7
 <a name="SEMANA_7">7</a>
 
+## SEMANA 7
+
+
 [Ir a inicio](#inicio)
-## SEMANA 8
 <a name="SEMANA_8">8</a>
 
+## SEMANA 8
+
+
 [Ir a inicio](#inicio)
-## SEMANA 9
+
 <a name="SEMANA_9">9</a>
 
+## SEMANA 9
+
+
 [Ir a inicio](#inicio)
-## SEMANA 10
+
 <a name="SEMANA_10">10</a>
 
+## SEMANA 10
+
+
 [Ir a inicio](#inicio)
-## SEMANA 11
+
 <a name="SEMANA_11">11</a>
 
+## SEMANA 11
+
+
 [Ir a inicio](#inicio)
-## SEMANA 12
+
 <a name="SEMANA_12">12</a>
 
+## SEMANA 12
+
+
 [Ir a inicio](#inicio)
-## SEMANA 13
+
 <a name="SEMANA_13">13</a>
 
+## SEMANA 13
+
+
 [Ir a inicio](#inicio)
-## SEMANA 14
 <a name="SEMANA_14">14</a>
 
+## SEMANA 14
+
+
 [Ir a inicio](#inicio)
-## SEMANA 15
 <a name="SEMANA_15">15</a>
 
-[Ir a inicio](#inicio)
-## SEMANA 16
-<a name="SEMANA_16">16</a>
+## SEMANA 15
+
 
 [Ir a inicio](#inicio)
-## SEMANA 17
+<a name="SEMANA_16">16</a>
+
+## SEMANA 16
+
+
+[Ir a inicio](#inicio)
 <a name="SEMANA_17">17</a>
+
+## SEMANA 17
+
 
 [Ir a inicio](#inicio)
 
