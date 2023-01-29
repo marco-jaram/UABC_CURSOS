@@ -5,24 +5,13 @@
 
 ### II. PROPÓSITO GENERAL DEL CURSO 
 Filosofía Contemporánea abarca las principales posturas filosóficas emergidas en
-el siglo XIX y el siglo XX. Esta asignatura está relacionada con asignaturas como
-filosofía antigua, medieval, moderna, así como a áreas en las que interviene el
-análisis de la actualidad. El propósito general consiste en que el alumno comprenda
-el  desarrollo del pensamiento de la filosofía occidental de nuestro tiempo para
-sensibilizar en el área de la historia de la filosofía.
+el siglo XIX y el siglo XX. Esta asignatura está relacionada con asignaturas como filosofía antigua, medieval, moderna, así como a áreas en las que interviene el análisis de la actualidad. El propósito general consiste en que el alumno comprenda el  desarrollo del pensamiento de la filosofía occidental de nuestro tiempo para sensibilizar en el área de la historia de la filosofía.
 
 
 ### III.  COMPETENCIA(S)  DEL CURSO
-Analiza la
-s distintas posturas filosóficas del siglo XIX y el XX.
-Analiza la polémica entre idealismo, materialismo y positivismo durante el siglo XIX
-(alcance, vigencia, causas, origen, argumentos) mediante el estudio y discusión de
-las fuentes bibliográficas pertinentes, asumiendo con apertura y distancia el debate
-de las ideas.
-Analiza las transformaciones del marxismo y el positivismo, así como el surgimiento
-y desarrollo del existencialismo, el estructuralismo y otras formas del pensar 
-durante el siglo XX, mediante el análisis y discusión de las fuentes bibliográficas
-pertinentes, asumiendo un compromiso con ser un pensador de su tiempo y para su tiempo.
+Analiza las distintas posturas filosóficas del siglo XIX y el XX.
+Analiza la polémica entre idealismo, materialismo y positivismo durante el siglo XIX (alcance, vigencia, causas, origen, argumentos) mediante el estudio y discusión de las fuentes bibliográficas pertinentes, asumiendo con apertura y distancia el debate de las ideas.
+Analiza las transformaciones del marxismo y el positivismo, así como el surgimiento y desarrollo del existencialismo, el estructuralismo y otras formas del pensar durante el siglo XX, mediante el análisis y discusión de las fuentes bibliográficas pertinentes, asumiendo un compromiso con ser un pensador de su tiempo y para su tiempo.
 
 Evalua y discute distintos textos filosóficos desde una perspectiva actual.
 ### IV EVIDENCIAS DE DESEMPEÑO
@@ -34,8 +23,7 @@ Evalua y discute distintos textos filosóficos desde una perspectiva actual.
 
 
 **Competencias:**
-* Analiza la postura de filósofos clave mediante la lectura de textos para confrontar 
-    las tesis principales. Dialogando crítica y respetuosamente.
+* Analiza la postura de filósofos clave mediante la lectura de textos para confrontar las tesis principales. Dialogando crítica y respetuosamente.
 
 **Contenido:**
 

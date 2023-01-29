@@ -58,7 +58,7 @@ Siglo XIX
 
 [![Saturno-devorando-a-su-hijo.jpg](https://i.postimg.cc/5y6S7Rsm/Saturno-devorando-a-su-hijo.jpg)](https://postimg.cc/D43GmBkW)
 
- los sentimientos no se van
+ * los sentimientos no se van
 ![Goya 1820](/1-contemporanea%20/1-images/Delacroix_La%20libertad%20guiando%20al%20pueblo.jpg)
 
  * Te ganan los sentimientos
@@ -68,28 +68,88 @@ Siglo XIX
 
 ![Las pena del Joven](/1-contemporanea%20/1-images/PORTADA_laspenasdel%20jove.jpg)
 
-# En folosofia el romanticismo esta marcado por lo siguiente
+# En filosofia el romanticismo esta marcado por lo siguiente
 * La razon infinita
+## LA POLEMICA SOBRE EL KANTISMO
+REINHOLD
+> En Alemania, la filosofía de Kant apareció como la conclusión
+definitiva de una crisis secular del pensamiento humano y el comienzo de
+una nueva época en la que la filosofía alemana habría debido asumir la
+función de guía de todo el pensamiento europeo.
+Hólderlin podía aficmar: "Kant es el Moisés de nuestra nación...
+
+> Lo representante y lo representado son el sujeto y el objeto...
+de la conciencia; sin objeto ni sujeto no hay ninguna representación, de
+modo que son ellos los que constituyen las condiciones intrínsecas de la
+representación misma.
+
+> El sujeto es, pues, el origen de la forma
+y no de la materia de la representación. La forma es producida por el
+sujeto, o sea, por su espontaneidad...
+
+> Con esta reducción de la cosa en sí a un simple concepto,
+Reinhold ha eliminado (sin quererlo) uno de los pilares del criticismo
+y ha abierto el camino a su interpretación idealista...
 
 
+> la interpretación de Reinhold venía a ser la aceptada
+generalmente en el ambiente filosófico de la época y a ella se refieren, positiva
+o polémicamente, Fichte, Maimón, Schelling, Hegel y Schopenhauer. -N. Abbagnano
 
-### Fichte
-primer principio
-a es , entonces a es
+## EL ROMANCISIMO
+> ...alcanzó su máximo florecimiento en toda Europa durante los primeros decenios del siglo XIX.
+
+> El significado corriente del término "romántico" [] equivale a "sentimental"...
+
+> [EL] movimiento Sturm und Drang (§ 536) que había contrapuesto el
+sentimiento, y con éste la fe o la intuición mística o la acción, frente a la
+razón, considerada incapaz, en los límites prescritos a ella por Kant, de
+alcanzar la sustancia de las cosas o las cosas superiores y divinas.
+#### Interpretaciones del romaticismo
+##### Primera
+> Sturm una Drang,
+considera el infinito como sentimiento, o sea, como actividad libre,
+carente de determinaciones o mas allá de toda determinación
+##### Segunda
+>La segunda interpretación entendía el infinito como Razón absoluta
+
+> ... predominó en las grandes figuras del idealismo romántico, Fichte, Schelling y Hegel,
+* rasgo principal del principio romantico 
+* lo finito manifiesta lo infinito
+  
+>La ironía es otro rasgo fundamental del romanticismo del sentimiento.
+
+> la ironía consiste en no tomar en serio y negarse a
+considerar como sólidas las manifestaciones particulares del infinito (la
+naturaleza, el arte, el yo, Dios mismo) en cuanto que no son más que
+expresiones provisionales del mismo.
+
+> La otra interpretación fundamental del principio romántico, la que lo
+considera como infinita Razón, ve la revelación mas elevada del mismo en la
+filosofía.
+
+Diagrama:
+[ Ver diagrama de romanticismo](https://lucid.app/lucidchart/9bbb39d5-4c7c-4327-8bcd-bfbb7208a7a9/edit?viewport_loc=-59%2C-19%2C1879%2C1357%2C0_0&invitationId=inv_49438998-2694-4c8f-852a-9749b7620fb2)
+
+
+## Fichte
+Juan Teófilo Fichte nació en Rammenau el 19 de mayo de 1762, de
+familia muy pobre.
+
+> "Yo estoy llamado, escribe (Werke, VI,
+p. 333), a dar testimonio de la verdad... Soy un sacerdote de la verdad; estoy
+a sueldo suyo, me he comprometido a hacerlo todo, a arriesgarlo todo, a
+sufrirlo todo por ella."
 
 ![fichte.jpg](/1-contemporanea%20/1-images/fichte.jpg)
 
 
 [![fichte.jpg](https://i.postimg.cc/pXr640m4/fichte.jpg)](https://postimg.cc/BXWp1BcB)
+primer principio
+a es , entonces a es
 
 
-como exponer a fichte 
-es uy abstracto y por eso no es nada facil exponerlo
-pero debe haber una forma inclsio chsitosa de poder exponerlo vemoas
-algunas idelas
-primero el yo, no es el empirico, es paecido al sjeto en kant
-luego lo absolutmente incondicionado, debe ser incondiciona ndo de la
-manra mas abstracta que se puedan imaginal 
+[Ir a inicio](#inicio)
 
 
 
