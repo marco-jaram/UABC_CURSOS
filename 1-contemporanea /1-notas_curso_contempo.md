@@ -1,5 +1,6 @@
 # Notas Filosofia contemporanea
 # Sistema a base de preguntas y listas de temas y fundamentos
+# Inicio
 <a name="inicio">INICIO</a>
 
 * [SEMANA_1](#SEMANA_1)
@@ -23,11 +24,12 @@
 
 <a name="SEMANA_1">1</a>
 
-## SEMANA 1
+# SEMANA 1
 
 
 
-### Romainticismo intro
+**Romainticismo intro**
+
 Siglo XIX
 * La libertad y los limites
 * No hay lmites y lo voy a demostrar
@@ -37,23 +39,23 @@ Siglo XIX
 * Lo desborde de los límites
 * Nuevo clasicismo ¿cual es el viejo clasicismo?
   
-#### Clásico: simetría, unidad, armonía
-#### El david, Miguel Angel
+**Clásico: simetría, unidad, armonía**
+**El david, Miguel Angel**
 ![Miguel Angel](/1-contemporanea%20/1-images/El_david_MiguelAngel_1504dc.png)
 [![El-david-Miguel-Angel-1504dc.jpg](https://i.postimg.cc/prG1yj6s/El-david-Miguel-Angel-1504dc.jpg)](https://postimg.cc/m19S5PR9)
 
 
-#### Perseo con la cabeza de medusa
+ **Perseo con la cabeza de medusa**
 
 [![Perseo](https://i.postimg.cc/Bn1wQXcC/Perseo-c-Nedusa-1800dcneo-Clasico.jpg)](https://postimg.cc/yDsTL6GJ)
 
 ![Perseo](/1-contemporanea%20/1-images/Perseo_c_Nedusa_1800dcneoClasico.jpg)
 
-#### Jardines
+**Jardines**
 ![jardines](/1-contemporanea%20/1-images/jardin_neoclasico.jpg)
 
-## Los romanticos
-### Goya (1820), Saturno devorando a su hijo
+**Los romanticos**
+**Goya (1820), Saturno devorando a su hijo**
 ![Goya 1820](/1-contemporanea%20/1-images/Saturno_devorando_a_su__hijo.jpg)
 
 [![Saturno-devorando-a-su-hijo.jpg](https://i.postimg.cc/5y6S7Rsm/Saturno-devorando-a-su-hijo.jpg)](https://postimg.cc/D43GmBkW)
@@ -68,9 +70,9 @@ Siglo XIX
 
 ![Las pena del Joven](/1-contemporanea%20/1-images/PORTADA_laspenasdel%20jove.jpg)
 
-# En filosofia el romanticismo esta marcado por lo siguiente
+### En filosofia el romanticismo esta marcado por lo siguiente
 * La razon infinita
-## LA POLEMICA SOBRE EL KANTISMO
+### LA POLEMICA SOBRE EL KANTISMO
 REINHOLD
 > En Alemania, la filosofía de Kant apareció como la conclusión
 definitiva de una crisis secular del pensamiento humano y el comienzo de
@@ -96,7 +98,7 @@ y ha abierto el camino a su interpretación idealista...
 generalmente en el ambiente filosófico de la época y a ella se refieren, positiva
 o polémicamente, Fichte, Maimón, Schelling, Hegel y Schopenhauer. -N. Abbagnano
 
-## EL ROMANCISIMO
+### EL ROMANCISIMO
 > ...alcanzó su máximo florecimiento en toda Europa durante los primeros decenios del siglo XIX.
 
 > El significado corriente del término "romántico" [] equivale a "sentimental"...
@@ -132,7 +134,7 @@ Diagrama:
 [ Ver diagrama de romanticismo](https://lucid.app/lucidchart/9bbb39d5-4c7c-4327-8bcd-bfbb7208a7a9/edit?viewport_loc=-59%2C-19%2C1879%2C1357%2C0_0&invitationId=inv_49438998-2694-4c8f-852a-9749b7620fb2)
 
 
-## Fichte
+### Fichte
 Juan Teófilo Fichte nació en Rammenau el 19 de mayo de 1762, de
 familia muy pobre.
 
@@ -156,92 +158,92 @@ a es , entonces a es
 
 <a name="SEMANA_2">2</a>
 
-## SEMANA 2
+# SEMANA 2
 
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_3">3</a>
 
-## SEMANA 3
+# SEMANA 3
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_4">4</a>
 
-## SEMANA 4
+# SEMANA 4
 
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_5">5</a>
 
-## SEMANA 5
+# SEMANA 5
 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_6">6</a>
 
-## SEMANA 6
+# SEMANA 6
 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_7">7</a>
 
-## SEMANA 7
+# SEMANA 7
 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_8">8</a>
 
-## SEMANA 8
+# SEMANA 8
 
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_9">9</a>
 
-## SEMANA 9
+# SEMANA 9
 
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_10">10</a>
 
-## SEMANA 10
-
+# SEMANA 10
+**VACACIONES**
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_11">11</a>
 
-## SEMANA 11
+# SEMANA 11
 
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_12">12</a>
 
-## SEMANA 12
+# SEMANA 12
 
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_13">13</a>
 
-## SEMANA 13
+# SEMANA 13
 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_14">14</a>
 
-## SEMANA 14
+# SEMANA 14
 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_15">15</a>
 
-## SEMANA 15
+# SEMANA 15
 
 
 [Ir a inicio](#inicio)
@@ -253,7 +255,7 @@ a es , entonces a es
 [Ir a inicio](#inicio)
 <a name="SEMANA_17">17</a>
 
-## SEMANA 17
+# SEMANA 17
 
 
 [Ir a inicio](#inicio)

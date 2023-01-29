@@ -1,25 +1,25 @@
 
 # PUA Filosofia contemporeanea 
-## I. Filosofía Contemporánea (siglos XIX-XX)
+# I. Filosofía Contemporánea (siglos XIX-XX)
+ 
 
-
-### II. PROPÓSITO GENERAL DEL CURSO 
+# II. PROPÓSITO GENERAL DEL CURSO 
 Filosofía Contemporánea abarca las principales posturas filosóficas emergidas en
 el siglo XIX y el siglo XX. Esta asignatura está relacionada con asignaturas como filosofía antigua, medieval, moderna, así como a áreas en las que interviene el análisis de la actualidad. El propósito general consiste en que el alumno comprenda el  desarrollo del pensamiento de la filosofía occidental de nuestro tiempo para sensibilizar en el área de la historia de la filosofía.
 
 
-### III.  COMPETENCIA(S)  DEL CURSO
+# III.  COMPETENCIA(S)  DEL CURSO
 Analiza las distintas posturas filosóficas del siglo XIX y el XX.
 Analiza la polémica entre idealismo, materialismo y positivismo durante el siglo XIX (alcance, vigencia, causas, origen, argumentos) mediante el estudio y discusión de las fuentes bibliográficas pertinentes, asumiendo con apertura y distancia el debate de las ideas.
 Analiza las transformaciones del marxismo y el positivismo, así como el surgimiento y desarrollo del existencialismo, el estructuralismo y otras formas del pensar durante el siglo XX, mediante el análisis y discusión de las fuentes bibliográficas pertinentes, asumiendo un compromiso con ser un pensador de su tiempo y para su tiempo.
 
 Evalua y discute distintos textos filosóficos desde una perspectiva actual.
-### IV EVIDENCIAS DE DESEMPEÑO
-### V. DESARROLLO POR UNIDADES 
+# IV EVIDENCIAS DE DESEMPEÑO
+# V. DESARROLLO POR UNIDADES 
 
 
 
-### UNIDAD I.  La filosofía del siglo XIX
+# UNIDAD I.  La filosofía del siglo XIX
 
 
 **Competencias:**
@@ -46,7 +46,7 @@ Evalua y discute distintos textos filosóficos desde una perspectiva actual.
 
 
 
-### UNIDAD II. La filosofía del siglo XX primera parte 
+# UNIDAD II. La filosofía del siglo XX primera parte 
 
 **Competencias**
 Analiza las tesis principales de las corrientes filosóficas de la primera
@@ -70,7 +70,7 @@ mitad del siglo XX mediante fuentes primarias con una actitud crítica.
 
 
 
-### UNIDAD III. La filosofía del siglo XX, segunda mitad de siglo. 
+# UNIDAD III. La filosofía del siglo XX, segunda mitad de siglo. 
 
 **Competencias**
 * Interpreta y discute distintos textos filosóficos desde una perspectiva actual. 
@@ -92,7 +92,7 @@ mitad del siglo XX mediante fuentes primarias con una actitud crítica.
 
 
 
-### VI.  CRITERIOS DE EVALUACIÓN 
+# VI.  CRITERIOS DE EVALUACIÓN 
 La evaluación será llevada a cabo de forma permanente durante el desarrollo
 de la unidad de aprendizaje de la siguiente manera: 
 
@@ -112,9 +112,9 @@ Calificación en escala del 0 al 100, con un mínimo aprobatorio de 60.
 
 
 
-### VII.  BIBLIOGRAFÍA  
+# VII.  BIBLIOGRAFÍA  
 
-#### Basica
+## Basica
 * Bergson, H. (1996) Introducción a la Metafísica. México, Porrúa.
 * Comte, A. (2006) La filosofía positiva. México. Porrúa.
 * Nietzsche, F. (1993) Crepúsculo de los ídolos. Madrid, Alianza.
@@ -135,7 +135,7 @@ Calificación en escala del 0 al 100, con un mínimo aprobatorio de 60.
 * Johannes Hirschberger. ( ). Historia de la Filosofía - III.  Filosofía del Siglo XX. Madrid
 * Lyotard, J.F. (1998) La condición posmoderna. Barcelona, Catedra.
 
-#### Complementaria
+## Complementaria
 * Deleuze, G. y Guattari, F. (2001) ¿Qué es la filosofía? Barcelona, Anagrama.
 * García-Borrón, J.C. (1998) Historia de la Filosofía III. Barcelona, Ediciones del Serbal.
 * Piaget, J. (1995) El estructuralismo. México, Publicaciones Cruz.
