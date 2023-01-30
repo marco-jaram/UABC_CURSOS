@@ -22,16 +22,16 @@ textoslas tesis principales. Dialogando crítica y respetuosamente.
 |--------|-------------------------------|----------------|-----------------|-------|
 | 1 []   | Presentación                  | Foro           | Escrito en foro |       |
 | 1 []   | 1.1.0 **Romanticismo**        |                |                 |       |
-| 2 [][] | 1.1.2 Fichte                  | Autoevaluacion | Autoevaluacion  |       |
-| 3 []   | 1.1.3 Schelling               | Antologia      | Autoevaluacion  |       |
-| 3 []   | 1.1.4 Hegel                   | Antologia      | Autoevaluacion  |       |
+| 2 [][] | 1.1.2 Fichte                  | Autoevaluación | Autoevaluación  |       |
+| 3 []   | 1.1.3 Schelling               | Antología      | Autoevaluación  |       |
+| 3 []   | 1.1.4 Hegel                   | Antología      | Autoevaluación  |       |
 | -      | 1.2.0 **Izquierda hegeliana** |                |                 |       |
 | 4 []   | 1.2.1 Max Stirner             |                |                 |       |
 | 4 []   | 1.2.2 Karl Marx               |                |                 |       |
 | -      | 1.3.0 **Vitalismo**           | Investiga      | Reporte e       |       |
-| 5 []   | 1.3.1 Schopunhauer            | Investiga      |                 |       |
+| 5 []   | 1.3.1 Schopenhauer            | Investiga      |                 |       |
 | 5 []   | 1.3.2 Nietzsche               | Investiga      |                 |       |
-| 6 []   | 1.3.3 Bergson                 |                | Autoevaluacion  |       |
+| 6 []   | 1.3.3 Bergson                 |                | Autoevaluación  |       |
 | 6 []   | **EXAMEN PARCIAL 1**          |                |                 |       |
 
 

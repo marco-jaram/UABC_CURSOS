@@ -101,11 +101,11 @@ Para tener derecho a examen ordinario y extraordinario, el estudiante debe
 cumplir con los porcentajes de asistencia que establece el Estatuto Escolar vigente.
 Calificación en escala del 0 al 100, con un mínimo aprobatorio de 60.
 
-| Criterio de evaluacion | Porcentaje |
+| Criterio de evaluación | Porcentaje |
 |------------------------|------------|
 | Autoevaluaciones       | 60%        |
-| Examenes parciales     | 20%        |
-| Exposicion             | 20%        |
+| Exámenes parciales     | 20%        |
+| Exposición             | 20%        |
 | Total                  | 100%       |
 
 
@@ -114,7 +114,7 @@ Calificación en escala del 0 al 100, con un mínimo aprobatorio de 60.
 
 # VII.  BIBLIOGRAFÍA  
 
-## Basica
+## Básica
 * Bergson, H. (1996) Introducción a la Metafísica. México, Porrúa.
 * Comte, A. (2006) La filosofía positiva. México. Porrúa.
 * Nietzsche, F. (1993) Crepúsculo de los ídolos. Madrid, Alianza.

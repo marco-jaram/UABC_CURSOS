@@ -1,19 +1,19 @@
-# Antologia de textos
-#### Filosofia contemporanea
+# Antología de textos
+#### Filosofía contemporánea
 https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=share_link
 
 ##### Solo puedes acceder con tu correo de uabc
 
 * feminismo/ carpeta
 * 1 Fragmento-Fichte-Doctrina-de-La-Ciencia-1794.pdf
-* 2 Fragmento. Schelling_Escritos sobre la filosofia de la naturaleza primera parte.pdf
-* 3 Fragmento. Schelling_Escritos sobre la filosofia de la naturaleza (Segunda parte).pdf
-* 4 Fragmentos_Hegel Fenomenologia  tr. Jimenez editado2020.pdf
+* 2 Fragmento. Schelling_Escritos sobre la filosofía de la naturaleza primera parte.pdf
+* 3 Fragmento. Schelling_Escritos sobre la filosofía de la naturaleza (Segunda parte).pdf
+* 4 Fragmentos_Hegel Fenomenología  tr. Jimenez editado2020.pdf
 * 5 FRAGMENTO_ MI PODER_Max-Stirner-El-Único-y-Su-Propiedad.pdf
 * 6 FRAGMENTO_ Marx-Karl-Manuscritos-Economía-y-Filosofía-Ed.-Alianza.pdf
 * 7 Fragmento_El-Capital-(prólogo y acumulación originaria).pdf
 * 8 Fragmento_ Schopenhauer. El mundo como voluntad.pdf
-* 9 FRAGMENTO_Nietzsche-Genealogia-de-La-Moral.pdf
+* 9 FRAGMENTO_Nietzsche-Genealogía-de-La-Moral.pdf
 * 10 Fragmento_Wilhelm-Nietzsche-Friedrich-De-La-Gaya-Ciencia.pdf
 * 11 Fragmento2_Friedrich-Nietzsche-Voluntad-de-Poder.pdf
 * 12 Fragmento2-Curso-de-Filosofia-Positiva-Comte.pdf
@@ -31,7 +31,7 @@ https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=sha
 * Hegel-Fenomenologia-Del-Espiritu.pdf
 
 
-## Libros de historia de la filosfia
+## Libros de historia de la filosofía
 https://drive.google.com/drive/folders/1jRdhyK4GpHz08QkGIAl0-yF86zBptSBV?usp=sharing
 
 #### Obra principal para este curso:

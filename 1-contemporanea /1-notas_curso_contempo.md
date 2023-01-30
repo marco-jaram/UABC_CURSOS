@@ -32,7 +32,7 @@
 
 Siglo XIX
 * La libertad y los limites
-* No hay lmites y lo voy a demostrar
+* No hay límites y lo voy a demostrar
 *  
 * Ruptura con lo clásico
 * El sentimiento como fundamento
@@ -40,7 +40,7 @@ Siglo XIX
 * Nuevo clasicismo ¿cual es el viejo clasicismo?
   
 **Clásico: simetría, unidad, armonía**
-**El david, Miguel Angel**
+**El David, Miguel Angel**
 ![Miguel Angel](/1-contemporanea%20/1-images/El_david_MiguelAngel_1504dc.png)
 [![El-david-Miguel-Angel-1504dc.jpg](https://i.postimg.cc/prG1yj6s/El-david-Miguel-Angel-1504dc.jpg)](https://postimg.cc/m19S5PR9)
 
@@ -54,7 +54,7 @@ Siglo XIX
 **Jardines**
 ![jardines](/1-contemporanea%20/1-images/jardin_neoclasico.jpg)
 
-**Los romanticos**
+**Los románticos**
 **Goya (1820), Saturno devorando a su hijo**
 ![Goya 1820](/1-contemporanea%20/1-images/Saturno_devorando_a_su__hijo.jpg)
 
@@ -70,15 +70,15 @@ Siglo XIX
 
 ![Las pena del Joven](/1-contemporanea%20/1-images/PORTADA_laspenasdel%20jove.jpg)
 
-### En filosofia el romanticismo esta marcado por lo siguiente
-* La razon infinita
-### LA POLEMICA SOBRE EL KANTISMO
+### En filosofía el romanticismo esta marcado por lo siguiente
+* La razón infinita
+### LA POLÉMICA SOBRE EL KANTISMO
 REINHOLD
 > En Alemania, la filosofía de Kant apareció como la conclusión
 definitiva de una crisis secular del pensamiento humano y el comienzo de
 una nueva época en la que la filosofía alemana habría debido asumir la
 función de guía de todo el pensamiento europeo.
-Hólderlin podía aficmar: "Kant es el Moisés de nuestra nación...
+Hólderlin podía afirmar: "Kant es el Moisés de nuestra nación...
 
 > Lo representante y lo representado son el sujeto y el objeto...
 de la conciencia; sin objeto ni sujeto no hay ninguna representación, de
@@ -107,7 +107,7 @@ o polémicamente, Fichte, Maimón, Schelling, Hegel y Schopenhauer. -N. Abbagnan
 sentimiento, y con éste la fe o la intuición mística o la acción, frente a la
 razón, considerada incapaz, en los límites prescritos a ella por Kant, de
 alcanzar la sustancia de las cosas o las cosas superiores y divinas.
-#### Interpretaciones del romaticismo
+#### Interpretaciones del romanticismo
 ##### Primera
 > Sturm una Drang,
 considera el infinito como sentimiento, o sea, como actividad libre,
@@ -116,7 +116,7 @@ carente de determinaciones o mas allá de toda determinación
 >La segunda interpretación entendía el infinito como Razón absoluta
 
 > ... predominó en las grandes figuras del idealismo romántico, Fichte, Schelling y Hegel,
-* rasgo principal del principio romantico 
+* rasgo principal del principio romántico 
 * lo finito manifiesta lo infinito
   
 >La ironía es otro rasgo fundamental del romanticismo del sentimiento.
@@ -264,108 +264,108 @@ a es , entonces a es
 
 
 
-## Helgel, reisar pdf presentaciones=
-fechas y sus contemporaneaos
-la fenomenologia del espiritu
-genral
-Ideas del proglogo
-filosfia y ciencia
+## Helgel
+fechas y sus contemporáneas
+la fenomenología del espíritu
+general
+Ideas del prologo
+filosofía y ciencia
 el capullo
-el saber y la revelacion
-Vet introduccion y el papel de la filosofia ante la ciencia o lo
+el saber y la revelación
+Vet introducción y el papel de la filosofía ante la ciencia o lo
 absoluto  
-## Fenomenologia del espiritu
-proilogo
+## Fenomenología del espíritu
+prologo
 intro, la sonrisa del absoluto
-solo ven contradiccion, no ven ello e nunidad
+solo ven contradicción, no ven ello e unidad
 
-certeza sensibe, primer movimiento
+certeza sensible, primer movimiento
 la estructura de la obra
 
-## Scheling
-iintro, vida obra
-ideas entonrno a la antruleza y el arte
-comapracion de schelling con fichte
-de su libro filosofia de la naturaleza = fisica especuativa
-el movimiento mecanico y al movimiento absoluto
-fuerzas ciegas de la natrualeza
+## Schelling
+intro, vida obra
+ideas entorno a la naturaleza y el arte
+comparación de Schelling con Fichte
+de su libro filosofía de la naturaleza = física especulativa
+el movimiento mecánico y al movimiento absoluto
+fuerzas ciegas de la naturaleza
 el milagro del arte = alcanzar el/lo absoluto
-el arte puede lo que la razon no/ lo que la filosofia no
+el arte puede lo que la razón no/ lo que la filosofía no
 
 el sentimiento de lo absoluto/ lo absoluto
-que quiere schelling
+que quiere Schelling
 ## Marx
-liista de cosas que debemos saber
+lista de cosas que debemos saber
 es parte de la izquierda hegeliana
 
 obra principal
-los libros mas leido de marx
-manifiesto del partido comunista (revolu rusa, padre del comunismo)
-manuscritos economicos filsoficos (motivos marcuse, la enajenacion)
+los libros mas leído de Marx
+manifiesto del partido comunista (revolución rusa, padre del comunismo)
+manuscritos económicos filosóficos (motivos Marcuse, la enajenación)
 el capital
 diferencia marx - marxismo
-materialismo historico. dialectica historica(leyes). la revolucion como aceleracion
-la pripuesta politica de marx. dictadura del proletariado. la practica actual y anteriror
+materialismo histórico. dialéctica histórica(leyes). la revolución como aceleración
+la propuesta política de Marx. dictadura del proletariado. la practica actual y anterior
 los interese en abstracto del la clase obrera
-la supresion/superacion del la propiedad privada
+la supresión/superación del la propiedad privada
 vs comunismo grosero
 
-el capital hegel y la reconcicliacion
+el capital Hegel y la reconciliación
 la primera internacional obrera
 marx dice no es suficiente exigir trabajar menos horas y mas paga
 
 marx vs anarquistas
 Stirner San stirner
 Bakunin el obeso
-Miseria de la filosofia vs filosofia de la miseria
-tesis de feurebacha no se trata de contemplar el musno sino de trasnformarlo
+Miseria de la filosofía vs filosofía de la miseria
+tesis de feurebacha no se trata de contemplar el mundo sino de transformarlo
 ## Bergson
-Vjitalista tambien habla de la vida y el impuso
-el analisis contraponiendolo a la intuicion
-contra los simbolos
+Vjitalista también habla de la vida y el impuso
+el análisis contraponiéndose a la intuicion
+contra los símbolos
 Hay algo mas
-se capto lo absoluto por intuicion, simpatia
-LA esencia del tiempo no es el timpo es la duracion/ el tiempo que no tiene que ver con el movimiento
-buscar definicion/ nunca es lo suficientemente claro
-los conceoptos flexibles
+se capto lo absoluto por intuicion, simpatía
+LA esencia del tiempo no es el tiempo es la duración/ el tiempo que no tiene que ver con el movimiento
+buscar definición/ nunca es lo suficientemente claro
+los conceptos flexibles
 
-El debate con einstein
-filosofia vs ciencia?
-y la filosofia anglosajona de ese tiempo 
-Russel y el ABC de la teoria de la relatividad
-## Nietzsce 
-la actitud frende a la voluntad
+El debate con Einstein
+filosofía vs ciencia?
+y la filosofía anglosajona de ese tiempo 
+Russel y el ABC de la teoría de la relatividad
+## Nietzsche  
+la actitud frente a la voluntad
 voluntad es la naturaleza la vida
 decirle si a la vida
-Lo bueno y lo malo, la trasmotacion/mutacion/ metamorfosis de los conceptos
-La voluntad de poder y las nuevas tbalas de valores
+Lo bueno y lo malo, la trasmutación/mutación/ metamorfosis de los conceptos
+La voluntad de poder y las nuevas tablas de valores
 El nihilismo como la falta a la respuesta al por que
 El eterno retorno de los mismo, 
 el retorno como una retribucion
 una paga
-sufro mucho entonces mi pafa debe ser una alegria
+sufro mucho entonces mi paga debe ser una alegría
 gozo mucho entonces mi paga debe ser un sufrimiento
 
 ## VITALISMO 
 ## Schopenhauer
 conceptos
-mundo, representacion, voluntad
-reproche a kant
-vs fichte
-definicion de voluntad
+mundo, representación, voluntad
+reproche a Kant
+vs Fichte
+definición de voluntad
 el suicidio
 el nirvana
 el arte
-la filosofia
+la filosofía
 
 
 
-## Fenomenologia
+## Fenomenología
 =jHusserl=
-la concienci
+la conciencia
 a las cosas mismas
 La conciencia intencional
-El metodo
+El método
 
 pasar del noema a la noesis
 
@@ -374,35 +374,35 @@ pasar del noema a la noesis
 ==epoje==
 Se horizontaliza 
 suspender los juicios sobre lo que es real. el mundo natural
-tomas concienca de loque sabes, de las teorias y puedes suspenderlas
+tomas conciencia de lo que sabes, de las teorías y puedes suspenderlas
 
 
-el noema= descripcion textural,de lo que aparece= prerefelxiva, NO-teorias, tal como aparece a la conciencia. 
+el noema= descripción textural,de lo que aparece= prerrefelxiva, NO-teorías, tal como aparece a la conciencia. 
 
 
 
 ==se acaba la epoje==
 
-la noesis la estructura= descripcion estructural.  = refelxivo, teoria
+la noesis la estructura= descripción estructural.  = reflexivo, teoría
 
 
 
-No puedes alcanzar la noesis, descripcion esctructural sin saber el noema
-==reporte de la esencia del fenomeno==
+No puedes alcanzar la noesis, descripción estructural sin saber el noema
+==reporte de la esencia del fenómeno==
 noema + lo que se
-==metodo==
+==método==
 1. seleccionar conjunto al invetigar
-2. epoje irreflexion. descripcion. categorizar
-3. aplicar reflexion. resultados de loa analisis. caracteristicas universales. categorizas.
-hacea mas subconjuntos
-1. la esecnia. de lo particular a lo general INDUCCION. escribes resultados.
+2. epoje irreflexión. descripción. categorizar
+3. aplicar reflexión. resultados de loa análisis. características universales. categorizas.
+hacen mas subconjuntos
+1. la esencia. de lo particular a lo general INDUCCIÓN. escribes resultados.
 2. ensayo,tesis,articulo
 
 ==filosofar como trabajar con conceptos==
-1. seleccionar a grupo de conceptos. de un filosofo o grupo de filosofos
-2. epoje. quitar lo que se cobre esos conceptos. describir esos conceptos en sus relacionesetc
-categorizar lo que encontre en la epoje
-3. de esos porticular alanzar lo general
+1. seleccionar a grupo de conceptos. de un filosofo o grupo de filósofos
+2. epoje. quitar lo que se cobre esos conceptos. describir esos conceptos en sus relaciones
+categorizar lo que encontré en la epoje
+3. de esos particular alanzar lo general
 4. ensayo, tesis, articulo
 5. 
 
@@ -411,20 +411,21 @@ categorizar lo que encontre en la epoje
 
 
 ## Existencialismo=
-==heidegger==
+==Heidegger==
 vida
 partido nazi
 rector de uni de berlin
 obra
-que es metafisica
+que es metafísica
 ser y tiempo
 
-## Neopositivismo y filosofia analitica=
+## Neopositivismo y filosofía analítica=
 =Existencialismo=
 _________________
-Simone Beavoure
-simbolos, cambair el lema de la universidad
+Simone Beauvoir
+símbolos, cambiar el lema de la universidad
 
 
-## Teoria critica=
-presntacion con temas generales
+## Teoría critica=
+presentación con temas generales
+
