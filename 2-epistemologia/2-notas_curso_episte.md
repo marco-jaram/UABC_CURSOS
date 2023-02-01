@@ -37,9 +37,10 @@ Con la modernidad el problema del conocimiento se convirtió en un núcleo y ra�
 En el pensar medieval el problema es el conocimiento del ser, o del ser del conocer y no del ser que conoce.
 Se preguntan qué es el ser y no que es el conocer
 
-
+![Libro](https://www.akal.com/media/akal/images/thumbs/cover-31572-200x320.jpg)
 ## Teoría del conocimiento
 Sergio Rabade
+
 >La denominación de teoría del conocimiento es prácticamente inexistente en el mundo anglosajón. 
 >Ha sido sustituida por epistemología. Y el problema puede no ser de puro nombre. 
 
@@ -54,7 +55,7 @@ Sergio Rabade
 >Cada epistemología se refiere a un terreno acotado del conocimiento.
 Presupone lo que se salga de su terreno. Por lo tanto, hace falta estudiar, aclarar y justificar eso que el epistemólogo tiene que dar por supuesto.
 En consecuencia, no solo tiene sentido, sino que es necesaria una teoría del conocimiento en general.
-
+![Libro](https://pictures.abebooks.com/inventory/22720450192.jpg)
 ## La epistemología
 1972.
 Blanche
@@ -104,7 +105,7 @@ Epistemología científica y epistemología filosófica
 ¿Cuál es la gran teoría que no tiene implicaciones filosóficas?
 
 
-
+![Libro](https://ia802303.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/2-epistemologia-general-verneaux-curso-de-filosofia-tomista-2/2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_jp2.zip&file=2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_jp2/2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_0000.jp2&id=2-epistemologia-general-verneaux-curso-de-filosofia-tomista-2&scale=2&rotate=0)
 
 ## EPISTEMOLOGÍA GENERAL O CRITICA DEL CONOCIMIENTO
 Roiger Verneaux
@@ -117,6 +118,8 @@ racionalismo
 idealismo
 realismo
 
+
+![Libro](https://m.media-amazon.com/images/I/31kOzEngAtL._BO1,204,203,200_.jpg)
 ## Introducción a la epistemología contemporánea
 Jonathan Dancy
 (1985-1993).
@@ -130,6 +133,8 @@ capítulo. Al final de éste, doy algunas referencias a textos paradigmáticos d
 El libro se divide en tres partes, la primera sobre el conocimiento,
 la segunda sobre la justificación y la tercera sobre las formas de cono-
 cimiento.
+
+![Libro](https://m.media-amazon.com/images/I/31kOzEngAtL._BO1,204,203,200_.jpg)
 ## Epistemología. Curso de actualización
 Bunge.
 >La epistemología o filosofía de la ciencia, es la rama de la filosofía que estudia la investigación científica y su producto, el conocimiento científico. 
