@@ -105,7 +105,8 @@ Epistemología científica y epistemología filosófica
 ¿Cuál es la gran teoría que no tiene implicaciones filosóficas?
 
 
-![Libro](https://ia802303.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/2-epistemologia-general-verneaux-curso-de-filosofia-tomista-2/2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_jp2.zip&file=2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_jp2/2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_0000.jp2&id=2-epistemologia-general-verneaux-curso-de-filosofia-tomista-2&scale=2&rotate=0)
+<img src="https://ia802303.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/2-epistemologia-general-verneaux-curso-de-filosofia-tomista-2/2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_jp2.zip&file=2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_jp2/2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_0000.jp2&id=2-epistemologia-general-verneaux-curso-de-filosofia-tomista-2&scale=2&rotate=0)" width="200px">
+
 
 ## EPISTEMOLOGÍA GENERAL O CRITICA DEL CONOCIMIENTO
 Roiger Verneaux
