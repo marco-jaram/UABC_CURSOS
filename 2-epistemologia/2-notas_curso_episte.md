@@ -25,7 +25,7 @@
 # SEMANA 1
 
 ## Que carajos es la epistemología
-### Por que tanta confusion en filosofía mientras que en otras diciplinar es muy sencillo y claro.
+### Por que tanta confusion en filosofía mientras que en otras diciplinas es muy sencillo y claro.
 Toda teoría del conocimiento … tiene que ser una teoría crítica, tanto en el sentido etimológico … discernimiento y enjuiciamiento como en el sentido… como análisis valorativo, tanto positiva como negativamente, del conocer.
 La actitud crítica ---- una toma de distancia del espectador frente al conocimiento
 Esta actitud exige una actitud crítica
@@ -120,13 +120,10 @@ realismo
 ## Introducción a la epistemología contemporánea
 Jonathan Dancy
 (1985-1993).
-Como indica su título, este libro está concebido como una introducción a los temas más importantes que se discuten hoy en día bajo
-el rótulo, más bien confuso, de «epistemología» o teoría del conocimiento. La epistemología es el estudio del conocimiento y de la justificación de la creencia. Entre las cuestiones centrales a las que tra-
-tan de responder los epistemólogos están: «¿Qué creencias están justificadas y cuáles no?», «Si hay algo que podemos conocer, ¿qué
+>Como indica su título, este libro está concebido como una introducción a los temas más importantes que se discuten hoy en día bajo
+el rótulo, más bien confuso, de «epistemología» o teoría del conocimiento. La epistemología es el estudio del conocimiento y de la justificación de la creencia. Entre las cuestiones centrales a las que tratan de responder los epistemólogos están: «¿Qué creencias están justificadas y cuáles no?», «Si hay algo que podemos conocer, ¿qué
 es?», «¿Cuál es la relación entre conocer y tener una creencia verdadera?», «¿Cuál es la relación entre ver y conocer?». Cuestiones
-como éstas están en el corazón de la epistemología, pero, por supuesto,
-ésta va más allá y, como en cualquier otra disciplina filosófica, sus
-fronteras son más bien difusas.
+como éstas están en el corazón de la epistemología, pero, por supuesto, ésta va más allá y, como en cualquier otra disciplina filosófica, sus fronteras son más bien difusas.
 El punto de vista que adopto está casi exclusivamente centrado en
 la tradición angloamericana, aunque cedo el paso a Hegel en el último
 capítulo. Al final de éste, doy algunas referencias a textos paradigmáticos de la tradición continental, especialmente de la teoría crítica.
@@ -135,7 +132,7 @@ la segunda sobre la justificación y la tercera sobre las formas de cono-
 cimiento.
 ## Epistemología. Curso de actualización
 Bunge.
-La epistemología o filosofía de la ciencia, es la rama de la filosofía que estudia la investigación científica y su producto, el conocimiento científico. 
+>La epistemología o filosofía de la ciencia, es la rama de la filosofía que estudia la investigación científica y su producto, el conocimiento científico. 
 Para comprobar la afirmación. basta ver el peso de las publicaciones, revistas, congresos en este campo.
 Referencias anglosajonas
 1927 por primera vez en la historia se juntaron un grupo de epistemólogos= empirismo lógico
@@ -151,13 +148,14 @@ Mortiz, Carnap, Reichenbach, Kraft…Popper
 <a name="SEMANA_2">2</a>
 
 # SEMANA 2
-
+>**Tarea**: Leer libro X de la Republica de Platón
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_3">3</a>
 
 # SEMANA 3
+>**Tarea**:
 
 [Ir a inicio](#inicio)
 
