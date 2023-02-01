@@ -37,7 +37,8 @@ Con la modernidad el problema del conocimiento se convirtió en un núcleo y ra�
 En el pensar medieval el problema es el conocimiento del ser, o del ser del conocer y no del ser que conoce.
 Se preguntan qué es el ser y no que es el conocer
 
-![Libro](https://www.akal.com/media/akal/images/thumbs/cover-31572-200x320.jpg)
+<img src=https://www.akal.com/media/akal/images/thumbs/cover-31572-200x320.jpg width="200px">
+
 ## Teoría del conocimiento
 Sergio Rabade
 
@@ -55,7 +56,9 @@ Sergio Rabade
 >Cada epistemología se refiere a un terreno acotado del conocimiento.
 Presupone lo que se salga de su terreno. Por lo tanto, hace falta estudiar, aclarar y justificar eso que el epistemólogo tiene que dar por supuesto.
 En consecuencia, no solo tiene sentido, sino que es necesaria una teoría del conocimiento en general.
-![Libro](https://pictures.abebooks.com/inventory/22720450192.jpg)
+
+<img src=https://pictures.abebooks.com/inventory/22720450192.jpg width="200px">
+
 ## La epistemología
 1972.
 Blanche
@@ -108,16 +111,18 @@ Epistemología científica y epistemología filosófica
 <img src="https://ia802303.us.archive.org/BookReader/BookReaderImages.php?zip=/11/items/2-epistemologia-general-verneaux-curso-de-filosofia-tomista-2/2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_jp2.zip&file=2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_jp2/2%20Epistemolog%C3%ADa%20General%20%28Verneaux%29%20Curso%20de%20filosof%C3%ADa%20tomista%202_0000.jp2&id=2-epistemologia-general-verneaux-curso-de-filosofia-tomista-2&scale=2&rotate=0)" width="200px">
 
 
-## EPISTEMOLOGÍA GENERAL O CRITICA DEL CONOCIMIENTO
+## Epistemología general
 Roiger Verneaux
 1985
 editorial Herder
-Corrientes principales de la epistemología
-escepticismo
-empirismo
-racionalismo
-idealismo
-realismo
+
+**Trata la epistemología como teoría del conocimiento
+
+* escepticismo
+* empirismo
+* racionalismo
+* idealismo
+* realismo
 
 
 ![Libro](https://m.media-amazon.com/images/I/31kOzEngAtL._BO1,204,203,200_.jpg)
