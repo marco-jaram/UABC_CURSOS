@@ -28,7 +28,7 @@
 
 
 
-**Romainticismo intro**
+**Romanticismo intro**
 
 Siglo XIX
 * La libertad y los limites
@@ -98,7 +98,7 @@ y ha abierto el camino a su interpretación idealista...
 generalmente en el ambiente filosófico de la época y a ella se refieren, positiva
 o polémicamente, Fichte, Maimón, Schelling, Hegel y Schopenhauer. -N. Abbagnano
 
-### EL ROMANCISIMO
+### EL ROMANISMO
 > ...alcanzó su máximo florecimiento en toda Europa durante los primeros decenios del siglo XIX.
 
 > El significado corriente del término "romántico" [] equivale a "sentimental"...
@@ -159,7 +159,10 @@ a es , entonces a es
 <a name="SEMANA_2">2</a>
 
 # SEMANA 2
-
+>**Tarea**:
+Leer primera parte de 1Fragmento-Fichte-Doctrina-de-La-Ciencia-1794.
+(las primeras 15 paginas)<br>
+[Antología filosofía contempo](https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=share_link)
 
 [Ir a inicio](#inicio)
 
