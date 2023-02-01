@@ -134,7 +134,7 @@ El libro se divide en tres partes, la primera sobre el conocimiento,
 la segunda sobre la justificación y la tercera sobre las formas de cono-
 cimiento.
 
-![Libro](https://m.media-amazon.com/images/I/31kOzEngAtL._BO1,204,203,200_.jpg)
+![Libro](https://m.media-amazon.com/images/I/41bm7SPZiCL._SY344_BO1,204,203,200_QL70_ML2_.jpg)
 ## Epistemología. Curso de actualización
 Bunge.
 >La epistemología o filosofía de la ciencia, es la rama de la filosofía que estudia la investigación científica y su producto, el conocimiento científico. 
