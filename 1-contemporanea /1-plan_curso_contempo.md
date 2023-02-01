@@ -20,7 +20,7 @@ textoslas tesis principales. Dialogando crítica y respetuosamente.
 
 | Semana | Tema                          | Actividad      | Evidencia       | valor |
 |--------|-------------------------------|----------------|-----------------|-------|
-| 1 []   | Presentación                  | Foro           | Escrito en foro |       |
+| 1 []   | Presentación                  |                |                 |       |
 | 1 []   | 1.1.0 **Romanticismo**        |                |                 |       |
 | 2 [][] | 1.1.2 Fichte                  | Autoevaluación | Autoevaluación  |       |
 | 3 []   | 1.1.3 Schelling               | Antología      | Autoevaluación  |       |
