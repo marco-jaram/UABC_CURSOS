@@ -28,7 +28,7 @@
 >**TAREA**:  
   Leer parte 1 del libro: 
  Bolivar Botia, A.(2001). El estructuralismo: de Levi-Strauss a Derrida. España: Ediciones pedagógicas
-  
+  [Antología estructuralismo](https://drive.google.com/drive/folders/1MJEJFo2fwho6S40_zIZgdl4KoqGT4M9i?usp=share_link)
 
 
 
