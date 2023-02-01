@@ -135,6 +135,21 @@ Diagrama:
 
 
 ### Fichte
+
+#### Relación de personajes
+
+|Nombre| Nace| Muere|
+|------|-------|----|
+|Goethe|1749|1832|
+|**Fichte**|1762|1814|
+|Beethoven|1770| 1827|
+|Hegel| 1770|1831|
+|Schelling | 1775|1854|
+|Allan Poe|1809| 1849|
+
+
+
+
 Juan Teófilo Fichte nació en Rammenau el 19 de mayo de 1762, de
 familia muy pobre.
 
@@ -143,12 +158,10 @@ p. 333), a dar testimonio de la verdad... Soy un sacerdote de la verdad; estoy
 a sueldo suyo, me he comprometido a hacerlo todo, a arriesgarlo todo, a
 sufrirlo todo por ella."
 
-![fichte.jpg](/1-contemporanea%20/1-images/fichte.jpg)
-
 
 [![fichte.jpg](https://i.postimg.cc/pXr640m4/fichte.jpg)](https://postimg.cc/BXWp1BcB)
 primer principio
-a es , entonces a es
+
 
 
 [Ir a inicio](#inicio)

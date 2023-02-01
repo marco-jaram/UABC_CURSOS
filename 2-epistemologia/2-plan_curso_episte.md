@@ -9,16 +9,16 @@ presente dialogando respetuosamente.
 | Semana | Tema                                     | Actividad | Evidencia | valor |
 |--------|------------------------------------------|-----------|-----------|-------|
 | 1 []   | 1.0 Presentación de curso                |           |           |       |
-| -      | 1.1.0 **El concepto de epistemologia**   |           |           |       |
+| -      | 1.1.0 **El concepto de epistemología**   |           |           |       |
 | 1[]    | 1.1.1 Distinción  Epistemología, Teoría  |           |           |       |
 | -      | 1.2.0 **El concepto de conocimiento**    |           |           |       |
-| 2[][]  | 1.2.1 Platón y Aristóteles priemra parte |           |           |       |
+| 2[][]  | 1.2.1 Platón y Aristóteles primera parte |           |           |       |
 | 3[][]  | 1.2.2 Platón y Aristóteles segunda parte |           |           |       |
 | 4 [][] | 1.2.3 Subjetividad y modernidad          |           |           |       |
 
 
 # UNIDAD II. CREER Y CONOCER
-**Co mpetencia:**
+**Competencia:**
 Reconoce la noción de creencia y su justificación mediante textos de especialistas 
 en epistemología dialogando con respeto.
 
@@ -35,7 +35,7 @@ en epistemología dialogando con respeto.
 
 
 # UNIDAD III. TEORÍAS DEL CONOCIMIENTO  
-**C ompetencia:** 
+**Competencia:** 
  Analiza las problemáticas derivadas de las principales inclinaciones en la tradición
 filosófica para valorar los fundamentos básicos de la filosofía occidental con una
 visión crítica.
@@ -79,7 +79,7 @@ general con una actitud crítica.
 
 # Relacion de periodos semanales 
  
-| Seman- | dias- | Mes         | Observaciones    |
+| Semana- | días- | Mes         | Observaciones    |
 |--------|-------|-------------|------------------|
 | 1      | 31-3  | **Febrero** |                  |
 | 2      | 6-11  |             |                  |
