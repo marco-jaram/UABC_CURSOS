@@ -25,6 +25,14 @@
 
 # SEMANA 1
 
+>**TAREA**:  
+  Leer parte 1 del libro: 
+ Bolivar Botia, A.(2001). El estructuralismo: de Levi-Strauss a Derrida. España: Ediciones pedagógicas
+  
+
+
+
+
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_2">2</a>
