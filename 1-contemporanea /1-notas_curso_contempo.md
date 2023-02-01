@@ -161,7 +161,7 @@ a es , entonces a es
 # SEMANA 2
 >**Tarea**:
 Leer primera parte de 1Fragmento-Fichte-Doctrina-de-La-Ciencia-1794.
-(las primeras 15 paginas)<br>
+(las primeras 15 paginas para el lunes y el resto para el miércoles)<br>
 [Antología filosofía contempo](https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=share_link)
 
 [Ir a inicio](#inicio)
