@@ -132,6 +132,20 @@ Diagrama:
 [ Ver diagrama de romanticismo](https://lucid.app/lucidchart/9bbb39d5-4c7c-4327-8bcd-bfbb7208a7a9/edit?viewport_loc=-59%2C-19%2C1879%2C1357%2C0_0&invitationId=inv_49438998-2694-4c8f-852a-9749b7620fb2)
 
 
+
+[Ir a inicio](#inicio)
+
+
+
+
+<a name="SEMANA_2">2</a>
+
+# SEMANA 2
+>**Tarea**:
+Leer primera parte de 1Fragmento-Fichte-Doctrina-de-La-Ciencia-1794.
+(las primeras 15 paginas para el lunes y el resto para el miércoles)<br>
+[Antología filosofía contempo](https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=share_link)
+
 ### Fichte
 
 #### Relación de personajes
@@ -239,20 +253,6 @@ del modo de la acción. Pasemos ahora a su producto = -A.
 >Todo lo contrario de lo que le conviene al yo debe convenirle al no-yo, en virtud de la simple oposición.
 (Es una opinión extendida que el concepto del no-yo es un concepto
 <general> obtenido mediante abstracción de todo lo representado.
-
-
-[Ir a inicio](#inicio)
-
-
-
-
-<a name="SEMANA_2">2</a>
-
-# SEMANA 2
->**Tarea**:
-Leer primera parte de 1Fragmento-Fichte-Doctrina-de-La-Ciencia-1794.
-(las primeras 15 paginas para el lunes y el resto para el miércoles)<br>
-[Antología filosofía contempo](https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=share_link)
 
 [Ir a inicio](#inicio)
 
