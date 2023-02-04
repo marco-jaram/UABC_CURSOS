@@ -41,15 +41,13 @@ Siglo XIX
   
 **Clásico: simetría, unidad, armonía**
 **El David, Miguel Angel**
-![Miguel Angel](/1-contemporanea%20/1-images/El_david_MiguelAngel_1504dc.png)
+
 [![El-david-Miguel-Angel-1504dc.jpg](https://i.postimg.cc/prG1yj6s/El-david-Miguel-Angel-1504dc.jpg)](https://postimg.cc/m19S5PR9)
 
 
  **Perseo con la cabeza de medusa**
 
 [![Perseo](https://i.postimg.cc/Bn1wQXcC/Perseo-c-Nedusa-1800dcneo-Clasico.jpg)](https://postimg.cc/yDsTL6GJ)
-
-![Perseo](/1-contemporanea%20/1-images/Perseo_c_Nedusa_1800dcneoClasico.jpg)
 
 **Jardines**
 ![jardines](/1-contemporanea%20/1-images/jardin_neoclasico.jpg)
@@ -160,8 +158,87 @@ sufrirlo todo por ella."
 
 
 [![fichte.jpg](https://i.postimg.cc/pXr640m4/fichte.jpg)](https://postimg.cc/BXWp1BcB)
-primer principio
 
+#### Doctrina de la ciencia 1794
+**Citas de libro** <br>
+#### § 1. PRIMER PRINCIPIO FUNDAMENTAL ABSOLUTAMENTE INCONDICIONADO
+
+>Debemos buscar el principio fundamental1 absolutamente primero, completamente incondicionado de todo saber humano. Si este principio fundamental debe ser el primero absolutamente, no puede ser ni demostrado, ni determinado.
+
+>Las leyes <(de la lógica general)>,[...] que se las supone tácitamente como conocidas e indudables. [...] se admite sin controversia, es lícito, para establecer el principio fundamental supremo, apelar a todas las leyes de la lógica general.
+
+>Pongamos,
+pues, un hecho cualquiera de la conciencia empírica; y separemos de él, una
+tras otra, todas las determinaciones empíricas, hasta que solamente quede
+aquello de lo que ya no se puede en absoluto prescindir y de donde ya no es
+posible separar nada.
+
+>1. Todos conceden el principio: “A es A” (o sea, A=A, porque esto es lo
+que significa la cópula lógica); [93] y se admite sin vacilación alguna; se le
+reconoce como proposición completamente cierta e indudable.
+
+>2. Afirmando que la proposición precedente es en sí cierta, no se afirma
+que A sea. La proposición: “A es A ” no equivale en modo alguno a ésta:
+“A es”, o: “existe un A”.
+
+
+>[...] entre aquel “ si” y este “entonces” hay una
+conexión necesaria; y esta conexión necesaria entre los dos términos es
+puesta absolutamente y sin otro fundamento. Provisionalmente llamo a esta
+conexión necesaria = X.
+
+>Al menos X está en el yo y puesto por el yo: pues es el yo quien juzga en la proposición anterior, y juzga precisamente según X como según una ley; la cual es por consiguiente dada al yo; y como es establecida absolutamente y sin otro [94] fundamento, tiene que ser dada al yo por el yo mismo.
+
+>Por medio de esta operación hemos llegado ya sin darnos cuenta a la
+proposición: yo soy
+
+>X es idéntico a la proposición: “yo soy yo”; por consiguiente, esta proposición es también puesta absolutamente.
+
+>“yo soy yo”, tiene un significado muy distinto del que posee la proposición: “A es A”.
+
+>Por el principio “A=A” se efectúa un juicio. Según el testimonio de la conciencia empírica, todo juicio es una acción del espíritu humano; es preciso, pues, suponerle todas las condiciones de la acción en la autoconciencia empírica, las cuales deben ser, para la reflexión, presupuestas como conocidas y ciertas.
+
+>lo absolutamente puesto y fundado en sí mismo es el fundamento de una cierta acción del espíritu humano
+
+>Se oye a menudo plantear esta cuestión: “¿qué era yo antes de llegar a tener conciencia de mí mismo?”. La respuesta natural a esto es:
+“yo no era en absoluto; pues yo no era yo. El yo es en la medida en que tiene conciencia de sí”. La posibilidad de esa cuestión se funda en la confusión entre el yo como sujeto y el yo como objeto de la reflexión del sujeto absoluto;
+
+
+>[...] ha resultado que no es la proposición: “A=A” la que fundamenta a la proposición: “yo soy, sino que más bien la última es la que fundamenta a la primera.
+
+**refutaciones**
+
+**Maimon**
+>(El escepticismo de **MAIMON** descansa sobre la cuestión de saber si tenemos derecho a aplicar la categoría de realidad. Este derecho no puede deri Maimon lo presupone inadvertidamente, puesto que admite la legitimidad de la lógica general.
+
+**KANT**
+
+>En su deducción de las categorías, **KANT** preludia nuestro principio como principio fundamental absoluto de todo saber; pero nunca lo ha estudiado precisamente como principio fundamental.
+
+**Descartes**
+>la precisión cogitans es completamente superflua; no se piensa necesariamente si se es, pero se es necesariamente si se piensa. El pensamiento no es en absoluto la esencia, sino sólo una determinación particular del ser;
+
+**Spinoza**
+
+>[...] la primera en Dios, que nunca es consciente de sí, puesto que la conciencia pura no llega nunca a la conciencia; pone la segunda en las modificaciones particulares de la divinidad. Su sistema, así establecido, es plenamente consecuente e irrefutable, porque se desenvuelve
+en un terreno en donde la razón no puede seguirlo; pero este sistema carece de fundamento; en efecto, ¿con qué derecho rebasa la conciencia pura, dada en la conciencia empírica?
+
+#### § 2. SEGUNDO PRINCIPIO FUNDAMENTAL CONDICIONADO EN SU CONTENIDO
+
+** hagoms otravez lo mismo pero con la negacion**
+
+ >El principio: “-A no = A” será sin duda reconocido como absoluta-
+mente cierto e indudable por todo el mundo, y difícilmente es de esperar que alguien exija una prueba de él.
+
+>esta acción absoluta, y absolutamente por ella, lo
+opuesto, en tanto que contra-puesto (como puro contrario en general), es puesto. Todo contrario, en cuanto tal, es absolutamente en virtud de una acción del yo y no tiene otro fundamento. El ser-opuesto en general es absolutamente puesto por el yo
+
+>Hasta ahora solamente hemos hablado de la acción como mera acción,
+del modo de la acción. Pasemos ahora a su producto = -A.
+
+>Todo lo contrario de lo que le conviene al yo debe convenirle al no-yo, en virtud de la simple oposición.
+(Es una opinión extendida que el concepto del no-yo es un concepto
+<general> obtenido mediante abstracción de todo lo representado.
 
 
 [Ir a inicio](#inicio)
