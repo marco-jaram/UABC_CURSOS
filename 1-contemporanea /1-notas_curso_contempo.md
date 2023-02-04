@@ -239,7 +239,8 @@ en un terreno en donde la razón no puede seguirlo; pero este sistema carece de 
 
 #### § 2. SEGUNDO PRINCIPIO FUNDAMENTAL CONDICIONADO EN SU CONTENIDO
 
-** hagoms otravez lo mismo pero con la negacion**
+>**Por la misma razón que el primer principio fundamental no podía ser demostrado ni derivado, tampoco puede serlo el segundo Partiremos, pues, como antes, de un hecho de la conciencia empírica y le aplicaremos, con la
+misma autoridad, un método idéntico.**
 
  >El principio: “-A no = A” será sin duda reconocido como absoluta-
 mente cierto e indudable por todo el mundo, y difícilmente es de esperar que alguien exija una prueba de él.
