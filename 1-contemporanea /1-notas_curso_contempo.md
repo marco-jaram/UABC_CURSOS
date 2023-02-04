@@ -146,7 +146,7 @@ Leer primera parte de 1Fragmento-Fichte-Doctrina-de-La-Ciencia-1794.
 (las primeras 15 paginas para el lunes y el resto para el miércoles)<br>
 [Antología filosofía contempo](https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=share_link)
 
-### Fichte
+
 
 #### Relación de personajes
 
@@ -170,10 +170,13 @@ p. 333), a dar testimonio de la verdad... Soy un sacerdote de la verdad; estoy
 a sueldo suyo, me he comprometido a hacerlo todo, a arriesgarlo todo, a
 sufrirlo todo por ella."
 
+# Fichte
 
-[![fichte.jpg](https://i.postimg.cc/pXr640m4/fichte.jpg)](https://postimg.cc/BXWp1BcB)
+![fichte.jpg](https://media.dialektika.org/dialektika/2021/02/Johann-Gottlieb-Fichte.jpg)
 
-#### Doctrina de la ciencia 1794
+#### Doctrina de la ciencia 1794 
+[Libro](https://allmyreadingsquotes.files.wordpress.com/2017/01/fichte-doctrina-de-la-ciencia-1794.pdf)
+
 **Citas de libro** <br>
 #### § 1. PRIMER PRINCIPIO FUNDAMENTAL ABSOLUTAMENTE INCONDICIONADO
 
@@ -225,7 +228,7 @@ proposición: yo soy
 **Maimon**
 >(El escepticismo de **MAIMON** descansa sobre la cuestión de saber si tenemos derecho a aplicar la categoría de realidad. Este derecho no puede deri Maimon lo presupone inadvertidamente, puesto que admite la legitimidad de la lógica general.
 
-**KANT**
+**Kant**
 
 >En su deducción de las categorías, **KANT** preludia nuestro principio como principio fundamental absoluto de todo saber; pero nunca lo ha estudiado precisamente como principio fundamental.
 
@@ -255,11 +258,18 @@ del modo de la acción. Pasemos ahora a su producto = -A.
 (Es una opinión extendida que el concepto del no-yo es un concepto
 <general> obtenido mediante abstracción de todo lo representado.
 
+
+## § 3. TERCER PRINCIPIO FUNDAMENTAL CONDICIONADO EN SU FORMA
+[continua]
+
+[![2023-02-04-154649-1341x857-scrot.png](https://i.postimg.cc/Wpyb5yJR/2023-02-04-154649-1341x857-scrot.png)](https://postimg.cc/6TdX3Y0z)
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_3">3</a>
 
 # SEMANA 3
+
+
 
 [Ir a inicio](#inicio)
 
