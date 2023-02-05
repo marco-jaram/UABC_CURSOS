@@ -131,7 +131,7 @@ filosofía.
 Diagrama:
 [ Ver diagrama de romanticismo](https://lucid.app/lucidchart/9bbb39d5-4c7c-4327-8bcd-bfbb7208a7a9/edit?viewport_loc=-59%2C-19%2C1879%2C1357%2C0_0&invitationId=inv_49438998-2694-4c8f-852a-9749b7620fb2)
 
-
+[Video. Romanticismo intro](https://drive.google.com/file/d/1eWStwPxIeHil7zrY-Ea0e1wUGhUghDu1/view?usp=share_link)
 
 [Ir a inicio](#inicio)
 
@@ -240,6 +240,8 @@ proposición: yo soy
 >[...] la primera en Dios, que nunca es consciente de sí, puesto que la conciencia pura no llega nunca a la conciencia; pone la segunda en las modificaciones particulares de la divinidad. Su sistema, así establecido, es plenamente consecuente e irrefutable, porque se desenvuelve
 en un terreno en donde la razón no puede seguirlo; pero este sistema carece de fundamento; en efecto, ¿con qué derecho rebasa la conciencia pura, dada en la conciencia empírica?
 
+[Video. Primer principio de La Doctrina de la Ciencia](https://drive.google.com/file/d/1Jdqp77OW950OgxX0j-7509PU2WV_zSbH/view?usp=share_link)
+
 #### § 2. SEGUNDO PRINCIPIO FUNDAMENTAL CONDICIONADO EN SU CONTENIDO
 
 >**Por la misma razón que el primer principio fundamental no podía ser demostrado ni derivado, tampoco puede serlo el segundo Partiremos, pues, como antes, de un hecho de la conciencia empírica y le aplicaremos, con la
@@ -258,10 +260,12 @@ del modo de la acción. Pasemos ahora a su producto = -A.
 (Es una opinión extendida que el concepto del no-yo es un concepto
 <general> obtenido mediante abstracción de todo lo representado.
 
-
+[Video. Segundo y tercer principio de La Doctrina de la Ciencia](https://drive.google.com/file/d/1CKQy8flu_b7HCF1gvdgUY8ZgSTy_1SR9/view?usp=share_link)
 ## § 3. TERCER PRINCIPIO FUNDAMENTAL CONDICIONADO EN SU FORMA
 [continua]
 
+
+**Gráfico general**
 [![2023-02-04-154649-1341x857-scrot.png](https://i.postimg.cc/Wpyb5yJR/2023-02-04-154649-1341x857-scrot.png)](https://postimg.cc/6TdX3Y0z)
 [Ir a inicio](#inicio)
 
