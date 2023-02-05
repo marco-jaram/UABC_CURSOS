@@ -3,6 +3,8 @@
 # Inicio
 <a name="inicio">INICIO</a>
 
+[Antología de curso](https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=share_link)
+
 * [SEMANA_1](#SEMANA_1)
 * [SEMANA_2](#SEMANA_2)
 * [SEMANA_3](#SEMANA_3)
@@ -21,6 +23,8 @@
 * [SEMANA_16](#SEMANA_16)
 * [SEMANA_17](#SEMANA_17)
 
+<!-- <img src="" width="300px"> -->
+<!-- ![Titulo](http) -->
 
 <a name="SEMANA_1">1</a>
 
@@ -49,24 +53,20 @@ Siglo XIX
 
 [![Perseo](https://i.postimg.cc/Bn1wQXcC/Perseo-c-Nedusa-1800dcneo-Clasico.jpg)](https://postimg.cc/yDsTL6GJ)
 
-**Jardines**
-![jardines](/1-contemporanea%20/1-images/jardin_neoclasico.jpg)
+**Jardines del siglo XVIII**
+![jardines](https://jardinessinfronteras.files.wordpress.com/2017/01/eyrignac-m2.jpg?w=616&h=462)
 
 **Los románticos**
 **Goya (1820), Saturno devorando a su hijo**
-![Goya 1820](/1-contemporanea%20/1-images/Saturno_devorando_a_su__hijo.jpg)
+
 
 [![Saturno-devorando-a-su-hijo.jpg](https://i.postimg.cc/5y6S7Rsm/Saturno-devorando-a-su-hijo.jpg)](https://postimg.cc/D43GmBkW)
 
  * los sentimientos no se van
-![Goya 1820](/1-contemporanea%20/1-images/Delacroix_La%20libertad%20guiando%20al%20pueblo.jpg)
-
  * Te ganan los sentimientos
  * El juez y su hijo
 
-[![PORTADA-laspenasdel-jove.jpg](https://i.postimg.cc/xjvLSZp8/PORTADA-laspenasdel-jove.jpg)](https://postimg.cc/HjLrw6g1)
-
-![Las pena del Joven](/1-contemporanea%20/1-images/PORTADA_laspenasdel%20jove.jpg)
+<img src="https://www.elsotano.com/imagenes_grandes/9789505/978950563013.JPG" width="300px">
 
 ### En filosofía el romanticismo esta marcado por lo siguiente
 * La razón infinita
