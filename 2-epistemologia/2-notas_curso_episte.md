@@ -162,8 +162,10 @@ Mortiz, Carnap, Reichenbach, Kraft…Popper
 >**Tarea**: Leer libro X de la República de Platón
 
 <img src="https://i.postimg.cc/sgH97Cv6/Conocimiento-Clasicos-Platon-2.jpg" width="1000px">
+<img src="https://scontent.ftij3-1.fna.fbcdn.net/v/t1.6435-9/97976729_254450389326231_1151827941508775936_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9267fe&_nc_eui2=AeEE-21F4jO9DYSRCyP6yG-ajsLBNSkJOmiOwsE1KQk6aMU0Gsq5YkfsgGsYvqt90Anrx6Gj5kfb2L0gqxA4IZ55&_nc_ohc=hlZN1FSnnmsAX9lOCFO&_nc_ht=scontent.ftij3-1.fna&oh=00_AfD7DFwCJw-cTyzR6mgiOEuHFOaMJeutRoPeiT3hT_QTZg&oe=6408B878" width="500px">
+<img src="https://www.socialhizo.com/images/filosofia/platon/teoria-ideas.png" width="500px">
 
-
+**Dejando los cartones de Platón**
 
 <img src="https://tienda.fciencias.unam.mx/2005-large_default/la-republica.jpg" width="300px">
 
