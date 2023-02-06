@@ -160,6 +160,11 @@ Mortiz, Carnap, Reichenbach, Kraft…Popper
 
 # SEMANA 2
 >**Tarea**: Leer libro X de la República de Platón
+
+<img src="https://i.postimg.cc/sgH97Cv6/Conocimiento-Clasicos-Platon-2.jpg" width="1000px">
+
+
+
 <img src="https://tienda.fciencias.unam.mx/2005-large_default/la-republica.jpg" width="300px">
 
 <img src="https://i.postimg.cc/prN7PHP1/Conocimiento-Clasicos-Platon-1.jpg" width="1000px">
