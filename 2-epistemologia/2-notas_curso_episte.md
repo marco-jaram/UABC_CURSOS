@@ -1,4 +1,4 @@
-# Notas Filosofía contemporánea
+# Notas de Filosofía contemporánea
 <a name="inicio">INICIO</a>
 
 
@@ -159,7 +159,147 @@ Mortiz, Carnap, Reichenbach, Kraft…Popper
 <a name="SEMANA_2">2</a>
 
 # SEMANA 2
->**Tarea**: Leer libro X de la Republica de Platón
+>**Tarea**: Leer libro X de la República de Platón
+<img src="https://tienda.fciencias.unam.mx/2005-large_default/la-republica.jpg" width="300px">
+
+<img src="https://i.postimg.cc/prN7PHP1/Conocimiento-Clasicos-Platon-1.jpg" width="1000px">
+
+<img src="https://i.postimg.cc/Kvtbk0VM/Conocimiento-Clasicos-Platon.jpg" width="1000px">
+
+
+## Platón
+**Citas de libro X**
+>347-
+**595a**
+Reflexión en nuestro reglamento sobre la poesía
+
+>Homero, en efecto, tiene todo el aire de haber sido el primer maestro y guía de todos estos bellos
+poetas trágicos. Pero como a ningún hombre he de honrarse de preferencia a la verdad, he de
+decir lo que pienso.
+
+
+
+**La imitación**
+
+>348-
+**596b**
+Hay pluralidad de camas y otra de mesas
+Mas para todos estos muebles hay sólo dos ideas: una la de cama y otra la de mesa.
+
+**el artista**
+
+>Es capaz de fabricar todos los muebles, sino que hace todo cuanto brota de la tierra y produce
+todo lo viviente... es el artista del que hablas
+
+>349
+... con sólo que quieras tomar un espejo... harás el sol y los astros del cielo; rápidamente la tierra
+
+**El pintor**
+>**597a** -
+El pintor...
+No son verdaderas las cosas que hace; y sin embargo, él fabrica también, de alguna modo, una
+cama
+
+>Algo análogo a la real pero no lo real
+¿Cuál podría ser la condición de nuestro imitador?
+
+
+**Tres son.. las camas**
+>La que existe por naturaleza...la que hace el carpintero... Y otra la que hace el pintor
+351
+El arte imitativo... es en razón de que no alcanza sino poco de cada cosa, es decir su simulacro
+
+>352-
+**598e** -
+Homero... tiene un conocimiento no solamente de todas las artes, sino también, en el orden de las
+cosas humanas
+
+>Debemos examinar, por consiguiente, sí estas gentes, al toparse con tales imitadores, no han sido
+víctimas de una ilusión... triple distancia del ser
+
+>353
+No eximamos de Homero... que nos den razón de las cosas que hablan... solo imitador del lenguaje
+de los médicos; o cuales son los enfermos que han curado alguno de los poetas antiguos o modernos
+
+**Todos loa poetas**
+>**600e**
+Todos los poetas no son sino imitadores de imágenes de virtud
+
+... que no alcanza la verdad
+
+>355 -
+**600c**
+El creador de fantasmas. El imitador, decimos, no entiende nada del ser, sino de la apariencia
+
+>356 - 
+El imitador... no tendrá ni ciencia ni opinión justa sobre la belleza o fealdad de las cosas que imita
+
+>357 -
+El imitador no tiene sino un conocimiento insignificante de la cosas que imita; en que la imitación es una forma de juego que **no hay por que tomar en serio** , y en que los que la emprenden con la
+poesía trágica... son todos imitadores como el que más.
+
+>Objetos nos parecen encorvados..veamos en el agua o fuera de ella... todo esto revela en nuestra
+alma una gran perturbación; y esta enfermedad de nuestra naturaleza es la que explota la pintura
+en el claroscuro.
+
+>358- 
+Regla del calculo, de la medición y del peso
+Elemento razonador que hay en nuestra alama
+Lo que remite a la medida y al calculo será lo mejor de nuestra alama
+El arte imitativa, en consecuencia, mediocre ya de suyo y ayuntada a lo mediocre, engendra lo mediocre
+
+>359-
+**Planteemos el problema** <br>
+La poesía imitativa, decimos representa a las hombres en sus actos forzosos o voluntarios, por
+cuya comisión se imaginan ellos que son felices o desgraciados. ... experimentan tristeza o alegría
+¿0 hace otra cosa más de eso?
+
+>361
+Es la mejor parte de nosotros la que consiste en seguir los preceptos de la razón
+Mientras la que nos llega a estar rememorando nuestra desgracia y a estar lamentándonos
+insaciablemente, diremos que es la parte irracional, indolente, y adicta a la cobardía
+
+ 
+
+>El Poeta imitativo no tiene una afinidad natural con el principio racional del alma... sino que su
+inclinación le lleva mas bien al carácter irritable y multiforme, que es el mas fácil de imitar.
+
+
+>Implanta en el mal gobierno a la propia alma de cada uno,complaciendo a la parte irracional, que
+no es capaz de distinguir la grande de de lo pequeño, sino que tiene las mismas cosas ya por grandes,ya por pequeñas.
+
+
+
+
+>362
+Pero todavía no hemos formulado la mas grande acusación contra la poesía... su capacidad de
+corromper inclusive a los hombres buenos
+
+>Los mejores entre nosotros cuando oímos a Homero...
+
+>Sentimos placer y nos abandonamos al curso de la representación con la simpatía y el entusiasmo
+
+>Elemento del alma que reprimimos por fuerza en nuestras desgracias personales, que tiene sed de
+lagrimas y de gemir... el mismo al que los poetas hartan y regocijan.
+
+
+
+>364-
+
+Si, por el contrario, das entrada a la musa voluptuosa, en la lírica o en la épica, reinarán en tu
+ciudad el placer y el dolor en lugar de la ley y de la norma que en cada caso reconozca la comunidad como la mejor.
+
+>
+**Es ya antigua la discordia entre la filosofía y la poesía**
+
+
+>365
+Será un beneficio para nosotros el que la poesía pueda mostrársenos tan grata como útil.
+El razonamiento que hemos hecho, como un contra conjuro a su conjura
+No hay por que tomar en serio esta poesía como si fuese ella misma coas seria.
+
+>366-- 
+El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo preserva y lo beneficia.
 
 [Ir a inicio](#inicio)
 
