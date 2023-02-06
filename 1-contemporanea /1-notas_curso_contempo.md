@@ -97,7 +97,7 @@ y ha abierto el camino a su interpretación idealista...
 generalmente en el ambiente filosófico de la época y a ella se refieren, positiva
 o polémicamente, Fichte, Maimón, Schelling, Hegel y Schopenhauer. -N. Abbagnano
 
-### EL ROMANISMO
+### EL ROMANTICISMO
 > ...alcanzó su máximo florecimiento en toda Europa durante los primeros decenios del siglo XIX.
 
 > El significado corriente del término "romántico" [] equivale a "sentimental"...
