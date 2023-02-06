@@ -93,7 +93,7 @@
 <a name="SEMANA_3">3</a>
 
 # SEMANA 3
-#### Antecedentes del estructuralismo.
+### Antecedentes del estructuralismo.
 
 **Ferdinand de Saussure.**
 <!-- <img src="" width="300px"> -->
@@ -108,13 +108,18 @@
   * Primero
   * Segundo
   * Tercero
+  
+  
+* **Sincronía y diacronia**
+* La inmutabilidad
+* La lengua como sistema
 
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_4">4</a>
 
 # SEMANA 4
-
+### Formalismo ruso
 
 [Ir a inicio](#inicio)
 
