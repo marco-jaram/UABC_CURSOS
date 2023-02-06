@@ -20,6 +20,8 @@
 * [SEMANA_17](#SEMANA_17)
 
 
+<!-- <img src="" width="300px"> -->
+<!-- ![Titulo](http) -->
 
 <a name="SEMANA_1">1</a>
 
@@ -30,7 +32,17 @@
  Bolivar Botia, A.(2001). El estructuralismo: de Levi-Strauss a Derrida. España: Ediciones pedagógicas <br>
   [Antología estructuralismo](https://drive.google.com/drive/folders/1MJEJFo2fwho6S40_zIZgdl4KoqGT4M9i?usp=share_link)
 
+  <img src="https://i.postimg.cc/t4v4QkbT/portada-botia.png" width="300px">
 
+* El movimiento estructuralista, ¿recambio del existencialismo?
+* Las estructuras, ¿empíricas o teóricas? 
+
+**Citas:**
+>Casi ningún autor de los que vamos a estudiar a continuación, exceptuando quizá a Lévi-Strauss y Lacan, se  ha sentido cómodo con el calificativo común de estructuralista.
+
+>La filosofía francesa, hasta que surge el estructura lismo, estuvo dominada (1930-60), como ha subrayado  [...] por la generación de las «3 H» (Hegel, Husserl y Heidegger). 
+
+> [Foucacult]: [...] nos habíamos alejado demasiado [...] de la generación de Sartre [..] que había optado apasionadamente por la vida, la política y la existencia... Nosotros en cambio[..] la pasión por el concepto y por lo que yo llamaría el sistema. 
 
 
 [Ir a inicio](#inicio)
@@ -38,6 +50,42 @@
 <a name="SEMANA_2">2</a>
 
 # SEMANA 2
+**Continuación**
+>**TAREA**:  
+  Leer parte 1 del libro: 
+ Bolivar Botia, A.(2001). El estructuralismo: de Levi-Strauss a Derrida. España: Ediciones pedagógicas <br>
+  [Antología estructuralismo](https://drive.google.com/drive/folders/1MJEJFo2fwho6S40_zIZgdl4KoqGT4M9i?usp=share_link)
+ <img src="https://i.postimg.cc/t4v4QkbT/portada-botia.png" width="300px">
+
+* El modelo lingüístico  
+* La disputa del humanismo  
+* La historia en el exilio
+  
+
+>La estructura es lo que revela el análisis interno de una totalidad: los elementos, las relaciones entre estos elementos y la disposición, el sistema, de estas relaciones entre sí.  -Pouillon. 
+
+>En este primer nivel se puede definir el estructuralismo por oposición al atomismo, en la medida que el  primero resalta el carácter de totalidad e interdependencia de los elementos que lo forman. Para el atomismo, en cambio, se concibe toda realidad compuesta de  elementos que pueden aislarse, descomponerse, ya que  el todo es una suma o yuxtaposición de sus componen tes
+
+>La novedad del concepto de estructura en el estructuralismo comienza cuando, al igual que en los fenómenos lingüísticos, se postula un modelo teórico en conjuntos que hasta entonces no eran evidentes, por no  ser aprehensible empíricamente su carácter estructural.  Así una lengua está formada por sonidos que no se  vuelven significativos informativamente, como mostró  la fonología, más que en la medida en que se diferencian perceptivamente de otros dentro de una cadena.  Tales rasgos distintivos, en función de sus diferencias,  forman un sistema de oposiciones que marca la estructura fonológica de una lengua.
+
+**El modelo lingüístico**
+>La lingüística moderna comienza, con el nuevo enfoque y metodología que inaugura Ferdinand de Saussure , en la primera década de este siglo.
+
+>[...] la lengua debe considerarse como un sistema, entendiendo  por tal que un elemento lingüístico no tiene realidad in dependientemente de su relación con los otros que for man el conjunto: la lengua es un sistema que no conoce más que su propio orden.
+
+>[la lengua] es un sistema de valores  constituido por meras diferencias
+
+**La disputa del humanismo**
+>Quizá uno de los aspectos más provocativos del es tructuralismo, en el plano filosófico,
+* vs papel del sujeto
+* rechazo del humanismo
+
+>[vs humanismo] esta crítica se hace a todo  lo que ha significado la conciencia, tratando de descubrir un inconsciente estructural
+
+**La historia en el exilio**
+>El método estructural aplicado a la historia dará prioridad al punto de vista sincrónico * sobre el diacrónico,  lo que no significa negar la explicación histórica, pero  sí desplazarla para colocarla fuera de la estructura
+
+>[Levi-Strauss]lo que rechaza es  la imagen histórica del progreso desde las pautas de  valor de la civilización occidental como universalmente  válidas.
 
 
 [Ir a inicio](#inicio)
@@ -45,6 +93,21 @@
 <a name="SEMANA_3">3</a>
 
 # SEMANA 3
+#### Antecedentes del estructuralismo.
+
+**Ferdinand de Saussure.**
+<!-- <img src="" width="300px"> -->
+<!-- ![Titulo](http) -->
+
+<img src="https://m.media-amazon.com/images/I/51JOOCkzFKL._SX346_BO1,204,203,200_.jpg" width="300px">
+
+* Historia breve de la lingüística
+* La lingüística según Saussure
+* Que es el signo
+* Principios genrales
+  * Primero
+  * Segundo
+  * Tercero
 
 [Ir a inicio](#inicio)
 
