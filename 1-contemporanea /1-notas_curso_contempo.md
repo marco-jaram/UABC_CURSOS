@@ -166,8 +166,7 @@ Leer primera parte de 1Fragmento-Fichte-Doctrina-de-La-Ciencia-1794.
 Juan Teófilo Fichte nació en Rammenau el 19 de mayo de 1762, de
 familia muy pobre.
 
-> "Yo estoy llamado, escribe (Werke, VI,
-p. 333), a dar testimonio de la verdad... Soy un sacerdote de la verdad; estoy
+> "Yo estoy llamado, escribe (Werke, VI,p. 333), a dar testimonio de la verdad... Soy un sacerdote de la verdad; estoy
 a sueldo suyo, me he comprometido a hacerlo todo, a arriesgarlo todo, a
 sufrirlo todo por ella."
 
@@ -185,8 +184,7 @@ sufrirlo todo por ella."
 
 >Las leyes <(de la lógica general)>,[...] que se las supone tácitamente como conocidas e indudables. [...] se admite sin controversia, es lícito, para establecer el principio fundamental supremo, apelar a todas las leyes de la lógica general.
 
->Pongamos,
-pues, un hecho cualquiera de la conciencia empírica; y separemos de él, una
+>Pongamos,pues, un hecho cualquiera de la conciencia empírica; y separemos de él, una
 tras otra, todas las determinaciones empíricas, hasta que solamente quede
 aquello de lo que ya no se puede en absoluto prescindir y de donde ya no es
 posible separar nada.
@@ -235,11 +233,16 @@ proposición: yo soy
 
 **Descartes**
 >la precisión cogitans es completamente superflua; no se piensa necesariamente si se es, pero se es necesariamente si se piensa. El pensamiento no es en absoluto la esencia, sino sólo una determinación particular del ser;
-
+<br>
+Ahi estan las piedras y no piensan, son y no piensan. Si piensas eres necesariamente. 
 **Spinoza**
 
 >[...] la primera en Dios, que nunca es consciente de sí, puesto que la conciencia pura no llega nunca a la conciencia; pone la segunda en las modificaciones particulares de la divinidad. Su sistema, así establecido, es plenamente consecuente e irrefutable, porque se desenvuelve
 en un terreno en donde la razón no puede seguirlo; pero este sistema carece de fundamento; en efecto, ¿con qué derecho rebasa la conciencia pura, dada en la conciencia empírica?
+Espinoza se ve arrinconado y lo soluciona con Dios
+Se pregunta que es el yo fuera del yo
+pone a Dios como concienci, nunca como consciente de si, asi cachetonamente.
+Con que derech rebasa la conciencia pura dada en la conciencia empirica?
 
 [Video. Primer principio de La Doctrina de la Ciencia](https://drive.google.com/file/d/1Jdqp77OW950OgxX0j-7509PU2WV_zSbH/view?usp=share_link)
 
