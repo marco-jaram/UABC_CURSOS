@@ -232,9 +232,11 @@ proposición: yo soy
 >En su deducción de las categorías, **KANT** preludia nuestro principio como principio fundamental absoluto de todo saber; pero nunca lo ha estudiado precisamente como principio fundamental.
 
 **Descartes**
->la precisión cogitans es completamente superflua; no se piensa necesariamente si se es, pero se es necesariamente si se piensa. El pensamiento no es en absoluto la esencia, sino sólo una determinación particular del ser;
-<br>
-Ahi están las piedras y no piensan, son y no piensan. Si piensas eres necesariamente. 
+>la precisión cogitans es completamente superflua; no se piensa necesariamente si se es, pero se es necesariamente si se piensa. El pensamiento no es en absoluto la esencia, sino sólo una determinación particular del ser...
+
+
+>Ahi están las piedras y no piensan, son y no piensan. En cambio si piensas eres necesariamente. --Marco J
+
 <br>
 
 
