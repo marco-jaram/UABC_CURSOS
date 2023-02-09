@@ -234,7 +234,8 @@ proposición: yo soy
 **Descartes**
 >la precisión cogitans es completamente superflua; no se piensa necesariamente si se es, pero se es necesariamente si se piensa. El pensamiento no es en absoluto la esencia, sino sólo una determinación particular del ser;
 <br>
-Ahi estan las piedras y no piensan, son y no piensan. Si piensas eres necesariamente. 
+Ahi están las piedras y no piensan, son y no piensan. Si piensas eres necesariamente. 
+<br>
 **Spinoza**
 
 >[...] la primera en Dios, que nunca es consciente de sí, puesto que la conciencia pura no llega nunca a la conciencia; pone la segunda en las modificaciones particulares de la divinidad. Su sistema, así establecido, es plenamente consecuente e irrefutable, porque se desenvuelve
