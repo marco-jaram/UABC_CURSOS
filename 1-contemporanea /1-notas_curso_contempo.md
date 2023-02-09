@@ -235,7 +235,7 @@ proposición: yo soy
 >la precisión cogitans es completamente superflua; no se piensa necesariamente si se es, pero se es necesariamente si se piensa. El pensamiento no es en absoluto la esencia, sino sólo una determinación particular del ser...
 
 
->Ahi están las piedras y no piensan, son y no piensan. En cambio si piensas eres necesariamente. --Marco J
+>Ahi están las piedras y no piensan, son y no piensan. En cambio si piensas eres necesariamente. --Marco J.
 
 <br>
 
@@ -244,10 +244,20 @@ proposición: yo soy
 
 >[...] la primera en Dios, que nunca es consciente de sí, puesto que la conciencia pura no llega nunca a la conciencia; pone la segunda en las modificaciones particulares de la divinidad. Su sistema, así establecido, es plenamente consecuente e irrefutable, porque se desenvuelve
 en un terreno en donde la razón no puede seguirlo; pero este sistema carece de fundamento; en efecto, ¿con qué derecho rebasa la conciencia pura, dada en la conciencia empírica?
-Espinoza se ve arrinconado y lo soluciona con Dios
-Se pregunta que es el yo fuera del yo
-pone a Dios como concienci, nunca como consciente de si, asi cachetonamente.
-Con que derech rebasa la conciencia pura dada en la conciencia empirica?
+
+>Espinoza se ve arrinconado y lo soluciona con Dios.
+Se pregunta que es el yo fuera del yo.
+Pone a Dios como conciencia, nunca como consciente de si, asi cachetonamente -- Marco J.
+
+```
+RAE
+ cachetón, na
+De cachete y -ón1.
+1. adj. Am. carrilludo.
+2. adj. coloq. Chile. farsante.
+quedar cachetón, na
+1. loc. verb. coloq. Hond. Quedar muy bien.
+```
 
 [Video. Primer principio de La Doctrina de la Ciencia](https://drive.google.com/file/d/1Jdqp77OW950OgxX0j-7509PU2WV_zSbH/view?usp=share_link)
 
