@@ -12,9 +12,9 @@
 | 7  MURGUIA HERRERA PABLO ABEL             | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
 | 8  QUIJAS MEZTA JAVIER DE JESUS           | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
 | 9  QUIÑONEZ FONG CRISTHIAN LEONEL         | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
-| 10  RAMIREZ ALCANTAR ROBERTO              | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
+| 10  RAMIREZ ALCANTAR ROBERTO              | [][] | [][x] | [][] | [][] | [][] | [][] | [][] | [][] |
 | 11  TORRES RIVERA ANDREA ESPERANZA        | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
-| 12  VILLA ORTEGA SERGIO DANIEL            | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
+| 12  VILLA ORTEGA SERGIO DANIEL            | [][] | [][x] | [][] | [][] | [][] | [][] | [][] | [][] |
 | 13  VILLEGAS RODRIGUEZ CITLALLI ESMERALDA | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
 
 
@@ -73,9 +73,9 @@
 
 | zn | zn | zn | zn | zn | zn |
 |----|----|----|----|----|----|
+|   | 2  | x  | 3  | 11  | 1  |
+| 13  | x  | x  | x  | x  | 4  |
+| x  | x  | x  | 6  | 7  | x  |
+| x  | x  | x  | 8  | x  | x  |
 | x  | x  | x  | x  | x  | x  |
-| x  | x  | x  | x  | x  | x  |
-| x  | x  | x  | x  | x  | x  |
-| x  | x  | x  | x  | x  | x  |
-| x  | x  | x  | x  | x  | x  |
-| x  | x  | x  | x  | x  | x  |
+| x  | 9  | x  | 5  | x  | x  |

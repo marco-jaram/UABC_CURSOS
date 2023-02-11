@@ -27,7 +27,7 @@
 
 # SEMANA 1
 
->**TAREA**:  
+>**TAREA:**  
   Leer parte 1 del libro: 
  Bolivar Botia, A.(2001). El estructuralismo: de Levi-Strauss a Derrida. España: Ediciones pedagógicas <br>
   [Antología estructuralismo](https://drive.google.com/drive/folders/1MJEJFo2fwho6S40_zIZgdl4KoqGT4M9i?usp=share_link)
@@ -40,7 +40,7 @@
 **Citas:**
 >Casi ningún autor de los que vamos a estudiar a continuación, exceptuando quizá a Lévi-Strauss y Lacan, se  ha sentido cómodo con el calificativo común de estructuralista.
 
->La filosofía francesa, hasta que surge el estructura lismo, estuvo dominada (1930-60), como ha subrayado  [...] por la generación de las «3 H» (Hegel, Husserl y Heidegger). 
+>La filosofía francesa, hasta que surge el estructuralismo, estuvo dominada (1930-60), como ha subrayado  [...] por la generación de las «3 H» (Hegel, Husserl y Heidegger). 
 
 > [Foucacult]: [...] nos habíamos alejado demasiado [...] de la generación de Sartre [..] que había optado apasionadamente por la vida, la política y la existencia... Nosotros en cambio[..] la pasión por el concepto y por lo que yo llamaría el sistema. 
 
