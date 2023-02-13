@@ -284,14 +284,15 @@ del modo de la acción. Pasemos ahora a su producto = -A.
 [continua]
 
 
-**Gráfico general**
-[![2023-02-04-154649-1341x857-scrot.png](https://i.postimg.cc/Wpyb5yJR/2023-02-04-154649-1341x857-scrot.png)](https://postimg.cc/6TdX3Y0z)
-
+**Fichte contra la razón finita**
 [![fichte1contralarazonfinita.jpg](https://i.postimg.cc/qBbDX10T/fichte1contralarazonfinita.jpg)](https://postimg.cc/JtXQRcG6)
 
+**Fichte y su razón infinita**
 [![fichte2larazoninfinita.jpg](https://i.postimg.cc/7Y5sBSYT/fichte2larazoninfinita.jpg)](https://postimg.cc/56MSyYzx)
 
 
+**Gráfico general**
+[![2023-02-04-154649-1341x857-scrot.png](https://i.postimg.cc/Wpyb5yJR/2023-02-04-154649-1341x857-scrot.png)](https://postimg.cc/6TdX3Y0z)
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_3">3</a>
