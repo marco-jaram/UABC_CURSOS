@@ -286,8 +286,14 @@ del modo de la acción. Pasemos ahora a su producto = -A.
 
 **Gráfico general**
 [![2023-02-04-154649-1341x857-scrot.png](https://i.postimg.cc/Wpyb5yJR/2023-02-04-154649-1341x857-scrot.png)](https://postimg.cc/6TdX3Y0z)
-[Ir a inicio](#inicio)
 
+[![fichte1contralarazonfinita.jpg](https://i.postimg.cc/qBbDX10T/fichte1contralarazonfinita.jpg)](https://postimg.cc/JtXQRcG6)
+
+[![fichte2larazoninfinita.jpg](https://i.postimg.cc/7Y5sBSYT/fichte2larazoninfinita.jpg)](https://postimg.cc/56MSyYzx)
+
+
+
+[Ir a inicio](#inicio)
 <a name="SEMANA_3">3</a>
 
 # SEMANA 3
