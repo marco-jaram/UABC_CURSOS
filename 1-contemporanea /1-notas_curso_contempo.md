@@ -294,12 +294,42 @@ del modo de la acción. Pasemos ahora a su producto = -A.
 **Gráfico general**
 [![2023-02-04-154649-1341x857-scrot.png](https://i.postimg.cc/Wpyb5yJR/2023-02-04-154649-1341x857-scrot.png)](https://postimg.cc/6TdX3Y0z)
 
+<!--  
+el amor como infinito
+descartes 
+
+ -->
+
 [Ir a inicio](#inicio)
 <a name="SEMANA_3">3</a>
 
 # SEMANA 3
+##  Friedrich Schelling 
 
 
+![fichte.jpg]( https://geneee.org/g?lang=es;m=IM;d=1517592704;p=friedrich;n=schelling;k=/friedrich.0.schelling )
+
+* Nacido el 27 de enero 1775 - Leonberg (DE)
+* Fallecido el 20 de agosto 1854 - Bad Ragaz. 79 años
+
+> Según Schelling, la base del desarrollo, tanto de la Naturaleza como de la razón, es una sola y misma fuerza espiritual, el “Absoluto”. 
+
+> La Naturaleza, o la materia, es el producto “inconsciente” de esta fuerza espiritual activa, diligente, y fase preparatoria para la razón (para el espíritu). La razón, según Schelling, se halla en un desarrollo dialéctico. La Naturaleza y la conciencia, el objeto y el sujeto, afirmaba Schelling, se confunden en el Absoluto. <br>[www.filosofia.org/diccionario](https://www.filosofia.org/enc/ros/sc1.htm)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Friedrich_Wilhelm_Joseph_Schelling%2C_1848_daguerreotype_2.jpg" width="500px">
+<br>
+<br>
+
+> [...] la sustancia de Spinoza es el principio de la infinitud objetiva; el yo de Fichte es el principio de la infinitud subjetiva. Schelling quiso unir los dos infinitos en el concepto de un absoluto que no fuera reducible al sujeto ni al objeto, porque tiene que ser el fundamento de ambos.
+
+>El artista se lanza a su creación por una fuerza
+inconsciente que lo inspira y lo entusiasma: fuerza que le obliga a expresar o
+escribir cosas que ni el mismo penetra enteramente y cuyo significado es
+infinito (System, Werke, I, III, p. 617).
+
+>El arte lleva a todo el hombre, tal como es, hacia el
+conocimiento del punto más alto, y en esto consiste la eterna diversidad y el
+milagro del arte" (Ib., p. 630).
 
 [Ir a inicio](#inicio)
 
