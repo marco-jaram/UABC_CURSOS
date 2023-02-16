@@ -1,6 +1,7 @@
 # Notas de Filosofía contemporánea
 <a name="inicio">INICIO</a>
 
+[Videos](https://drive.google.com/drive/folders/1gaImpXuMtUl2cuuhFD1H2qHXdC-sDB5S?usp=share_link)
 
 * [SEMANA_1](#SEMANA_1)
 * [SEMANA_2](#SEMANA_2)
