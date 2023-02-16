@@ -315,6 +315,8 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 # SEMANA 3
 >**Tarea**:
 
+<img src="https://i.postimg.cc/tCBn5Wb5/arist-meta-episte1.jpg" width="500px">
+<img src="" width="500px">
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_4">4</a>
