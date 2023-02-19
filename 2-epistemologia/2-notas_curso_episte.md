@@ -337,9 +337,14 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 ## Subjetividad y modernidad
  <img src="https://i.postimg.cc/26gVtMT6/Descartes-maximas.jpg" alt="">
   <img src="https://i.postimg.cc/02sZL55R/PORTADAdiscursodelmetodo-preceptos-trota.png" alt="">
-   <img src="" alt="">
-      <img src="" alt="">
-         <img src="" alt="">
+
+   <img src="https://i.postimg.cc/7LdnXwtR/discursodelmetodo-preceptos-trota.png" alt="">
+
+   
+  <img src="https://i.postimg.cc/cCNMyTSM/discursodelmetodo-preceptos-trota2.png" alt="">
+
+
+  <img src="" alt="">
          
 
 [Ir a inicio](#inicio)
