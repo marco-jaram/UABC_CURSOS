@@ -335,6 +335,8 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 # SEMANA 4
 
 ## Subjetividad y modernidad
+
+## Descartes
  <img src="https://i.postimg.cc/26gVtMT6/Descartes-maximas.jpg" alt="">
   <img src="https://i.postimg.cc/02sZL55R/PORTADAdiscursodelmetodo-preceptos-trota.png" alt="">
 
@@ -343,8 +345,8 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
    
   <img src="https://i.postimg.cc/cCNMyTSM/discursodelmetodo-preceptos-trota2.png" alt="">
 
-
-  <img src="" alt="">
+## Kant
+  <img src="https://lucid.app/publicSegments/view/f282be18-5ef3-49a8-98e6-ef31e2851520/image.png" alt="">
          
 
 [Ir a inicio](#inicio)
