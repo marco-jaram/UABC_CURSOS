@@ -314,10 +314,20 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 <a name="SEMANA_3">3</a>
 
 # SEMANA 3
+
 >**Tarea**:
+
+<img src="https://historia.nationalgeographic.com.es/medio/2020/03/13/aristoteles_e4c48da3_550x825.jpg" width="500px">
+
 
 <img src="https://i.postimg.cc/tCBn5Wb5/arist-meta-episte1.jpg" width="500px">
 <img src="" width="500px">
+
+
+
+
+
+
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_4">4</a>
