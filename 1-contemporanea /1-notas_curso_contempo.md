@@ -362,8 +362,27 @@ Clásicos sobre Hegel
   * el saber y la revelación
   
 Ver introducción y el papel de la filosofía ante la ciencia o lo absoluto.  
+<!-- 
+https://i.postimg.cc/8CDXtz95/Fenomenolog-a-del-esp-ritu-1.jpg
+https://i.postimg.cc/VNRGTcPF/Fenomenolog-a-del-esp-ritu-2.jpg
+https://i.postimg.cc/gJ2SbBYb/Fenomenolog-a-del-esp-ritu-3.jpg
+https://i.postimg.cc/LXQy9BXY/Fenomenolog-a-del-esp-ritu-4.jpg
+https://i.postimg.cc/Y04dhGGX/Fenomenolog-a-del-esp-ritu-5.jpg
+https://i.postimg.cc/j2GZNxyR/Fenomenolog-a-del-esp-ritu-6.jpg
+https://i.postimg.cc/jq98BXmB/Fenomenolog-a-del-esp-ritu-7.jpg
+https://i.postimg.cc/GhyMRD1t/Fenomenolog-a-del-esp-ritu-8.jpg
+ -->
 
+<a href="https://postimg.cc/qNbG74kV" target="_blank"><img src="https://i.postimg.cc/qNbG74kV/Fenomenolog-a-del-esp-ritu-1.jpg" alt="Fenomenolog-a-del-esp-ritu-1"/></a><br/><br/>
+<a href="https://postimg.cc/B8jBLk68" target="_blank"><img src="https://i.postimg.cc/B8jBLk68/Fenomenolog-a-del-esp-ritu-2.jpg" alt="Fenomenolog-a-del-esp-ritu-2"/></a><br/><br/>
+<a href="https://postimg.cc/Y4Tf1RGd" target="_blank"><img src="https://i.postimg.cc/Y4Tf1RGd/Fenomenolog-a-del-esp-ritu-3.jpg" alt="Fenomenolog-a-del-esp-ritu-3"/></a><br/><br/>
+<a href="https://postimg.cc/sQSPKW5s" target="_blank"><img src="https://i.postimg.cc/sQSPKW5s/Fenomenolog-a-del-esp-ritu-4.jpg" alt="Fenomenolog-a-del-esp-ritu-4"/></a><br/><br/>
+<a href="https://postimg.cc/fSNcPbvX" target="_blank"><img src="https://i.postimg.cc/fSNcPbvX/Fenomenolog-a-del-esp-ritu-5.jpg" alt="Fenomenolog-a-del-esp-ritu-5"/></a><br/><br/>
+<a href="https://postimg.cc/y3ymCzfG" target="_blank"><img src="https://i.postimg.cc/y3ymCzfG/Fenomenolog-a-del-esp-ritu-6.jpg" alt="Fenomenolog-a-del-esp-ritu-6"/></a><br/><br/>
+<a href="https://postimg.cc/WtG6kM27" target="_blank"><img src="https://i.postimg.cc/WtG6kM27/Fenomenolog-a-del-esp-ritu-7.jpg" alt="Fenomenolog-a-del-esp-ritu-7"/></a><br/><br/>
+<a href="https://postimg.cc/dLJRmL3c" target="_blank"><img src="https://i.postimg.cc/dLJRmL3c/Fenomenolog-a-del-esp-ritu-8.jpg" alt="Fenomenolog-a-del-esp-ritu-8"/></a><br/><br/>
 
+![h]()
 
 ### Phänomenologie des Geistes
 1807
