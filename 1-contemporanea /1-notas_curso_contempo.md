@@ -363,14 +363,6 @@ Clásicos sobre Hegel
   
 Ver introducción y el papel de la filosofía ante la ciencia o lo absoluto.  
 
-<img src='https://i.postimg.cc/8CDXtz95/Fenomenolog-a-del-esp-ritu-1.jpg' alt='capullo'>
-<img src='https://i.postimg.cc/VNRGTcPF/Fenomenolog-a-del-esp-ritu-2.jpg' alt='del amor al senr al amor efectivo '>
-<img src='https://i.postimg.cc/gJ2SbBYb/Fenomenolog-a-del-esp-ritu-3.jpg' alt='sabiduria mientras duermen '>
-<img src='https://i.postimg.cc/LXQy9BXY/Fenomenolog-a-del-esp-ritu-4.jpg' alt='nubes del error '>
-<img src='https://i.postimg.cc/Y04dhGGX/Fenomenolog-a-del-esp-ritu-5.jpg' alt='cual es el mejor metodo? '>
-<img src='https://i.postimg.cc/j2GZNxyR/Fenomenolog-a-del-esp-ritu-6.jpg' alt='miedo a la verdad '>
-<img src='https://i.postimg.cc/jq98BXmB/Fenomenolog-a-del-esp-ritu-7.jpg' alt='Certeza sensible esto '>
-<img src='https://i.postimg.cc/GhyMRD1t/Fenomenolog-a-del-esp-ritu-8.jpg' alt='saber absoluto '>
 
 
 
@@ -403,6 +395,7 @@ anteriores o contemporáneas de tratar ese mismo objeto, no sólo parece
 superflua cuando se trata de un libro de filo~ofia, sino que a causa de la
 naturaleza de la cosa parece incluso inadecuada y contraproducente.
 
+<img src='https://i.postimg.cc/8CDXtz95/Fenomenolog-a-del-esp-ritu-1.jpg' alt='capullo'>
 >La opinión entiende la diver-
 sidad de sistemas filosóficos no tanto como un desenvolvimiento de la
 verdad en la marcha misma de tal desenvolvimiento {es decir, no tanto
@@ -413,12 +406,17 @@ en el romper de la flor, y así podría decirse que aquél quedó refutado por
 tencia de la planta, y el fruto como verdad de la planta pasa a ocupar la
 verdad de la flo
 
+
+<img src='https://i.postimg.cc/VNRGTcPF/Fenomenolog-a-del-esp-ritu-2.jpg' alt='del amor al senr al amor efectivo '>
+
 >Pues la verdadera forma en que la verdad existe no puede ser otra que el
 sistema científico de la verdad. Colaborar en ello, colaborar en que la fi-
 losofia se acerque a la forma de la ciencia [Wissenschaft], es decir, se acer-
 que a aquella meta en que pueda deponer el nombre de amor al saber y
 convertirse en un saber efectiv
 
+
+<img src='https://i.postimg.cc/gJ2SbBYb/Fenomenolog-a-del-esp-ritu-3.jpg' alt='sabiduria mientras duermen '>
 
 >Al entregarse al irrefrenado bullir y hervir de la sustancia, quienes asi ha-
 cen se imaginan (obnubilando o encapotando su autoconciencia y aban'-
@@ -435,6 +433,7 @@ misma, es decir, al conocimiento real de aquello que es en verdad {de
 aquello que es la verdad], es necesario entenderse acerca del conocimiento,
 el cual se considera el instrumento con el que uno se apoderaría de lo ab-
 soluto [o del Absoluto] o el medio a través del cual se lo mira 2
+<img src='https://i.postimg.cc/LXQy9BXY/Fenomenolog-a-del-esp-ritu-4.jpg' alt='nubes del error '>
 
 > lo absoluto, si no estuviera ya en y por sí en nosotros, ni
 quisiera estarlo, se burlaría de esa argucia; pues una traza o ardid o argu•
@@ -442,6 +441,15 @@ da sería en este caso el conocimiento, ya que con tan múltiples esfuer-
 zos se da a sí mismo el ademán o la pinta de estar impulsando algo
 completamente distinto que el establecer solamente una relación inme-
 diata y, por tanto, exenta de tales esfuerzos
+
+<img src='https://i.postimg.cc/Y04dhGGX/Fenomenolog-a-del-esp-ritu-5.jpg' alt='cual es el mejor metodo? '>
+
+
+<img src='https://i.postimg.cc/j2GZNxyR/Fenomenolog-a-del-esp-ritu-6.jpg' alt='miedo a la verdad '>
+<img src='https://i.postimg.cc/jq98BXmB/Fenomenolog-a-del-esp-ritu-7.jpg' alt='Certeza sensible esto '>
+<img src='https://i.postimg.cc/GhyMRD1t/Fenomenolog-a-del-esp-ritu-8.jpg' alt='saber absoluto '>
+
+
 
  **Félix Duque :: Fenomenología del Espíritu**
 
