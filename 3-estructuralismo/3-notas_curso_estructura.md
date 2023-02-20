@@ -121,6 +121,11 @@
 # SEMANA 4
 ### Formalismo ruso
 
+[Video. El formalismo ruso](https://www.youtube.com/watch?v=OMse_MxGtzs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMse_MxGtzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/OMse_MxGtzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_5">5</a>
