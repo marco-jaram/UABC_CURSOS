@@ -1,6 +1,51 @@
 {
-    "cSpell.language": "en,es-ES",
+    "cSpell.language": "en,es-ES,es",
     "cSpell.words": [
-        "anios"
-    ]
+        "Abbagnano",
+        "anios",
+        "cachetón",
+        "cachetonamente",
+        "cogitans",
+        "coloq",
+        "contempo",
+        "contemporanea",
+        "contralarazonfinita",
+        "convenirle",
+        "david",
+        "deri",
+        "Drang",
+        "epoje",
+        "feurebacha",
+        "fichte",
+        "filosofia",
+        "Filosofia",
+        "Helgel",
+        "Hólderlin",
+        "horizontaliza",
+        "larazoninfinita",
+        "Leonberg",
+        "Maimon",
+        "MAIMON",
+        "noema",
+        "Perseo",
+        "polémicamente",
+        "prerrefelxiva",
+        "Ragaz",
+        "Rammenau",
+        "scrot",
+        "stirner",
+        "Stirner",
+        "Sturm",
+        "suponerle",
+        "Teófilo",
+        "Werke"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:uabc}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
 }

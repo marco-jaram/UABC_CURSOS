@@ -337,6 +337,79 @@ milagro del arte" (Ib., p. 630).
 
 # SEMANA 4
 
+ <img src="https://phantom-elmundo.unidadeditorial.es/7a59b7e06506c624f8d8563565880689/crop/0x494/1895x1757/resize/473/f/webp/assets/multimedia/imagenes/2020/07/27/15958693148117.jpg" alt="">
+
+## Hegel
+
+* La fenomenología del espíritu en general
+* Ideas del prologo
+* filosofía y ciencia
+  * el capullo
+  * el saber y la revelación
+  
+Ver introducción y el papel de la filosofía ante la ciencia o lo absoluto.  
+## Fenomenología del espíritu
+Prologo
+intro, la sonrisa del absoluto
+solo ven contradicción, no ven ello e unidad
+
+certeza sensible, primer movimiento
+la estructura de la obra
+
+**Prefacio**
+
+
+>Una explicación, tal como es costumbre darla en el prefacio de un libro
+sobre el fin que el autor se propone en él, así como sobre los motivos
+y sobre la relación que el autor cree que ese libro guarda con otras formas
+anteriores o contemporáneas de tratar ese mismo objeto, no sólo parece
+superflua cuando se trata de un libro de filo~ofia, sino que a causa de la
+naturaleza de la cosa parece incluso inadecuada y contraproducente.
+
+>La opinión entiende la diver-
+sidad de sistemas filosóficos no tanto como un desenvolvimiento de la
+verdad en la marcha misma de tal desenvolvimiento {es decir, no tanto
+como un progresivo y sistemático desenvolvimiento de la verdad], sino
+que en dicha diversidad sólo ve la contradicción. El capullo desaparece
+en el romper de la flor, y así podría decirse que aquél quedó refutado por
+ésta, así como la flor queda convicta por el fruto de ser una falsa exis-
+tencia de la planta, y el fruto como verdad de la planta pasa a ocupar la
+verdad de la flo
+
+>Pues la verdadera forma en que la verdad existe no puede ser otra que el
+sistema científico de la verdad. Colaborar en ello, colaborar en que la fi-
+losofia se acerque a la forma de la ciencia [Wissenschaft], es decir, se acer-
+que a aquella meta en que pueda deponer el nombre de amor al saber y
+convertirse en un saber efectiv
+
+
+>Al entregarse al irrefrenado bullir y hervir de la sustancia, quienes asi ha-
+cen se imaginan (obnubilando o encapotando su autoconciencia y aban'-
+donando el entendimiento) ser aquellos suyos [los suyos de los que habla
+la Escritura) a los que Dios da la sabiduría mientras duermen.
+Y asi resulta que lo que efectivamente conciben y paren en el sueño no
+son entonces sino sus propios sueños.y delirios
+
+
+**intro**
+
+>Es una idea muy natural la de que, antes de llegar en filosofía a la cosa
+misma, es decir, al conocimiento real de aquello que es en verdad {de
+aquello que es la verdad], es necesario entenderse acerca del conocimiento,
+el cual se considera el instrumento con el que uno se apoderaría de lo ab-
+soluto [o del Absoluto] o el medio a través del cual se lo mira 2
+
+> lo absoluto, si no estuviera ya en y por sí en nosotros, ni
+quisiera estarlo, se burlaría de esa argucia; pues una traza o ardid o argu•
+da sería en este caso el conocimiento, ya que con tan múltiples esfuer-
+zos se da a sí mismo el ademán o la pinta de estar impulsando algo
+completamente distinto que el establecer solamente una relación inme-
+diata y, por tanto, exenta de tales esfuerzos
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/68xYjvKNuxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VL6IvKmSf7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Ir a inicio](#inicio)
 
