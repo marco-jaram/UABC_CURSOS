@@ -363,14 +363,14 @@ Clásicos sobre Hegel
   
 Ver introducción y el papel de la filosofía ante la ciencia o lo absoluto.  
 
-<img src='https://i.postimg.cc/8CDXtz95/Fenomenolog-a-del-esp-ritu-1.jpg' >
-<img src='https://i.postimg.cc/VNRGTcPF/Fenomenolog-a-del-esp-ritu-2.jpg' >
-<img src='https://i.postimg.cc/gJ2SbBYb/Fenomenolog-a-del-esp-ritu-3.jpg' >
-<img src='https://i.postimg.cc/LXQy9BXY/Fenomenolog-a-del-esp-ritu-4.jpg' >
-<img src='https://i.postimg.cc/Y04dhGGX/Fenomenolog-a-del-esp-ritu-5.jpg' >
-<img src='https://i.postimg.cc/j2GZNxyR/Fenomenolog-a-del-esp-ritu-6.jpg' >
-<img src='https://i.postimg.cc/jq98BXmB/Fenomenolog-a-del-esp-ritu-7.jpg' >
-<img src='https://i.postimg.cc/GhyMRD1t/Fenomenolog-a-del-esp-ritu-8.jpg' >
+<img src='https://i.postimg.cc/8CDXtz95/Fenomenolog-a-del-esp-ritu-1.jpg' alt='capullo'>
+<img src='https://i.postimg.cc/VNRGTcPF/Fenomenolog-a-del-esp-ritu-2.jpg' alt='del amor al senr al amor efectivo '>
+<img src='https://i.postimg.cc/gJ2SbBYb/Fenomenolog-a-del-esp-ritu-3.jpg' alt='sabiduria mientras duermen '>
+<img src='https://i.postimg.cc/LXQy9BXY/Fenomenolog-a-del-esp-ritu-4.jpg' alt='nubes del error '>
+<img src='https://i.postimg.cc/Y04dhGGX/Fenomenolog-a-del-esp-ritu-5.jpg' alt='cual es el mejor metodo? '>
+<img src='https://i.postimg.cc/j2GZNxyR/Fenomenolog-a-del-esp-ritu-6.jpg' alt='miedo a la verdad '>
+<img src='https://i.postimg.cc/jq98BXmB/Fenomenolog-a-del-esp-ritu-7.jpg' alt='Certeza sensible esto '>
+<img src='https://i.postimg.cc/GhyMRD1t/Fenomenolog-a-del-esp-ritu-8.jpg' alt='saber absoluto '>
 
 
 
