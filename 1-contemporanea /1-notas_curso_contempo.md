@@ -349,12 +349,13 @@ milagro del arte" (Ib., p. 630).
   
 Ver introducción y el papel de la filosofía ante la ciencia o lo absoluto.  
 ## Fenomenología del espíritu
-Prologo
-intro, la sonrisa del absoluto
-solo ven contradicción, no ven ello e unidad
 
-certeza sensible, primer movimiento
-la estructura de la obra
+* Prologo
+* Intro, la sonrisa del absoluto
+* Solo ven contradicción, no ven ello e unidad
+
+* Certeza sensible, primer movimiento
+* La estructura de la obra
 
 **Prefacio**
 
