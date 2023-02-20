@@ -123,14 +123,11 @@
 
 [Video. El formalismo ruso](https://www.youtube.com/watch?v=OMse_MxGtzs)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OMse_MxGtzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="315" src="https://www.youtube.com/embed/OMse_MxGtzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OMse_MxGtzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
 
-<iframe src="https://www.youtube.com/watch?v=OMse_MxGtzs" frameborder="0"></iframe>
-
-<iframe width="320" height="180" src="https://www.youtube-nocookie.com/embed/FEa2diI2qgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1"></iframe>
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_5">5</a>
