@@ -340,17 +340,30 @@ milagro del arte" (Ib., p. 630).
  <img src="https://phantom-elmundo.unidadeditorial.es/7a59b7e06506c624f8d8563565880689/crop/0x494/1895x1757/resize/473/f/webp/assets/multimedia/imagenes/2020/07/27/15958693148117.jpg" alt="">
 
 ## Hegel
+**Obra principal**
+* Diferencia entre los Sistemas Filosóficos de Fichte y Schelling 
+* Fenomenología del espíritu 1807
+* Ciencia de la lógica  3 vols. 1812–1816
+* Enciclopedia de las ciencias filosóficas  1830
+* Elementos de la filosofía del derecho, 1821
+* Lecciones sobre la estética  1835–1838 
 
-Clásicos sobre Hegel
+#### Clásicos sobre Hegel
+<img src="https://www.libreriacarlosfuentes.mx/sites/default/files/styles/image_260x400/public/productos/2022-11/978849879466.GIF?itok=luDjFZbW" width="200px">
+<img src="https://m.media-amazon.com/images/I/418t3lVwZxL._SY344_BO1,204,203,200_QL70_ML2_.jpg" width="200px">
+<img src="https://m.media-amazon.com/images/I/514Lrp7WzWL._SY344_BO1,204,203,200_QL70_ML2_.jpg" width="200px">
+<img src="https://pendulo.com/imagenes/9788446/978844604185.GIF" width="200px">
+<img src="https://m.media-amazon.com/images/I/51qvN0eMCbL._SY346_.jpg" width="200px">
+<img src="https://marxismocritico.files.wordpress.com/2013/07/14783-37536_1534154194405_1251320935_1520677_7778177_n.jpg?w=174&h=268" width="200px">
 
-![Kojev](https://www.libreriacarlosfuentes.mx/sites/default/files/styles/image_260x400/public/productos/2022-11/978849879466.GIF?itok=luDjFZbW)
+<img src="https://m.media-amazon.com/images/I/41cWTEKPSiL._SX325_BO1,204,203,200_.jpg" width="200px">
 
-![](https://m.media-amazon.com/images/I/418t3lVwZxL._SY344_BO1,204,203,200_QL70_ML2_.jpg)
-![](https://m.media-amazon.com/images/I/514Lrp7WzWL._SY344_BO1,204,203,200_QL70_ML2_.jpg)
-![](https://cefmiranda.org/esp/wp-content/uploads/2015/10/06.jpg)
-![](https://pendulo.com/imagenes/9788446/978844604185.GIF)
-![](https://m.media-amazon.com/images/I/51qvN0eMCbL._SY346_.jpg)
-![](https://marxismocritico.files.wordpress.com/2013/07/14783-37536_1534154194405_1251320935_1520677_7778177_n.jpg?w=174&h=268)
+<img src="" width="200px">
+<!-- <img src="" width="200px">
+<img src="" width="200px">
+<img src="" width="200px">
+<img src="" width="200px"> -->
+
 
 [Cátedra sobre Hegel. Curso completo](https://sicarioinfernal.blogspot.com/2010/09/clases-introduccion-al-pensamiento-de.html)
 
