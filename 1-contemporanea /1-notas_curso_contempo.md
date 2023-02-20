@@ -408,7 +408,7 @@ diata y, por tanto, exenta de tales esfuerzos
 
  **Félix Duque :: Fenomenología del Espíritu**
 
-[![Alt text  Félix Duque :: Fenomenología del Espíritu](https://img.youtube.com/vi/68xYjvKNuxE/0.jpg)](https://www.youtube.com/watch?v=68xYjvKNuxE)
+[![Alt text  Félix Duque: Fenomenología del Espíritu](https://img.youtube.com/vi/68xYjvKNuxE/0.jpg)](https://www.youtube.com/watch?v=68xYjvKNuxE)
 
 **El saber absoluto de la fenomenología de Hegel y la sociedad del saber**
 
