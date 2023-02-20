@@ -341,6 +341,20 @@ milagro del arte" (Ib., p. 630).
 
 ## Hegel
 
+Clásicos sobre Hegel
+
+![Kojev](https://www.libreriacarlosfuentes.mx/sites/default/files/styles/image_260x400/public/productos/2022-11/978849879466.GIF?itok=luDjFZbW)
+
+![](https://m.media-amazon.com/images/I/418t3lVwZxL._SY344_BO1,204,203,200_QL70_ML2_.jpg)
+![](https://m.media-amazon.com/images/I/514Lrp7WzWL._SY344_BO1,204,203,200_QL70_ML2_.jpg)
+![](https://cefmiranda.org/esp/wp-content/uploads/2015/10/06.jpg)
+![](https://pendulo.com/imagenes/9788446/978844604185.GIF)
+![](https://m.media-amazon.com/images/I/51qvN0eMCbL._SY346_.jpg)
+![](https://marxismocritico.files.wordpress.com/2013/07/14783-37536_1534154194405_1251320935_1520677_7778177_n.jpg?w=174&h=268)
+
+[Cátedra sobre Hegel. Curso completo](https://sicarioinfernal.blogspot.com/2010/09/clases-introduccion-al-pensamiento-de.html)
+
+
 * La fenomenología del espíritu en general
 * Ideas del prologo
 * filosofía y ciencia
@@ -348,6 +362,19 @@ milagro del arte" (Ib., p. 630).
   * el saber y la revelación
   
 Ver introducción y el papel de la filosofía ante la ciencia o lo absoluto.  
+
+
+
+### Phänomenologie des Geistes
+1807
+**Traductores**
+Traductores
+Manuel Jiménez Redondo
+Wenceslao Roces
+
+El recorrido de la conciencia
+[![Fenomenolog-a-del-esp-ritu.jpg](https://i.postimg.cc/1zfHy6pd/Fenomenolog-a-del-esp-ritu.jpg)](https://postimg.cc/2qNvw19d)
+
 ## Fenomenología del espíritu
 
 * Prologo
