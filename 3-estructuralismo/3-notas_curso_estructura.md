@@ -123,9 +123,10 @@
 
 [Video. El formalismo ruso](https://www.youtube.com/watch?v=OMse_MxGtzs)
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/OMse_MxGtzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/OMse_MxGtzs/0.jpg)](https://www.youtube.com/watch?v=OMse_MxGtzs)
 
-
+<!-- 
+[![Alt text](https://img.youtube.com/vi/CODIGO/0.jpg)](https://www.youtube.com/watch?v=CODIGO) -->
 
 
 [Ir a inicio](#inicio)

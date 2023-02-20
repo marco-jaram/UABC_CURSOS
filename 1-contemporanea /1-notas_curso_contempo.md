@@ -406,9 +406,14 @@ zos se da a sí mismo el ademán o la pinta de estar impulsando algo
 completamente distinto que el establecer solamente una relación inme-
 diata y, por tanto, exenta de tales esfuerzos
 
-[Video.  Félix Duque :: Fenomenología del Espíritu](https://www.youtube.com/embed/68xYjvKNuxE)
+ **Félix Duque :: Fenomenología del Espíritu**
 
-[Video. El saber absoluto de la fenomenología de Hegel y la sociedad del saber](https://www.youtube.com/embed/VL6IvKmSf7M)
+[![Alt text  Félix Duque :: Fenomenología del Espíritu](https://img.youtube.com/vi/68xYjvKNuxE/0.jpg)](https://www.youtube.com/watch?v=68xYjvKNuxE)
+
+**El saber absoluto de la fenomenología de Hegel y la sociedad del saber**
+
+[![Alt text Video. El saber absoluto de la fenomenología de Hegel y la sociedad del saber](https://img.youtube.com/vi/VL6IvKmSf7M/0.jpg)](https://www.youtube.com/watch?v=VL6IvKmSf7M)
+
 
 
 [Ir a inicio](#inicio)
