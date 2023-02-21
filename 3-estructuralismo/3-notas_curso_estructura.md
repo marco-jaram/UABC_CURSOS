@@ -128,6 +128,17 @@
 <!-- 
 [![Alt text](https://img.youtube.com/vi/CODIGO/0.jpg)](https://www.youtube.com/watch?v=CODIGO) -->
 
+El formalismo ruso fue un movimiento literario y crítico que surgió en la década de 1910 en Rusia y que tuvo un impacto significativo en la teoría literaria y cultural. Algunas de las características del formalismo ruso incluyen:
+
+  1. Enfoque en la forma literaria: El formalismo ruso se centró en el estudio de la forma literaria, en lugar del contenido o el significado del texto. Los formalistas creían que la forma literaria era un aspecto fundamental de la obra literaria, y que debía ser estudiada y analizada de manera rigurosa.
+
+  2. Atención a los elementos formales: Los formalistas rusos prestaban especial atención a los elementos formales de la literatura, como el lenguaje, la estructura, el ritmo y la sintaxis. Creían que estos elementos formaban la base de la experiencia literaria y que el análisis riguroso de estos elementos permitiría una comprensión más profunda de la obra literaria.
+
+  3. Análisis objetivo: Los formalistas rusos defendían un enfoque objetivo y científico para el estudio de la literatura, que se basaba en el análisis riguroso de los elementos formales y en la aplicación de métodos científicos para estudiar la literatura.
+
+  4. Rechazo del historicismo: Los formalistas rusos rechazaron la idea de que la literatura debía ser estudiada en función de su contexto histórico y social. En su lugar, defendían la importancia de estudiar la literatura como una entidad autónoma, con sus propias características formales y estilísticas.
+
+  5. Valoración de la literariedad: Los formalistas rusos valoraban la "literariedad" de una obra, es decir, su capacidad de jugar con el lenguaje y la forma literaria para crear una experiencia estética única. Creían que esta "literariedad" era la esencia de la obra literaria y que era lo que la hacía verdaderamente valiosa.
 
 [Ir a inicio](#inicio)
 

@@ -7,14 +7,14 @@
 | 2  BAYLISS DIAZ CHRISTIAN PAULINA         | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
 | 3  CACHO GUERRA EDUARDO MIGUEL            | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
 | 4  CALZADA GALINDO ESTEBAN                | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
-| 5  ESPARZA PERAZA SERGIO GAEL             | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
-| 6  HERNANDEZ CRUZ ANGEL EDUARDO           | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
-| 7  MURGUIA HERRERA PABLO ABEL             | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
+| 5  ESPARZA PERAZA SERGIO GAEL             | [][] | [][] | [][] | [x][] | [][] | [][] | [][] | [][] |
+| 6  HERNANDEZ CRUZ ANGEL EDUARDO           | [][] | [][] | [][] | [x][] | [][] | [][] | [][] | [][] |
+| 7  MURGUIA HERRERA PABLO ABEL             | [][] | [][] | [][] | [x][] | [][] | [][] | [][] | [][] |
 | 8  QUIJAS MEZTA JAVIER DE JESUS           | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
 | 9  QUIÑONEZ FONG CRISTHIAN LEONEL         | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
-| 10  RAMIREZ ALCANTAR ROBERTO              | [][] | [][x] | [][] | [][] | [][] | [][] | [][] | [][] |
+| 10  RAMIREZ ALCANTAR ROBERTO              | [][] | [][x]| [][] | [][] | [][] | [][] | [][] | [][] |
 | 11  TORRES RIVERA ANDREA ESPERANZA        | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
-| 12  VILLA ORTEGA SERGIO DANIEL            | [][] | [][x] | [][] | [][] | [][] | [][] | [][] | [][] |
+| 12  VILLA ORTEGA SERGIO DANIEL            | [][] | [][x]| [][] | [][] | [][] | [][] | [][] | [][] |
 | 13  VILLEGAS RODRIGUEZ CITLALLI ESMERALDA | [][] | [][] | [][] | [][] | [][] | [][] | [][] | [][] |
 
 
