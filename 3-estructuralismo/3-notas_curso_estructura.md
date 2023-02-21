@@ -140,6 +140,32 @@ El formalismo ruso fue un movimiento literario y crítico que surgió en la déc
 
   5. Valoración de la literariedad: Los formalistas rusos valoraban la "literariedad" de una obra, es decir, su capacidad de jugar con el lenguaje y la forma literaria para crear una experiencia estética única. Creían que esta "literariedad" era la esencia de la obra literaria y que era lo que la hacía verdaderamente valiosa.
 
+
+**Formalismo y estructuralismo**
+
+El formalismo ruso y el estructuralismo son dos corrientes teóricas importantes en la literatura y la lingüística que surgieron en la primera mitad del siglo XX.
+
+El formalismo ruso fue un movimiento literario y crítico que se originó en Rusia a principios del siglo XX. Los formalistas rusos se centraron en el estudio de la literatura desde un punto de vista técnico, centrándose en la forma y la estructura de los textos literarios en lugar de su contenido o significado. Los formalistas rusos creían que la literatura era una forma de arte autónoma que debía ser estudiada por sus características formales y técnicas, en lugar de por su valor social o político. Algunos de los principales exponentes del formalismo ruso fueron Viktor Shklovsky, Boris Eichenbaum y Roman Jakobson.
+
+Por otro lado, el estructuralismo fue un movimiento intelectual más amplio que se desarrolló en Europa en la década de 1950 y se extendió a la lingüística, la antropología, la psicología y otros campos. Los estructuralistas creían que las estructuras subyacentes de la lengua, la cultura y la sociedad eran más importantes que los elementos individuales que las componían. El estructuralismo se basó en gran medida en las ideas del lingüista suizo Ferdinand de Saussure, quien argumentaba que el significado de las palabras dependía de su relación con otras palabras dentro de un sistema lingüístico más amplio. El estructuralismo también se centró en el análisis de las estructuras narrativas y de la semántica en la literatura.
+
+En resumen, aunque el formalismo ruso y el estructuralismo comparten algunas similitudes, como el énfasis en la forma y la estructura, son corrientes teóricas distintas con diferencias en cuanto a sus enfoques y orígenes históricos.
+
+
+**Características de la estructura**
+
+  1. El enfoque en los elementos que conforman una estructura: el estructuralismo se centra en los elementos que conforman una estructura, y en cómo estos elementos se relacionan entre sí. En lugar de estudiar los fenómenos culturales o lingüísticos de forma aislada, el estructuralismo busca entender cómo estas manifestaciones culturales están compuestas por elementos que se relacionan entre sí.
+
+  2. La importancia de las reglas que rigen una estructura: el estructuralismo destaca la importancia de las reglas que gobiernan una estructura. Estas reglas son consideradas como la base para la comprensión de la estructura, y ayudan a explicar cómo los elementos de la estructura interactúan entre sí.
+
+  3. La idea de que una estructura está compuesta por sistemas de oposición: en el estructuralismo, las estructuras se componen de sistemas de oposición entre los elementos que la componen. Estos sistemas de oposición ayudan a definir las relaciones entre los elementos de la estructura.
+
+  4. La búsqueda de patrones y regularidades: el estructuralismo busca identificar patrones y regularidades en las estructuras que estudia. Al encontrar estos patrones, los estructuralistas pueden establecer las reglas que rigen una estructura y entender cómo los elementos de la estructura interactúan entre sí.
+
+  5. La creencia de que el significado es construido a través de las relaciones entre los elementos de una estructura: en el estructuralismo, el significado se considera como algo que es construido a través de las relaciones entre los elementos de una estructura. Esto significa que el significado no es algo que existe de forma aislada, sino que es el resultado de la relación entre los elementos de una estructura.
+
+
+
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_5">5</a>
