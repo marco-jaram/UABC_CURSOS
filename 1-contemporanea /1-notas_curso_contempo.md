@@ -463,6 +463,8 @@ diata y, por tanto, exenta de tales esfuerzos
 <img src='https://i.postimg.cc/jq98BXmB/Fenomenolog-a-del-esp-ritu-7.jpg' alt='Certeza sensible esto '>
 <img src='https://i.postimg.cc/GhyMRD1t/Fenomenolog-a-del-esp-ritu-8.jpg' alt='saber absoluto '>
 
+<img src="https://lucid.app/publicSegments/view/5882c2f8-e0e2-4cfc-b0ab-ebb5b59a3cfd/image.jpeg">
+
 
 
  **Félix Duque :: Fenomenología del Espíritu**
