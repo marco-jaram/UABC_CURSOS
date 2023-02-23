@@ -190,6 +190,7 @@ El tiempo nos encuentre destrozados.
 
 
 >Aquí – Octavio Paz
+
 Mis pasos en esta calle
 
 Resuenan
@@ -205,6 +206,7 @@ Pasar en esta calle
 
 >Sin remitente/Melendi
 Me despido de ti
+
 Y lo hago sin dolor, aunque te quiera más que nunca
 Ya sé que se acabó
 Terminaron nuestras charlas repartiéndonos la culpa
