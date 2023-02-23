@@ -391,7 +391,7 @@ Sin corazón no hay nada.
 Sin corazón no hay pensamiento
 Sin corazón no hay nada.
 
->Natatia Lafucade
+>Espalda de bronce 
 Crepúsculo has llegado y ha comenzado el altercado
 Entre dos bandos, el del sol y el de la noche
 Yo como miembro del bando del sol me he volteado
