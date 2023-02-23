@@ -128,29 +128,29 @@ Reportes de lectura - ……...……………….... 20%
 # IX.  REFERENCIAS
 Básicas
 Complementarias
-
-Arturo Romero Contreras. (2020). El mundo, que existe y no existe a la vez: el espacio y la lógica del realismo especulativo. Metafísica y persona. https://doi.org/10.24310/metyper.2020.v0i23.7459
-Badiou, A. (2022). Ser y El Acontecimiento (Spanish Edition). Manantial.
-Deleuze, G. (2022). La subjetivación. Curso sobre Foucault. Tomo III (1.a ed.). Cactus Editorial.
-Deleuze, G. & Guattari, F. (2020). Mil mesetas: capitalismo y esquizofrenia. Pre-Textos.
-Gabriel, M. (2016). Por qué no existe el mundo (Spanish Edition). Editorial Oceano de Mexico.
-Körne. (1967). Introducción a la filosofía de las matemáticas. Siglo XXI.
-Laso, J. Á. (1958, 2 enero). La filosofía de las matemáticas en Descartes | Álvarez Laso | Revista de filosofía DIÁNOIA. http://dianoia.filosoficas.unam.mx/index.php/dianoia/article/view/1342
-Lipschutz, S. (1970). Teoría de Conjuntos y Temas Afines - Serie Schaum. McGraw Hill.
-López, C. M. (2011). BERTRAND RUSSELL el filósofo matemático (1.a ed.). Ediciones EL ROMPECABEZAS.
-Madrid Casado. (2009). Filosofía de las matemáticas. El cierre de la topología y la teoría del caos. El Basilisco, 41, 1-50.
-Meillassoux, Q. (2015). Después de la finitud. Ensayo sobre la necesidad de la contingencia. Caja Negra.
-Morcillo,C.G.(s.f.).Lógica-difusa. https://www.esi.uclm.es/www/cglez/downloads/docencia/2011_Softcomputing/LogicaDifusa.pdf
-Robbins, H. R. C. Y. & Stewart, I. (2006). ¿Qué son las matemáticas?. Conceptos y métodos fundamentales (First). Fondo de Cultura Económica.
-Russell, B. (1988). Introducción a la filosofía matemática / Introduction to Mathematical Philosophy (Spanish Edition). Paidos Iberica Ediciones S A.
-Seminario de Filosofía Matemática – CANTOR (1) – 2021-I: Sesión 1 (22 Febrero 2021) – Síntesis, análisis, horosis – INF-estratificaciones – El Diagrama de Deleuze y el Operador de Foucault. (2021, 14 mayo). [Vídeo]. YouTube. https://www.youtube.com/watch?v=yoUzZ3XISqM
-Stephen., B. & CARLOS, M. (1965). Filosofía de las matemáticas. UTEHA.
-Torretti, R. (1998). El Paraíso de Cantor: La tradición conjuntista en la filosofía matemática. Chile: Editorial Universitaria.
-Viñuela Villa, P. A. (2019). Matemática, filosofía y pensamiento simbólico en Leibniz. Daímon, 77, 165-182. https://doi.org/10.6018/daimon/299171
-La geometría en el pensamiento de Kant. (s. f.). Recuperado 6 de noviembre de 2022, de https://revistas.ucm.es/index.php/ASEM/article/view/ASEM7474110009A/18460
-
-
-
+* 
+* Arturo Romero Contreras. (2020). El mundo, que existe y no existe a la vez: el espacio y la lógica del realismo especulativo. Metafísica y persona. https://doi.org/10.24310/metyper.2020.v0i23.7459
+* Badiou, A. (2022). Ser y El Acontecimiento (Spanish Edition). Manantial.
+* Deleuze, G. (2022). La subjetivación. Curso sobre Foucault. Tomo III (1.a ed.). Cactus Editorial.
+* Deleuze, G. & Guattari, F. (2020). Mil mesetas: capitalismo y esquizofrenia. Pre-Textos.
+* Gabriel, M. (2016). Por qué no existe el mundo (Spanish Edition). Editorial Oceano de Mexico.
+* Körne. (1967). Introducción a la filosofía de las matemáticas. Siglo XXI.
+* Laso, J. Á. (1958, 2 enero). La filosofía de las matemáticas en Descartes | Álvarez Laso | Revista de filosofía DIÁNOIA. http://dianoia.filosoficas.unam.mx/index.php/dianoia/article/view/1342
+* Lipschutz, S. (1970). Teoría de Conjuntos y Temas Afines - Serie Schaum. McGraw Hill.
+* López, C. M. (2011). BERTRAND RUSSELL el filósofo matemático (1.a ed.). Ediciones EL ROMPECABEZAS.
+* Madrid Casado. (2009). Filosofía de las matemáticas. El cierre de la topología y la teoría del caos. El Basilisco, 41, 1-50.
+* Meillassoux, Q. (2015). Después de la finitud. Ensayo sobre la necesidad de la contingencia. Caja Negra.
+* Morcillo,C.G.(s.f.).Lógica-difusa. https://www.esi.uclm.es/www/cglez/downloads/docencia/2011_Softcomputing/LogicaDifusa.pdf
+* Robbins, H. R. C. Y. & Stewart, I. (2006). ¿Qué son las matemáticas?. Conceptos y métodos fundamentales (First). Fondo de Cultura Económica.
+* Russell, B. (1988). Introducción a la filosofía matemática / Introduction to Mathematical Philosophy (Spanish Edition). Paidos Iberica Ediciones S A.
+* Seminario de Filosofía Matemática – CANTOR (1) – 2021-I: Sesión 1 (22 Febrero 2021) – Síntesis, análisis, horosis – INF-estratificaciones – El Diagrama de Deleuze y el Operador de Foucault. (2021, 14 mayo). [Vídeo]. YouTube. https://www.youtube.com/watch?v=yoUzZ3XISqM
+* Stephen., B. & CARLOS, M. (1965). Filosofía de las matemáticas. UTEHA.
+* Torretti, R. (1998). El Paraíso de Cantor: La tradición conjuntista en la filosofía matemática. Chile: Editorial Universitaria.
+* Viñuela Villa, P. A. (2019). Matemática, filosofía y pensamiento simbólico en Leibniz. Daímon, 77, 165-182. https://doi.org/10.6018/daimon/299171
+* La geometría en el pensamiento de Kant. (s. f.). Recuperado 6 de noviembre de 2022, de https://revistas.ucm.es/index.php/ASEM/article/view/ASEM7474110009A/18460
+  
+  
+  
 
 Babin, J. (1974). Historia de las ideas modernas en matemáticas. Pan American Union.
 Galilei, G. (2020). Diálogo sobre los dos máximos sistemas del mundo ptolemaico y copernicano. Círculo de Lectores.
