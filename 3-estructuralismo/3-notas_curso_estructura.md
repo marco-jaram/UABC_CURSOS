@@ -165,7 +165,267 @@ En resumen, aunque el formalismo ruso y el estructuralismo comparten algunas sim
   5. La creencia de que el significado es construido a través de las relaciones entre los elementos de una estructura: en el estructuralismo, el significado se considera como algo que es construido a través de las relaciones entre los elementos de una estructura. Esto significa que el significado no es algo que existe de forma aislada, sino que es el resultado de la relación entre los elementos de una estructura.
 
 
+***Muestras para análisis**
 
+
+>Soneto de la guirnalda de rosas - Lorca
+
+¡Esa guirnalda! ¡pronto! ¡que me muero!
+¡Teje deprisa! ¡canta! ¡gime! ¡canta!
+Que la sombra me enturbia la garganta
+Y otra vez viene y mil la luz de enero.
+
+Entre lo que me quieres y te quiero,
+Aire de estrellas y temblor de planta,
+Espesura de anémonas levanta
+Con oscuro gemir un año entero.
+
+Goza el fresco paisaje de mi herida,
+Quiebra juncos y arroyos delicados.
+Bebe en muslo de miel sangre vertida.
+
+Pero ¡pronto! Que unidos, enlazados,
+Boca rota de amor y alma mordida,
+El tiempo nos encuentre destrozados.
+
+
+>Aquí – Octavio Paz
+Mis pasos en esta calle
+
+Resuenan
+
+En otra calle
+
+Donde
+
+Oigo mis pasos
+
+Pasar en esta calle
+
+
+>Sin remitente/Melendi
+Me despido de ti
+Y lo hago sin dolor, aunque te quiera más que nunca
+Ya sé que se acabó
+Terminaron nuestras charlas repartiéndonos la culpa
+Me aferré a lo que me diste porque valiente me hiciste
+Y, aunque a veces, se nos fuera de las manos
+Tú fuiste quien me enseñó a creer en mí
+Aunque puede que ese "en mí", no siempre fuera el acertado
+Me enseñaste a romper lazos que me ataban
+A existir sin que me vieran, tú me diste tantas cosas
+Y, aunque a veces, te fallaran las maneras
+Fuiste siempre mi bastón cuando no veía salida
+Unas alas de cartón que nunca vuelan
+Pero, al menos, lo fingían
+Fuiste lo que me faltaba y no te vas porque sobras
+Hoy solo soy el pintor que firma y guarda su obra
+La guardaré en un rincón, el mejor de mi castillo
+Ese que juntos construimos desde que éramos niños
+Sé que lo entenderás porque en el fondo lo sabes
+Hoy dejo el surrealismo para pintar paisajes
+Y aunque el envío es urgente
+La carta es sin remitente
+Tú me enseñaste a vencer mi timidez
+Tú me enseñaste a mirar a los ojos
+Pero fallabas en contar hasta 10
+Y darte cuenta de que hacías daño a otros
+No pienses ni por un momento
+Que no voy a echarte nunca más de menos
+Pero es difícil que nos veamos
+Porque ahora vivimos demasiado lejos
+Pero siempre te voy a estar
+Eternamente agradecido
+Por esas cosas que sin ti
+Yo solo, por mi cuenta, nunca habría aprendido
+Y sabes muy bien que no es triste
+Por mucho que sea despedida
+La cura solamente existe
+Si antes hubo herida
+Fuiste lo que me faltaba y no te vas porque sobras
+Hoy solo soy el pintor que firma y guarda su obra
+La guardaré en un rincón, el mejor de mi castillo
+Ese que juntos construimos desde que éramos niños
+Sé que lo entenderás porque en el fondo lo sabes
+Hoy dejo el surrealismo para pintar paisajes
+Y aunque el envío es urgente
+La carta es sin remitente.
+>
+Segundos platos/Morat
+Tocaste mi mano y no fue por error
+Sé tus intenciones
+No hay que aparentar
+Aunque me muera por un beso
+Tú solo estás buscando un beso que al final
+Cure una herida que dejó alguien más
+No pretendas reparar tu corazón
+Con pedazos que te entregan los demás
+Porque arreglarlo no es tan fácil
+Podrá latir, pero es tan frágil que al final
+Cualquier recuerdo lo va a desarmar
+Y yo no quiero estar ahí cuando tú llores
+Cuando te enteres de que el tiempo
+No ha hecho sus labores
+Volveré, puede que tarde un rato
+Cuando se acaben los segundos platos
+Yo volveré a enamorarte (volveré)
+Volveré solo cuando estés lista
+Será un amor a segunda vista
+Y yo volveré a enamorarte (volveré)
+Porque no quiero estar ahí cuando tú llores
+Y que el recuerdo de alguien más
+Riegue mis flores
+Tú tan vulnerable y fácil de leer
+Yo con un adiós difícil de admitir
+Quiero jugar muy bien mis cartas
+Voy a esperar lo que haga falta porque sé (yo sé)
+Que yo no quiero enamorarte así
+Volveré, puede que tarde un rato
+Cuando se acaben los segundos platos
+Yo volveré a enamorarte (volveré)
+Volveré solo cuando estés lista
+Será un amor a segunda vista
+Y yo volveré a enamorarte (volveré)
+Porque no quiero estar ahí cuando tú llores
+Y que el recuerdo de alguien más
+Riegue mis flores
+Volveré
+Ah-ah-ah
+Y volverás a sentir mariposas
+A que un mensaje te ponga nerviosa
+Y yo volveré a enamorarte
+Volveré solo cuando estés lista
+Será un amor a segunda vista
+Y yo, yo volveré a enamorarte (volveré)
+Porque no quiero estar ahí
+Cuando tú llores (volveré)
+Lágrimas nuevas, pero de viejos amores (volveré)
+Y que el recuerdo de alguien más
+Riegue mis flores
+
+
+>J Corcovado
+No quisiera
+Noches sin sueño, días de nada,
+Enloqueciendo, quebrando el alma.
+Llueven tormentas en mis entrañas,
+Nubes de arena, muerte en la playa.
+No quisiera morir aunque haya sido invitado,
+Prefiero seguir aquí, en este mundo inventado.
+Qué valiente es la vida, y qué cobarde soy yo,
+Que por no asesinar me estoy matando yo.
+Minas de oro abandonadas,
+Eso soy yo sin su mirada.
+Polvo en el piano, violines en el mar,
+Mi conciencia es un tirano.
+No quisiera morir, aunque haya sido invitado,
+Prefiero seguir aquí, en este mundo inventado.
+Qué valiente es la vida, y qué cobarde soy yo,
+Que por no asesinar me estoy matando yo.
+Tomen mi vaso y beban mis lágrimas,
+Son mi veneno y mi oración.
+No fue suficiente con ser felices,
+Quisimos infiernos en el corazón.
+Y no quisiera morir, aunque haya sido invitado,
+Prefiero seguir aquí, en este mundo inventado.
+Qué valiente es la vida, y qué cobarde soy yo,
+Que por no asesinar me estoy matando yo.
+Llorando la ausencia de sus latitudes,
+El sol se apaga borracho de luz.
+Y en mi saliva guardo esos besos
+Y en mi llanto su confesión,
+Y en mi llanto guardo su confesión,
+En mi llanto guardo su confesión.
+
+
+>Dioses ocultos
+
+¿Por qué no puedo andar a gatas?
+Como lo hacen los locos
+¿Por qué no puedo aullarlo todo?
+Como lo hacen los lobos
+¿Por qué no puedo resignarme
+Y aguantarme hasta la risa?
+¿Por qué uno quiere lanzarse desde lo alto
+Y al bajar buscar olvido?
+¿Serán los dioses ocultos o serás tú?
+Será una decisión mortal
+¿Serán los dioses ocultos o serás tú?
+Será una decisión mortal
+¿Por qué no puedo desgarrarme la piel
+Hasta lograr un vacío?
+¿Por qué uno se retuerce entre rincones
+Mirando al cielo en busca de alguien?
+
+
+>SIN CORAZÓN NO HAY NADA
+
+Solo el amor puede existir,
+En esta vida mágica.
+Es la gran ola
+De la belleza trágica.
+Son sus paredes, de alientos verdes,
+Conversación de plantas.
+Arboles y agua,
+Flores sonámbulas.
+Sin corazón no hay pensamiento,
+Sin corazón no hay nada.
+Sin corazón no hay pensamiento
+Sin corazón no hay nada.
+Solo el amor merece existir
+En esta vida rara.
+Y el futuro no se merece
+Su confianza.
+Tallos de luz, versos de niño.
+Susurros de distancia
+Guardas estrellas en tu bolsito
+Y en tus labios las galaxias.
+Tu corazón, canción de amor
+De melodía elastica.
+Tanto que vive en mi presente
+Mi por venir y mi nostalgia.
+Sin corazón no hay pensamiento
+Sin corazón no hay nada.
+Sin corazón no hay pensamiento
+Sin corazón no hay nada.
+
+>Natatia Lafucade
+Crepúsculo has llegado y ha comenzado el altercado
+Entre dos bandos, el del sol y el de la noche
+Yo como miembro del bando del sol me he volteado
+Traicionado a mis hermanos
+Pues me encanta mi sombra
+Cuando el sol me pega en la espalda
+Me pinta en el piso como un gigante
+Y aunque me arda la espalda
+La obscuridad es fascinante
+Viviré de noche de hoy en adelante
+Mi voluntad y la tuya de vez en cuando coinciden
+De vez en cuando persiguen lo mismo
+Ay! esa voluntad tuya me cuesta
+Aceptarla me cuesta practicarla
+Por eso duelo
+Pues me encanta mi sombra
+Cuando el sol me pega en la espalda
+Me pinta en el piso como un gigante
+Y aunque me arda la espalda
+La obscuridad es fascinante
+Viviré de noche de hoy en adelante
+Me rindo has ganado
+Te entregaría mi vida
+Pero la he entregado
+Al alcohol y la saliva
+Te entregaría mi corazón
+Pero ya no lo tengo
+Y hoy caigo de rodillas
+Puedo pronosticar
+La noche no va a ganar
+Pues me encanta mi sombra
+Cuando el sol me pega en la espalda
+Me pinta en el piso como un gigante
+Y aunque me arda la espalda
+La obscuridad es fascinante
+Moriré de noche de hoy en adelante
 [Ir a inicio](#inicio)
 
 <a name="SEMANA_5">5</a>

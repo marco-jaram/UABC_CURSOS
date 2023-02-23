@@ -130,7 +130,7 @@ considera como infinita Razón, ve la revelación mas elevada del mismo en la
 filosofía.
 
 Diagrama:
-[ Ver diagrama de romanticismo](https://lucid.app/lucidchart/9bbb39d5-4c7c-4327-8bcd-bfbb7208a7a9/edit?viewport_loc=-59%2C-19%2C1879%2C1357%2C0_0&invitationId=inv_49438998-2694-4c8f-852a-9749b7620fb2)
+<img src="https://lucid.app/publicSegments/view/7983b07a-25d8-469a-8af0-4c22530f2849/image.jpeg">
 
 [Video. Romanticismo intro](https://drive.google.com/file/d/1eWStwPxIeHil7zrY-Ea0e1wUGhUghDu1/view?usp=share_link)
 
