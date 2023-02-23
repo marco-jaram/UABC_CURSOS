@@ -152,14 +152,14 @@ Complementarias
   
   
 
-Babin, J. (1974). Historia de las ideas modernas en matemáticas. Pan American Union.
-Galilei, G. (2020). Diálogo sobre los dos máximos sistemas del mundo ptolemaico y copernicano. Círculo de Lectores.
-Rincón, E. D. (2007). Reseña «Peirce y el mundo hispánico» de Jaime Nubiola y Fernando Zalamea. Universidad del Zulia.
-Lógica difusa para principiantes. (s. f.). Universidad Católica Andres.
-Frege, G. & Austin, J. L. (1980). The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number (2nd Revised). Northwestern University Press.
-Castaños, Ortiz, Vega & Gual. (2016). Elementos. Libros I-IV. (Biblioteca Clásica Gredos no 155) (Spanish Edition). Gredos.
-fgbuenotv. (2018, 5 marzo). Carlos Madrid - ¿Qué es la filosofía de las matemáticas? - EFO163 [Vídeo]. YouTube. https://www.youtube.com/watch?v=Cbyp-MG0kdE
-Fundación Medifé. (2019, 27 junio). Markus Gabriel | Conferencia ¿Qué es propiamente una «inteligencia artificial»? | Conversaciones [Vídeo]. YouTube. https://www.youtube.com/watch?v=anq2P1pj_p8
+* Babin, J. (1974). Historia de las ideas modernas en matemáticas. Pan American Union.
+* Galilei, G. (2020). Diálogo sobre los dos máximos sistemas del mundo ptolemaico y copernicano. Círculo de Lectores.
+* Rincón, E. D. (2007). Reseña «Peirce y el mundo hispánico» de Jaime Nubiola y Fernando Zalamea. Universidad del Zulia.
+* Lógica difusa para principiantes. (s. f.). Universidad Católica Andres.
+* Frege, G. & Austin, J. L. (1980). The Foundations of Arithmetic: A Logico-Mathematical Enquiry into the Concept of Number (2nd Revised). Northwestern University Press.
+* Castaños, Ortiz, Vega & Gual. (2016). Elementos. Libros I-IV. (Biblioteca Clásica Gredos no 155) (Spanish Edition). Gredos.
+* fgbuenotv. (2018, 5 marzo). Carlos Madrid - ¿Qué es la filosofía de las matemáticas? - EFO163 [Vídeo]. YouTube. https://www.youtube.com/watch?v=Cbyp-MG0kdE
+* Fundación Medifé. (2019, 27 junio). Markus Gabriel | Conferencia ¿Qué es propiamente una «inteligencia artificial»? | Conversaciones [Vídeo]. YouTube. https://www.youtube.com/watch?v=anq2P1pj_p8
 
 
 
