@@ -34,15 +34,15 @@ Competencia:
 Analiza las orientaciones de las filosofías de las matemáticas en el pensamiento contemporáneo así como las grandes tradiciones de los mismos mediante la revisión de diferentes libros  con el objetivo de ubicar el campo de las matemáticas y sus ramas con un actitud crítica. 
 
 Contenido:                                                                                                                                                  Duración:  12 horas                
-20 juicios sobre la matemática desde la filosofía
-Sobre las introducciones a la filosofía de las matemáticas
-Diferentes enfoques de la filosofía de las matemáticas
-La matemática en el campo de las ciencias y la matemática como una ciencia
-Las ramas de la matemática
-Sobre la clasificación de los números y  la notación. Sus símbolos.
-La matemática en la filosofía desde la lógica
-Matemática y el cierre categorial de las matemáticas
-Grandes tradiciones dentro de la filosofía de las matemáticas
+* 20 juicios sobre la matemática desde la filosofía
+* Sobre las introducciones a la filosofía de las matemáticas
+* Diferentes enfoques de la filosofía de las matemáticas
+* La matemática en el campo de las ciencias y la matemática como una ciencia
+* Las ramas de la matemática
+* Sobre la clasificación de los números y  la notación. Sus símbolos.
+* La matemática en la filosofía desde la lógica
+* Matemática y el cierre categorial de las matemáticas
+* Grandes tradiciones dentro de la filosofía de las matemáticas
 
 
 # UNIDAD II. FILÓSOFOS Y SUS APORTACIONES A LA MATEMÁTICA
@@ -52,13 +52,13 @@ Competencia:
 Analiza las aportaciones de filósofos a las matemáticas y el impacto de las geometrías no euclidianas en la filosofía para valorar la intervención de filósofos en la matemática propiamente con una actitud critica.
 
 Contenido:                                                                                                                                          Duración:  12 horas 
-Pitagoras / Platon, Teoremas y los Poliedros regulares
-Descartes, Geometria analitica
-Leibniz, Cálculo infinitesimal
-Cantor, Teoria conjuntista
-Frege, Aritmética
-Russell, Logica matematica
-Impacto de la geometría no euclidianas en la filosofía
+* Pitagoras / Platon, Teoremas y los Poliedros regulares
+* Descartes, Geometria analitica
+* Leibniz, Cálculo infinitesimal
+* Cantor, Teoria conjuntista
+* Frege, Aritmética
+* Russell, Logica matematica
+* Impacto de la geometría no euclidianas en la filosofía
                                                                                                                                                  
 
 # UNIDAD III. MATEMÁTICA Y ONTOLOGÍA
@@ -68,11 +68,11 @@ Competencia:
 Analiza la correlación entre ontología y teoría conjuntista mediante textos de Badiou, y del Nuevo Realismo para comprender la atracción de las matemáticas en la ontología contemporánea con una actitud crítica. 
 
 Contenido:       Duración:  12 horas
- Badiou 
-Matemáticas y Ontología en EL ser y el Acontecimiento 
-Argumentos lógico-matemáticos en el nuevo realismo 
-Q. Meillassoux. Las matemáticas en Después de la infinitud
-Markus Gabriel. Las matemáticas en Por qué el mundo no existe.
+* Badiou 
+* Matemáticas y Ontología en EL ser y el Acontecimiento 
+* Argumentos lógico-matemáticos en el nuevo realismo 
+* Q. Meillassoux. Las matemáticas en Después de la infinitud
+* Markus Gabriel. Las matemáticas en Por qué el mundo no existe.
                                                                                                                                              
 
 # UNIDAD IV. MATEMÁTICA EN DESDE EL MATERIALISMO
@@ -82,20 +82,20 @@ Analiza el tratamiento de obras de arte así como lo relacionado a crítica lite
 
 Contenido:      
                                                                                                                                                         Duración:  12 horas
-Zalamea: Deleuze-Cantor
-Topología de puntos
-El diagrama de Deleuze sobre las estratificaciones del saber y las líneas balleneras en Moby Dick
-Estratos, zona oceánica
-Las sustancias no estratificadas
-Conjuntos consistentes e inconsistentes
-Lo liso y lo estirado, la fractalidad
+* Zalamea: Deleuze-Cantor
+* Topología de puntos
+* El diagrama de Deleuze sobre las estratificaciones del saber y las líneas balleneras en Moby Dick
+* Estratos, zona oceánica
+* Las sustancias no estratificadas
+* Conjuntos consistentes e inconsistentes
+* Lo liso y lo estirado, la fractalidad
 
 
-Gustavo Bueno
-Ontología del  materialismo filosófico 
-La filosofía como geometría de las ideas
-Carlos Madrid Casado
-Las matemáticas y la teoría del cierre categorial
+* Gustavo Bueno
+* Ontología del  materialismo filosófico 
+* La filosofía como geometría de las ideas
+* Carlos Madrid Casado
+* Las matemáticas y la teoría del cierre categorial
 
 
 # VII.  MÉTODO DE TRABAJO
