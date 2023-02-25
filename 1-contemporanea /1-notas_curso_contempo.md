@@ -484,8 +484,9 @@ diata y, por tanto, exenta de tales esfuerzos
 # SEMANA 5
 ## Izquierda Hegeliana
 **Stirner y Marx**
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg" width="200px">
-<img src="https://sobrelaanarquiayotrostemasvidayobradepensadoresy.files.wordpress.com/2017/11/images1.jpg" width="200px">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg" width="100px">
+<img src="https://sobrelaanarquiayotrostemasvidayobradepensadoresy.files.wordpress.com/2017/11/images1.jpg" width="100px">
 
 ### Libertad y autonomía
 
