@@ -482,6 +482,88 @@ diata y, por tanto, exenta de tales esfuerzos
 <a name="SEMANA_5">5</a>
 
 # SEMANA 5
+## Izquierda Hegeliana
+**Stirner y Marx**
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg" width="200px">
+<img src="https://sobrelaanarquiayotrostemasvidayobradepensadoresy.files.wordpress.com/2017/11/images1.jpg" width="200px">
+
+### Libertad y autonomía
+
+>Si definimos izquierda como una ideología que cree en la autodeterminación de los pueblos, en la autonomía del ser humano, nos remitimos entonces a la libertad
+
+### La escisión
+>La escisión de derecha e izquierda tiene de raíz la posición respecto a la religión
+para Hegel la religión tiene el mismo contenido que la filosofía pero
+la religión expresa el contenido en forma de representación 
+y la filosofía en forma de concepto
+
+### Feuerbach
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Feuerbach_Ludwig.jpg" width="200px">
+
+
+>La tarea de la verdadera filosofía no es la de reconocer lo infinito como finito, sino considerar lo finito como no finito, como infinito, esto es, poner no lo finito en lo infinito, sino infinito en lo finito
+Admite unidad infinito finito, pero esta unidad se realiza no en dios o en la idea absoluto sino en el hombre
+
+### Gaspar Schmidt 1806-1856
+>La tesis fundamental de Stirner es que el individuo es la única realidad y el único valor
+<img src="https://www.biografiasyvidas.com/biografia/s/fotos/stirner.jpg" width="200px">
+
+#### El único y su propiedad
+>El individuo, precisamente en su individualidad, por la cual es único e irrepetible, es la medida de todo. Subordinarlo a Dios, a la humanidad, al espíritu, a un ideal cualquiera, aunque sea al del mismo hombre, es imposible, ya que todo lo que es diferente del yo personal, toda realidad que se distinga de él y se le contraponga, es un espectro, del
+que acaba siendo un esclavo.
+### Anarquismo
+
+* Anarquismo comunista
+* Bakunin
+* Kropotkin
+### Anarquismo vs Marx
+>Autoritarismo implica supresión de la autodeterminación, de la libertad
+
+### K. Marx
+>La filosofía de Marx es, a primera vista, la última y más lograda expresión
+del movimiento de la izquierda hegeliana, que fue la primera reacción al
+idealismo romántico, contraponiendo al mismo una revaloración del hombre
+y de su mundo - Abbagnano.
+
+**Obra principal**
+  
+* Crítica de la filosofía del derecho de Hegel
+* La sagrada familia o crítica de la crítica crítica (1845)
+* Ideología alemana, compuesta en 1845-46
+* La miseria de la filosofía ( 1847), dirigida contra la obra de Proudhon
+* El capital, vol. I, 1867; volúmenes II y III publicados postumos por Engels (1885 y 1895).
+  
+
+**Tesis sobre Feuerbach**
+>XI. Los filósofos no han hecho más que interpretar de diversos modo el mundo, pero de lo que se trata es de transformarlo.
+
+**Materialismo histórico**
+* Primitivo
+* Esclavista
+* Feudal
+* Capitalista
+
+**Alienación**
+
+* El trabajo es externo al trabajador. No pertenece a su ser
+* El trabajador no se afirma sino que se niega, no se siente feliz sino desgraciado
+* Es la pérdida de sí mismo
+
+### El capital
+
+* Mercancía
+* Plusvalía
+* Acumulación originaria
+
+**Marxismo**
+* Engels
+* Lenin
+* Althusser
+
+
+
+
+
 
 
 [Ir a inicio](#inicio)
