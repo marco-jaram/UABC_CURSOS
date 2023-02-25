@@ -482,6 +482,16 @@ diata y, por tanto, exenta de tales esfuerzos
 <a name="SEMANA_5">5</a>
 
 # SEMANA 5
+> **Lecturas de la semana** 
+
+[Fragmento: El único y su propiedad](https://drive.google.com/file/d/1cxZYhUWawK4-jmT2u2-qoRWuMJJTFdRO/view?usp=share_link)
+
+[Fragmento: manuscritos economía y filosofia](https://drive.google.com/file/d/13_4Tjgw-TbdoXDuPD25bQX7f-Yklczk9/view?usp=sharing)
+
+[Fragmento: El capital](https://drive.google.com/file/d/1cTiZCUxP3i5DycIa4M8y7SopZEkTENmt/view?usp=sharing)
+
+
+
 ## Izquierda Hegeliana
 **Stirner y Marx**
 
