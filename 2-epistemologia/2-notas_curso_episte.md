@@ -354,6 +354,7 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 <a name="SEMANA_5">5</a>
 
 # SEMANA 5
+**La creencia, el saber y la verdad**
 
 
 [Ir a inicio](#inicio)
@@ -434,6 +435,10 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 
 
 [Ir a inicio](#inicio)
+
+
+
+<!--  
 
 tarea leer dialogo de la caverna o libro x de la republica
 
@@ -1235,3 +1240,6 @@ Yo soy una visión totalizadora.
 
 GB.
 El ego no es eterno. Es una institución
+
+
+-->
