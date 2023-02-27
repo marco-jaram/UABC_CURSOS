@@ -435,6 +435,17 @@ Moriré de noche de hoy en adelante
 <a name="SEMANA_5">5</a>
 
 # SEMANA 5
+>**Lectura de la semana MÉTODO, HISTORIA Y TEORÍA EN LÉVI-STRAUSS**
+
+>El estructuralismo en la Antropología planteado por Lévi-Strauss se enraíza en la
+tradición teórica francesa de inicios del siglo pasado inaugurada por el lingüista francés
+Ferdinand de Saussure, quien señalaba que el lenguaje se encuentra estructurado
+siguiendo un modelo relacional y diferencial: un signo adquiere identidad en su
+contraste con otros. Así, en palabras de Saussure:
+(…) en la lengua no hay más que diferencias. (…) Ya se considere el significante, ya el
+significado, la lengua no comporta ni ideas ni sonidos preexistentes al sistema
+lingüístico, sino solamente diferencias conceptuales y diferencias fónicas resultantes de
+ese sistema. (Saussure, 1945, p. 144)
 
 
 [Ir a inicio](#inicio)

@@ -372,7 +372,7 @@ Conocer es la filosofía segunda/ los segundos principios. En ese sentido las de
 * Mas que preguntarnos que es conocer, nos preguntamos cómo es eso de conocer
 * Cómo se adquiere y si hay uno mas alto que otro que chingados criterios se toman para decir que un conocimiento de algo es mejor que otro
 
-* El ser de algo como algo cerrado o definitivo no es alcanzable. Es como decir que llegamos a un hasta aquí en nuestro viaje al espacio exterior. Recuerdas nuestro viaje al espacio exterior donde nos propusimos saber si el universo es infinito? Físicamente (obvio microbio) como dice mi hermana. Íbamos ya millones de kilómetros adelantados, pasamos neptuno como si nada (4.5 millones de kilómetros). Luego pasamos GN-z11(la galaxia mas lejana respecto a la la nuestra) 32 mil millones de años luz y de repente no topamos con un muro. Alguien dijo este es el fin del universo. Pero tu dijiste "ah chnga! pero que tal que después del muro sigue mas?
+* El ser de algo como algo cerrado o definitivo no es alcanzable. Es como decir que llegamos a **un hasta aquí** en nuestro viaje al espacio exterior. Recuerdas nuestro viaje al espacio exterior donde nos propusimos saber si el universo es infinito? Físicamente (obvio microbio) como dice mi hermana. Íbamos ya millones de kilómetros adelantados, pasamos neptuno como si nada (4.5 millones de kilómetros). Luego pasamos GN-z11(la galaxia mas lejana respecto a la la nuestra) 32 mil millones de años luz y de repente no topamos con un muro. Alguien dijo este es el fin del universo. Pero tu dijiste "ah chnga! pero que tal que después del muro sigue mas?
 
 
 **Mi tia chata era sabia y decía: un rato de vida es vida**
@@ -399,7 +399,15 @@ Conocer es la filosofía segunda/ los segundos principios. En ese sentido las de
 * criterio de verdad
 * comunidad epistemica -->
 
+### Villoro, L. (2006). Creer, saber, conocer. Siglo XXI Editores.
 
+En el libro, Villoro argumenta que creer es una forma de aceptar algo sin pruebas concretas, mientras que saber implica tener evidencia y justificación para sostener una afirmación. Conocer, por otro lado, se refiere a una comprensión profunda de un tema o concepto a través de la experiencia y la reflexión.
+
+Villoro examina cómo estas tres formas de conocimiento interactúan entre sí y cómo pueden influir en la toma de decisiones y en la comprensión del mundo que nos rodea. También considera cómo la creencia y la fe pueden ser valiosas en nuestras vidas, pero también pueden llevar a errores y prejuicios.
+
+**Por que la filosofia no es ciencia**
+> p.12
+> 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_6">6</a>
