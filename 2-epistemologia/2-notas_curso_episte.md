@@ -355,6 +355,50 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 
 # SEMANA 5
 **La creencia, el saber y la verdad**
+ 
+* Hemos analizado en Aristóteles/ Platón el concepto de conocimiento 
+* Episteme / conocimiento mas universal / conocimiento mas elevado
+* Episteme es mas que doxa, tecne, empiria
+protofilosofia / filosofía primera / metafísica
+
+~~~
+La filosofía es amor a la sabiduría
+sabiduría  viene de saber. Algo sabio es un poco mas que conocer
+Conocer es la filosofía segunda/ los segundos principios. En ese sentido las demás ciencias son conocimiento
+~~~
+* La ciencia es un conjunto de conocimientos, saberes
+* Cuando estudias filosofía llegas a adquirir un conocimiento sobre...
+
+* Mas que preguntarnos que es conocer, nos preguntamos cómo es eso de conocer
+* Cómo se adquiere y si hay uno mas alto que otro que chingados criterios se toman para decir que un conocimiento de algo es mejor que otro
+
+* El ser de algo como algo cerrado o definitivo no es alcanzable. Es como decir que llegamos a un hasta aquí en nuestro viaje al espacio exterior. Recuerdas nuestro viaje al espacio exterior donde nos propusimos saber si el universo es infinito? Físicamente (obvio microbio) como dice mi hermana. Íbamos ya millones de kilómetros adelantados, pasamos neptuno como si nada (4.5 millones de kilómetros). Luego pasamos GN-z11(la galaxia mas lejana respecto a la la nuestra) 32 mil millones de años luz y de repente no topamos con un muro. Alguien dijo este es el fin del universo. Pero tu dijiste "ah chnga! pero que tal que después del muro sigue mas?
+
+
+**Mi tia chata era sabia y decía: un rato de vida es vida**
+ > íbamos  a llega a un lugar y estamos cansados, entonces alguien dice: hay que tomar un descanso y otro dice no para que si ya vamos a llegar. Y justo en eso mi tia decía su frase.
+ 
+ por que es sabio/ 
+ es parecido a la maxima griega / nada con exceso todo con medida
+ la mediad es incuso para alargar el placer
+ correr en exceso
+ jugar en exceso
+ comer en exceso
+ etc
+
+<!-- 
+## Glosario=
+* creer / tres: biografía/ motivos / 
+* conocer /cercanía /descripción / implica saber algo de
+* saber  / no implica conocer necesariamente / de una oración a un hecho pasa a aseveración y su referencia
+* verdad / correspondencia / 
+* aseveración
+* razones/ justificación/ motivos
+* oraciones/ promociones
+* juicio / movimiento del alma / 
+* criterio de verdad
+* comunidad epistemica -->
+
 
 
 [Ir a inicio](#inicio)
@@ -578,56 +622,6 @@ Si no tiene razones seria casi como creer en lago casi por capricho en
 nuestro caso por  antecedentes 
 
 ----------------------------------
-## Glosario=
-* creer / tres: biografía/ motivos / 
-* conocer /cercanía /descripción / implica saber algo de
-* saber  / no implica conocer necesariamente / de una oración a un hecho pasa a aseveración y su referencia
-* verdad / correspondencia / 
-* aseveración
-* razones/ justificación/ motivos
-* oraciones/ promociones
-* juicio / movimiento del alma / 
-* criterio de verdad
-* comunidad epistemica
- 
-Hemos visto en Aristóteles/ Platón
-conocimiento 
-epistemica / conocimiento mas universal / cono mas elevado, mas que doxa
-tecne
-empiria
-protofilosofia / filosofía primera / metafísica
-
-LA filosofía es amor a la sabiduría
-sabiduría  viene de saber, algo sabio es un poco mas que conocer
-conocer es la filosofía segunda/ los segundos principios
-en ese sentido las demás ciencias son conocimiento
-
-la ciencia es un conjunto de conocimientos, saberes
-cuando estudias filosofía llegas a adquirir un conocimiento sobre...
-
-mas que preguntarnos que es conocer, nos preguntamos como es eso de conocer
-como se adquiere y si hay uno mas alto que otro
-que criterios se tomas para decir que un conocimiento de algo es mejor que otro
-
-el ser de algo como algo cerrado o definitivo no es alcanzable
-es como decir que llegamos a un hasta aqui en nuestro vieje al espacio exterior
-
- mi tia era sabia
- decia un rato de vida es vida
- 
- ya vamos a llega a un lugar y estamos cansados
- entonces alguien dice hay que tomar un descanso y otro dice no para que si 
- ya vamos a llegar
- 
- por que es sabio/ 
- es parecido a la maxima griega / nada con exceso todo con medida
- la mediad es incuso apra alargar el placer
- coorer en exceso
- jugar en exceso
- comer en exceso
- etc
-
-
 
 ## EL PROBLEMA DE HUME
 Exposición de escepticismo com intro a teoría del conocimiento
