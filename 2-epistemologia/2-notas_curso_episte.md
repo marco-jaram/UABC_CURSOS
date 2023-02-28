@@ -354,7 +354,7 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 <a name="SEMANA_5">5</a>
 
 # SEMANA 5
-**La creencia, el saber y la verdad**
+**2.1.0 La creencia, el saber y la verdad**
  
 * Hemos analizado en Aristóteles/ Platón el concepto de conocimiento 
 * Episteme / conocimiento mas universal / conocimiento mas elevado
