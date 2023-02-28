@@ -409,6 +409,26 @@ Villoro examina cómo estas tres formas de conocimiento interactúan entre sí y
 > p.12
 > 
 
+#### Hacer ejercicio:
+
+**Yo creo en /que**
+* la teoría de la relatividad
+**Yo conozco a...**
+* Pedro
+* la uabc
+**Yo se que**
+* La tierra es redonda
+* las partículas y las formas en las que decimos 
+
+
+**?Porque se cree?**
+* Antecedentes: la biografía
+* Motivos: las consecuencias psicológicas
+* Razones: teoría del conocimiento
+
+>Agregar a cada creencia los tres elementos 
+
+
 [Ir a inicio](#inicio)
 <a name="SEMANA_6">6</a>
 
