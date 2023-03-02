@@ -498,6 +498,7 @@ diata y, por tanto, exenta de tales esfuerzos
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg" width="100px">
 <img src="https://sobrelaanarquiayotrostemasvidayobradepensadoresy.files.wordpress.com/2017/11/images1.jpg" width="100px">
 
+
 ### Libertad y autonomía
 
 >Si definimos izquierda como una ideología que cree en la autodeterminación de los pueblos, en la autonomía del ser humano, nos remitimos entonces a la libertad
@@ -520,8 +521,10 @@ Admite unidad infinito finito, pero esta unidad se realiza no en dios o en la id
 <img src="https://www.biografiasyvidas.com/biografia/s/fotos/stirner.jpg" width="200px">
 
 #### El único y su propiedad
+
 >El individuo, precisamente en su individualidad, por la cual es único e irrepetible, es la medida de todo. Subordinarlo a Dios, a la humanidad, al espíritu, a un ideal cualquiera, aunque sea al del mismo hombre, es imposible, ya que todo lo que es diferente del yo personal, toda realidad que se distinga de él y se le contraponga, es un espectro, del
 que acaba siendo un esclavo.
+
 ### Anarquismo
 
 * Anarquismo comunista

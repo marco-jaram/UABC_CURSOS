@@ -354,6 +354,7 @@ El mal es todo lo que destruye y corrompe, y el bien, por el contrario, lo prese
 <a name="SEMANA_5">5</a>
 
 # SEMANA 5
+
 **2.1.0 La creencia, el saber y la verdad**
  
 * Hemos analizado en Aristóteles/ Platón el concepto de conocimiento 
@@ -399,6 +400,8 @@ Conocer es la filosofía segunda/ los segundos principios. En ese sentido las de
 * criterio de verdad
 * comunidad epistemica -->
 
+
+
 ### Villoro, L. (2006). Creer, saber, conocer. Siglo XXI Editores.
 
 En el libro, Villoro argumenta que creer es una forma de aceptar algo sin pruebas concretas, mientras que saber implica tener evidencia y justificación para sostener una afirmación. Conocer, por otro lado, se refiere a una comprensión profunda de un tema o concepto a través de la experiencia y la reflexión.
@@ -428,9 +431,37 @@ Villoro examina cómo estas tres formas de conocimiento interactúan entre sí y
 
 >Agregar a cada creencia los tres elementos 
 
+| Conocimiento | Sabiduría |
+| --- | --- |
+| Se refiere a la información, hechos o datos que una persona tiene en su mente. | Se refiere a la capacidad de una persona para utilizar su conocimiento de manera efectiva para tomar decisiones y resolver problemas. |
+| Puede ser adquirido a través del estudio, la investigación, la educación, la experiencia, etc. | Se adquiere a través de la reflexión, la introspección, la experiencia y la aplicación práctica del conocimiento. |
+| Es más objetivo y se puede enseñar y transmitir de una persona a otra. | Es más subjetivo y personal, ya que está influenciado por las experiencias y valores individuales. |
+| El conocimiento puede ser limitado o especializado en un área particular. | La sabiduría se aplica de manera más amplia y se relaciona con la vida en general. |
+| Puede ser utilizado para resolver problemas específicos o para lograr objetivos específicos. | La sabiduría se utiliza para tomar decisiones que afectan la vida de manera más amplia y duradera. |
+| Es una herramienta importante para el éxito profesional y personal. | La sabiduría es esencial para vivir una vida plena y significativa. |
+| Puede ser medido y evaluado a través de pruebas, exámenes, certificaciones, etc. | La sabiduría no se puede medir fácilmente y no existe una forma estándar de evaluarla. |
+
+
+Luis Villoro sostiene que la creencia se basa en una "relación subjetiva entre el individuo y su objeto de creencia". En otras palabras, la creencia es una actitud personal y subjetiva que implica la aceptación de una idea, teoría o valor como verdadero o real, sin necesidad de pruebas empíricas o lógicas que lo respalden.
+
+Según Villoro, hay varios motivos que pueden llevar a las personas a creer en algo:
+
+  * Experiencia personal: la experiencia personal puede ser un motivo poderoso para la creencia. Si una persona ha tenido una experiencia que considera sobrenatural o divina, es posible que crean en la existencia de un ser superior o en la posibilidad de la vida después de la muerte.
+
+   *  Tradición cultural: la creencia también puede estar influenciada por la tradición cultural y religiosa en la que se ha crecido. Las creencias religiosas, por ejemplo, suelen transmitirse de generación en generación y formar parte de la identidad cultural de una comunidad.
+
+  * Necesidad emocional: en ocasiones, las personas pueden creer en algo porque necesitan una explicación para un evento traumático o para hacer frente a una situación difícil. La creencia puede proporcionar consuelo emocional y una sensación de seguridad.
+
+  * Persuasión argumentativa: la creencia también puede ser el resultado de una argumentación persuasiva y convincente. Si alguien presenta un argumento sólido y convincente, es posible que la persona crea en esa idea o teoría.
+
+  * Razones prácticas: finalmente, la creencia también puede estar motivada por razones prácticas, como la necesidad de tomar decisiones rápidas o de seguir un curso de acción determinado.
+
+En conclusión, para Luis Villoro, la creencia es una actitud personal y subjetiva que puede estar motivada por la experiencia personal, la tradición cultural, la necesidad emocional, la persuasión argumentativa o razones prácticas.
+
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_6">6</a>
+
 
 # SEMANA 6
 
