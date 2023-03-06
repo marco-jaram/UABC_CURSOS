@@ -527,9 +527,14 @@ que acaba siendo un esclavo.
 
 ### Anarquismo
 
-* Anarquismo comunista
-* Bakunin
-* Kropotkin
+| Tipo de anarquismo | Descripción |
+| --- | --- |
+| Anarco-comunismo | Busca la eliminación del Estado y la propiedad privada, y la organización de la sociedad en comunidades autogestionadas y sin jerarquías. |
+| Anarco-sindicalismo | Se centra en la lucha de la clase trabajadora para lograr la abolición del Estado y la propiedad privada, y la creación de una sociedad en la que los trabajadores controlen los medios de producción. |
+| Anarco-colectivismo | Propone una sociedad en la que la propiedad privada y el comercio todavía existen, pero están regulados por la libre asociación y la federación de colectividades autónomas. |
+| Anarquismo individualista | Defiende la autonomía individual y la abolición del Estado y la sociedad jerárquica, a menudo a través de la acción directa y la desobediencia civil. |
+| Eco-anarquismo | Se enfoca en la protección del medio ambiente y la lucha contra la explotación de los recursos naturales, abogando por una sociedad descentralizada y autónoma en la que los humanos vivan en armonía con la naturaleza. |
+
 ### Anarquismo vs Marx
 >Autoritarismo implica supresión de la autodeterminación, de la libertad
 
@@ -575,9 +580,20 @@ y de su mundo - Abbagnano.
 * Althusser
 
 
+| Característica | Marxismo | Anarquismo |
+| --- | --- | --- |
+| Enfoque principal | Clase social y lucha de clases | Autoridad y opresión |
+| Estado | Necesario para la transición al comunismo, pero eventualmente se eliminará | Debe ser abolido inmediatamente |
+| Propiedad privada | Debe ser eliminada y reemplazada por la propiedad colectiva | Debe ser eliminada inmediatamente |
+| Organización social | Sociedad organizada jerárquicamente, pero sin clases | Sociedad organizada en comunidades autónomas sin jerarquías |
+| Organización económica | Economía planificada y propiedad colectiva de los medios de producción | Colectivismo y propiedad colectiva de los medios de producción, con regulación por la libre asociación |
+| Enfoque en la revolución | Revolución proletaria | Revolución social |
+| Enfoque en la transición al comunismo | Dictadura del proletariado | Comunidades autónomas y federación de comunidades |
+| Enfoque en la igualdad | Igualdad económica y social | Igualdad social y política, y eliminación de la opresión |
+| Enfoque en la libertad | Libertad económica y política para la clase trabajadora | Libertad individual y colectiva, y abolición de la autoridad |
 
-
-
+[![2023-03-05-162906-525x788-scrot.png](https://i.postimg.cc/5NG7VSRr/2023-03-05-162906-525x788-scrot.png)](https://postimg.cc/LntBkLRk)
+[Descarga Libro](https://www.solidaridadobrera.org/ateneo_nacho/libros/Todd%20May%20-%20La%20filosofia%20anarquista%20del%20postestructuralismo.pdf)
 
 
 [Ir a inicio](#inicio)

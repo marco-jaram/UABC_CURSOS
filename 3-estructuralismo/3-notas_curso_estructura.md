@@ -453,6 +453,52 @@ ese sistema. (Saussure, 1945, p. 144)
 
 # SEMANA 6
 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Levi-strauss_260.jpg" width="500px" alt="">
+
+### **Claude Lévi-Strauss** 
+* (Bruselas, 28 de noviembre de 1908-París, 31 de octubre de 2009)1​2​ fue un antropólogo, filósofo y etnólogo francés, una de las grandes figuras de su disciplina en la segunda mitad del siglo XX
+  
+  
+ **Obra principal**
+* Lévi-Strauss, C. (1949). Las estructuras elementales del parentesco. Paidós.
+* Lévi-Strauss, C. (1955/1999). Tristes trópicos. Fondo de Cultura Económica.
+* Lévi-Strauss, C. (1962). El pensamiento salvaje. Fondo de Cultura Económica.
+* Lévi-Strauss, C. (1964-1971). Míticas. 4 vols. Siglo XXI Editores.
+* Lévi-Strauss, C. (1975). La vía de las máscaras. Fondo de Cultura Económica.
+
+
+Las formas elementales del parentesco de Lévi-Strauss se refieren a la estructura del parentesco en las sociedades humanas y cómo estas estructuras se relacionan con la organización social, política y económica de las mismas. Estas formas elementales se representan mediante gráficos que permiten visualizar las relaciones entre los miembros de una sociedad.
+
+El gráfico más común utilizado para representar las formas elementales del parentesco es el diagrama de parentesco. En este diagrama, cada persona se representa mediante un símbolo, y las relaciones entre ellas se representan mediante líneas que conectan a los símbolos.
+
+Los símbolos utilizados en el diagrama de parentesco varían según la sociedad que se esté analizando, pero algunos de los más comunes son el círculo para las mujeres y el cuadrado para los hombres. También se utilizan símbolos para representar los diferentes tipos de relación, como el matrimonio o la filiación.
+
+Existen diferentes formas de diagramas de parentesco que se utilizan para representar las formas elementales del parentesco, y cada uno de ellos se utiliza para representar una estructura diferente. Algunos de los más comunes son:
+    Diagrama de parentesco eskimo: Este diagrama se utiliza para representar la estructura del parentesco en sociedades donde la familia nuclear es la unidad básica de organización social. En este diagrama, los miembros de la familia nuclear se colocan en el centro, y las relaciones con los miembros de la familia extensa se representan en la periferia.
+
+    Diagrama de parentesco hawaiano: Este diagrama se utiliza para representar la estructura del parentesco en sociedades donde la familia extensa es la unidad básica de organización social. En este diagrama, los miembros de la familia extensa se colocan en el centro, y las relaciones con los miembros de la familia nuclear se representan en la periferia.
+
+    Diagrama de parentesco iroqués: Este diagrama se utiliza para representar la estructura del parentesco en sociedades donde se practica el matrimonio cruzado. En este diagrama, los miembros de la familia nuclear se colocan en la parte superior, y las relaciones con los miembros de la familia extensa se representan en la parte inferior.
+
+En resumen, los gráficos utilizados para representar las formas elementales del parentesco son diagramas de parentesco que representan las relaciones entre los miembros de una sociedad y su estructura social. Cada sociedad tiene su propia forma de organizar el parentesco, y los diagramas de parentesco son una herramienta útil para comprender las relaciones entre los miembros de una sociedad y su organización social.
+
+ <img src="https://images.edrawmax.com/images/knowledge/kinship-chart-symbols.jpg" alt="">
+
+
+  * Usa un círculo para representar a una mujer.
+  * Usa un triángulo para representar a un hombre.
+  * Usa un cuadrado para representar a alguien que no se identifique ni como sexo ni como ambos sexos.
+  * Usa una línea para cruzar el símbolo si la persona falleció.
+  * Usa un signo igual (=) entre dos personas para indicar matrimonio.
+  * Usa un signo aproximadamente igual (≈) para indicar una pareja no casada que vive junta.
+  * Usa un signo similar (̴ ) para simbolizar a los padres que no conviven ni están casados.
+  * Usa un signo distinto (≠) si un matrimonio terminó en divorcio.
+  * Si la persona se ha casado dos veces, usa signos iguales en ambos lados del símbolo, un signo no igual donde la relación ha terminado con el primer cónyuge de la izquierda.
+
+**Ejemplo**
+
+  <img src="https://images.edrawmax.com/images/knowledge/kinship-chart-example01.jpg" alt="">
+   <img src="https://www.ugr.es/~pwlac/G24_03-filiacion-trobriandes.jpg" alt="">
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_7">7</a>

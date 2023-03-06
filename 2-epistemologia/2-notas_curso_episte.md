@@ -416,9 +416,11 @@ Villoro examina cómo estas tres formas de conocimiento interactúan entre sí y
 
 **Yo creo en /que**
 * la teoría de la relatividad
+  
 **Yo conozco a...**
 * Pedro
 * la uabc
+  
 **Yo se que**
 * La tierra es redonda
 * las partículas y las formas en las que decimos 
@@ -444,11 +446,12 @@ Villoro examina cómo estas tres formas de conocimiento interactúan entre sí y
 
 Luis Villoro sostiene que la creencia se basa en una "relación subjetiva entre el individuo y su objeto de creencia". En otras palabras, la creencia es una actitud personal y subjetiva que implica la aceptación de una idea, teoría o valor como verdadero o real, sin necesidad de pruebas empíricas o lógicas que lo respalden.
 
+
 Según Villoro, hay varios motivos que pueden llevar a las personas a creer en algo:
 
   * Experiencia personal: la experiencia personal puede ser un motivo poderoso para la creencia. Si una persona ha tenido una experiencia que considera sobrenatural o divina, es posible que crean en la existencia de un ser superior o en la posibilidad de la vida después de la muerte.
 
-   *  Tradición cultural: la creencia también puede estar influenciada por la tradición cultural y religiosa en la que se ha crecido. Las creencias religiosas, por ejemplo, suelen transmitirse de generación en generación y formar parte de la identidad cultural de una comunidad.
+  *  Tradición cultural: la creencia también puede estar influenciada por la tradición cultural y religiosa en la que se ha crecido. Las creencias religiosas, por ejemplo, suelen transmitirse de generación en generación y formar parte de la identidad cultural de una comunidad.
 
   * Necesidad emocional: en ocasiones, las personas pueden creer en algo porque necesitan una explicación para un evento traumático o para hacer frente a una situación difícil. La creencia puede proporcionar consuelo emocional y una sensación de seguridad.
 
@@ -456,7 +459,9 @@ Según Villoro, hay varios motivos que pueden llevar a las personas a creer en a
 
   * Razones prácticas: finalmente, la creencia también puede estar motivada por razones prácticas, como la necesidad de tomar decisiones rápidas o de seguir un curso de acción determinado.
 
+
 En conclusión, para Luis Villoro, la creencia es una actitud personal y subjetiva que puede estar motivada por la experiencia personal, la tradición cultural, la necesidad emocional, la persuasión argumentativa o razones prácticas.
+
 
 
 [Ir a inicio](#inicio)
