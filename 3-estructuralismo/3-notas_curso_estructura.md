@@ -474,13 +474,10 @@ El gráfico más común utilizado para representar las formas elementales del pa
 Los símbolos utilizados en el diagrama de parentesco varían según la sociedad que se esté analizando, pero algunos de los más comunes son el círculo para las mujeres y el cuadrado para los hombres. También se utilizan símbolos para representar los diferentes tipos de relación, como el matrimonio o la filiación.
 
 Existen diferentes formas de diagramas de parentesco que se utilizan para representar las formas elementales del parentesco, y cada uno de ellos se utiliza para representar una estructura diferente. Algunos de los más comunes son:
-    Diagrama de parentesco eskimo: Este diagrama se utiliza para representar la estructura del parentesco en sociedades donde la familia nuclear es la unidad básica de organización social. En este diagrama, los miembros de la familia nuclear se colocan en el centro, y las relaciones con los miembros de la familia extensa se representan en la periferia.
+Diagrama de parentesco eskimo: Este diagrama se utiliza para representar la estructura del parentesco en sociedades donde la familia nuclear es la unidad básica de organización social. En este diagrama, los miembros de la familia nuclear se colocan en el centro, y las relaciones con los miembros de la familia extensa se representan en la periferia.
 
-    Diagrama de parentesco hawaiano: Este diagrama se utiliza para representar la estructura del parentesco en sociedades donde la familia extensa es la unidad básica de organización social. En este diagrama, los miembros de la familia extensa se colocan en el centro, y las relaciones con los miembros de la familia nuclear se representan en la periferia.
-
-    Diagrama de parentesco iroqués: Este diagrama se utiliza para representar la estructura del parentesco en sociedades donde se practica el matrimonio cruzado. En este diagrama, los miembros de la familia nuclear se colocan en la parte superior, y las relaciones con los miembros de la familia extensa se representan en la parte inferior.
-
-En resumen, los gráficos utilizados para representar las formas elementales del parentesco son diagramas de parentesco que representan las relaciones entre los miembros de una sociedad y su estructura social. Cada sociedad tiene su propia forma de organizar el parentesco, y los diagramas de parentesco son una herramienta útil para comprender las relaciones entre los miembros de una sociedad y su organización social.
+    
+Los gráficos utilizados para representar las formas elementales del parentesco son diagramas de parentesco que representan las relaciones entre los miembros de una sociedad y su estructura social. Cada sociedad tiene su propia forma de organizar el parentesco, y los diagramas de parentesco son una herramienta útil para comprender las relaciones entre los miembros de una sociedad y su organización social.
 
  <img src="https://images.edrawmax.com/images/knowledge/kinship-chart-symbols.jpg" alt="">
 
