@@ -603,10 +603,71 @@ y de su mundo - Abbagnano.
 ## Vitalismo
  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg" alt="" width="350px">
 
+**Obra principal**
+  * Schopenhauer, A. (2009). El mundo como voluntad y representación [Die Welt als Wille und Vorstellung]. Ediciones Orbis S.A.* 
+  * Schopenhauer, A. (2017). Aforismos sobre la sabiduría de la vida [Aphorismen zur Lebensweisheit]. Alianza Editorial.* 
+  * Schopenhauer, A. (2011). Parerga y paralipómena. Ensayos filosóficos [Parerga und Paralipomena]. Editorial Trotta.* 
+  * Schopenhauer, A. (2013). Sobre la libertad de la voluntad [Über die Freiheit des menschlichen Willens]. Alianza Editorial.* 
+  * Schopenhauer, A. (2015). El arte de tener siempre la razón [Eristische Dialektik]. Editorial Trotta.
 
 
+**El mundo como voluntad y representación**
 
+>«El mundo es mi representación»: esta es la verdad que vale para todo ser viviente y cognoscente, aunque
+solo el hombre puede llevarla a la conciencia reflexiva abstract
 
+> La primera falta de Kant fue el descuido de ese principio [...]
+la sabiduría hindú conoció esa verdad fundamental
+
+> la pseudofilosofía de J. G. Fichte, que ha de ser tenida en cuenta a ese respecto por poco valor auténtico y contenido
+interno que posea su teoría en sí misma y aun cuando no sea en general más que una fantasmagoría;
+
+>fue el
+caso de Fichte, ya que se convirtió en filósofo únicamente sobre la base de la cosa en sí kantiana; y sin ella es
+sumamente probable que se hubiera dedicado a cosas totalmente distintas con mucho más éxito
+
+>. Pero Fichte consideró que lo importante era ese partir del sujeto, supuso, al igual que todos
+los imitadores, que si sobrepujaba a Kant en eso también le superaría, y repitió en esa dirección el mismo error que el
+dogmatismo habido hasta entonces había cometido en sentido opuesto 
+>Yo no conozco mi voluntad en su conjunto, como una unidad, no la conozco completamente en su
+esencia, sino exclusivamente en sus actos individuale
+
+>78
+de la clase que sea. - Hasta ahora se ha subsumido el concepto voluntad bajo el concepto fuerza: yo, en cambio, hago
+exactamente lo contrario y pretendo considerar todas las fuerzas de la naturaleza como voluntad. No se crea que se
+trata de una disputa verbal o que es indiferente: antes bien, es de la máxima significación e importancia. Pues el
+concepto fuerza, como todos los demás, se funda en último término en el conocimiento intuitivo del mundo objetivo,
+es decir, en el fenómeno o la representación, y de ahí ha sido sacado. Está abstraído del dominio en el que imperan la
+causa y el efecto, o sea, de la representación intuitiva, y significa justamente la causalidad de la causa en el punto
+donde dicha causalidad deja de ser etiológicamente explicable y deviene el supuesto necesario de toda explicación
+etiológica. En cambio, el concepto voluntad es el único entre todos los posibles que no tiene su origen en el
+fenómeno, no en la mera representación intuitiva, sino que procede del interior, nace de la conciencia más inmediata
+de cada cual, donde uno conoce su propio individuo en su esencia, inmediatamente, sin forma alguna, ni siquiera la
+de sujeto y objeto, y a la vez es él mismo, ya que aquí el cognoscente y lo conocido coinciden. Por lo tanto, si
+remitimos el concepto de fuerza al de voluntad, de hecho habremos reducido algo menos conocido a algo
+infinitamente más conocido, incluso a lo único que nos es conocido de forma realmente inmediata y plena; y nuestro
+conocimiento se hará mucho mayor. Por el contrario, si, como hasta el presente se ha hecho, subsumimos el concepto
+de voluntad bajo el de fuerza, renunciamos al único conocimiento inmediato que poseemos acerca de la esencia del
+mundo, al hacer que se pierda en un concepto abstraído del fenómeno con el que nunca podemos transcender este.
+
+>La voluntad como cosa en sí es totalmente distinta de su fenómeno y está libre de todas las formas
+fenoménicas en las que ingresa al manifestarse, formas que por ello afectan únicamente a su objetividad pero le son
+ajenas en sí misma
+
+>Puesto que la voluntad es la cosa en sí, el contenido interno, lo esencial del mundo, pero la vida, el mundo
+visible o el fenómeno es el simple espejo de la voluntad, este acompañará a la voluntad tan inseparablemente como al
+cuerpo su sombra: y donde haya voluntad habrá también vida y mundo
+> El
+suicida quiere la vida, simplemente está insatisfecho con las condiciones en que se le presenta. De ahí que al destruir
+el fenómeno individual no elimine en modo alguno la voluntad de vivir, sino solamente la vida.
+>se llama dolor
+cuando es contraria a la voluntad, y bienestar, placer, cuando es acorde a ella. Las gradaciones de ambos son muy
+distintas. Pero está totalmente equivocado quien denomina el dolor y el placer representaciones: no lo son en modo
+alguno, sino afecciones inmediatas de la voluntad en su fenómeno, el cuerpo: son un forzado y momentáneo querer o
+no querer la impresión que este sufre. 
+>Todo querer nace de la necesidad, o sea, de la carencia, es decir, del sufrimiento. La satisfacción pone fin a
+este; pero frente a un deseo que se satisface quedan al menos diez incumplidos: además, el deseo dura mucho, las
+exigencias llegan hasta el infinito; la satisfacción es breve y se escatima. 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_7">7</a>
