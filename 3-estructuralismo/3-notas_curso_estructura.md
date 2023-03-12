@@ -501,7 +501,7 @@ Los gráficos utilizados para representar las formas elementales del parentesco 
 <a name="SEMANA_7">7</a>
 
 # SEMANA 7
-
+>[Lectura sobre el sujeto y los mitos](https://drive.google.com/file/d/17K9c2NIKREd39W-rUOrknnkNu1Ie_WEf/view?usp=share_link)
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_8">8</a>

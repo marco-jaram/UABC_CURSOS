@@ -479,7 +479,7 @@ En conclusión, para Luis Villoro, la creencia es una actitud personal y subjeti
 <a name="SEMANA_7">7</a>
 
 # SEMANA 7
->[Lectura sobre el sujeto y los mitos](https://drive.google.com/file/d/17K9c2NIKREd39W-rUOrknnkNu1Ie_WEf/view?usp=share_link)
+
 
 
 
