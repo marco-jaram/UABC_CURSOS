@@ -471,10 +471,18 @@ En conclusión, para Luis Villoro, la creencia es una actitud personal y subjeti
 # SEMANA 6
 
 
+
+
+
+
 [Ir a inicio](#inicio)
 <a name="SEMANA_7">7</a>
 
 # SEMANA 7
+>[Lectura sobre el sujeto y los mitos](https://drive.google.com/file/d/17K9c2NIKREd39W-rUOrknnkNu1Ie_WEf/view?usp=share_link)
+
+
+
 
 
 [Ir a inicio](#inicio)
@@ -547,6 +555,20 @@ En conclusión, para Luis Villoro, la creencia es una actitud personal y subjeti
 
 
 <!--  
+Según la teoría del cierre categorial de Gustavo Bueno, las ciencias se clasifican en función de las categorías o sistemas de términos que utilizan para construir su objeto de estudio. A continuación se presenta una clasificación de las ciencias según esta teoría:
+
+    Ciencias matemáticas: se ocupan de estudiar las relaciones y estructuras abstractas, utilizando el lenguaje simbólico de la matemática. Ejemplos de ciencias matemáticas son la aritmética, la geometría, el álgebra, la lógica matemática, entre otras.
+
+    Ciencias físicas: estudian los fenómenos naturales y las leyes que los rigen. Se basan en la observación, la experimentación y la medición para obtener conocimiento sobre el mundo físico. Ejemplos de ciencias físicas son la física, la química, la astronomía, entre otras.
+
+    Ciencias biológicas: se ocupan de estudiar los seres vivos y los procesos biológicos que los rigen. Utilizan el método científico para investigar los fenómenos biológicos. Ejemplos de ciencias biológicas son la biología, la botánica, la zoología, la genética, entre otras.
+
+    Ciencias humanas: estudian los fenómenos sociales, culturales e históricos relacionados con el ser humano. Se basan en la interpretación y la comprensión de los procesos sociales, y utilizan métodos propios de cada disciplina para investigar su objeto de estudio. Ejemplos de ciencias humanas son la sociología, la antropología, la historia, la psicología, la economía, entre otras.
+
+    Ciencias técnicas o aplicadas: se ocupan de la aplicación de los conocimientos científicos a la resolución de problemas concretos. Utilizan conocimientos y técnicas de varias disciplinas científicas para desarrollar soluciones tecnológicas a problemas prácticos. Ejemplos de ciencias técnicas son la ingeniería, la informática, la medicina, la arquitectura, entre otras.
+
+En resumen, la teoría del cierre categorial de Gustavo Bueno clasifica las ciencias en función de las categorías o sistemas de términos que utilizan para construir su objeto de estudio, y esta clasificación se basa en el tipo de realidad que estudian las diferentes disciplinas científicas.
+
 
 tarea leer dialogo de la caverna o libro x de la republica
 
