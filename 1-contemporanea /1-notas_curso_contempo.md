@@ -600,6 +600,12 @@ y de su mundo - Abbagnano.
 <a name="SEMANA_6">6</a>
 
 # SEMANA 6
+## Vitalismo
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg" alt="" width="350px">
+
+
+
+
 
 
 [Ir a inicio](#inicio)
