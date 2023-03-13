@@ -668,11 +668,46 @@ no querer la impresión que este sufre.
 >Todo querer nace de la necesidad, o sea, de la carencia, es decir, del sufrimiento. La satisfacción pone fin a
 este; pero frente a un deseo que se satisface quedan al menos diez incumplidos: además, el deseo dura mucho, las
 exigencias llegan hasta el infinito; la satisfacción es breve y se escatima. 
+>después de que el hombre hubo puesto todos los sufrimientos y tormentos en el infierno, para el
+cielo no quedó más que aburrimiento.
+
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_7">7</a>
 
 # SEMANA 7
+### Nietzsche
+
+Quizá el filósofo mas leído fuera de la disciplina
+El mas vendido en librerías (en estante de filosofia)
+Estudio filosofia
+Filologia, letras clasicas.
+
+
+
+
+**Obra principal**
+* Nietzsche, F. (1883). Así habló Zaratustra. Friedrich Nietzsche.
+* Nietzsche, F. (1886). Más allá del bien y del mal: preludio de una filosofía del futuro. Friedrich Nietzsche.
+* Nietzsche, F. (1887). Genealogía de la moral: una polémica. Friedrich Nietzsche.
+* Nietzsche, F. (1888). El crepúsculo de los ídolos o cómo se filosofa a martillazos. Friedrich Nietzsche.
+* Nietzsche, F. (1888). La genealogía de la moral. Friedrich Nietzsche.
+* Nietzsche, F. (1889). Ecce Homo: cómo se llega a ser lo que se es. Friedrich Nietzsche.
+* Nietzsche, F. (1891). El Anticristo: maldición sobre el cristianismo. Friedrich Nietzsche.
+
+**Temas**
+* La moral
+* Cristianismo
+* Nihilismo
+* Voluntad de poder, la afirmacion, si a la vida = si a la voluntad, creacion de nuevos valores
+* Superhombre
+
+No hay verdad solo interpretaciones (morales)
+Lo que no te mata te hace mas fuerte
+Dios ha muerto
+El eterno retorno de los mismo
+
+La historia como una osiclacion. Nihilismo- decadencia
 
 
 [Ir a inicio](#inicio)
