@@ -681,25 +681,23 @@ cielo no quedó más que aburrimiento.
 Quizá el filósofo mas leído fuera de la disciplina
 El mas vendido en librerías (en estante de filosofia)
 Estudio filosofia
-Filologia, letras clasicas.
-
-
-
+Filología, letras clásicas.
 
 **Obra principal**
 * Nietzsche, F. (1883). Así habló Zaratustra. Friedrich Nietzsche.
-* Nietzsche, F. (1886). Más allá del bien y del mal: preludio de una filosofía del futuro. Friedrich Nietzsche.
+* Nietzsche, F. (1886). Más allá del bien y del mal: preludio de una filosofía del futuro. Friedrich        Nietzsche.
 * Nietzsche, F. (1887). Genealogía de la moral: una polémica. Friedrich Nietzsche.
 * Nietzsche, F. (1888). El crepúsculo de los ídolos o cómo se filosofa a martillazos. Friedrich Nietzsche.
 * Nietzsche, F. (1888). La genealogía de la moral. Friedrich Nietzsche.
 * Nietzsche, F. (1889). Ecce Homo: cómo se llega a ser lo que se es. Friedrich Nietzsche.
 * Nietzsche, F. (1891). El Anticristo: maldición sobre el cristianismo. Friedrich Nietzsche.
 
+
 **Temas**
 * La moral
 * Cristianismo
 * Nihilismo
-* Voluntad de poder, la afirmacion, si a la vida = si a la voluntad, creacion de nuevos valores
+* Voluntad de poder, la afirmación, si a la vida = si a la voluntad, creación de nuevos valores
 * Superhombre
 
 No hay verdad solo interpretaciones (morales)
@@ -721,6 +719,40 @@ La historia como una osiclacion. Nihilismo- decadencia
 <a name="SEMANA_9">9</a>
 
 # SEMANA 9
+---
+theme: default
+paginate: true
+---
+
+# Bertrand Russell y la Lógica
+
+## Introducción
+
+- Bertrand Russell (1872-1970) fue uno de los filósofos y matemáticos más influyentes del siglo XX.
+- Desarrolló una obra extensa en muchas áreas, pero es especialmente conocido por su trabajo en la lógica.
+
+## Principios fundamentales de la lógica
+
+- La lógica es la ciencia formal que se ocupa de los principios del razonamiento válido.
+- Uno de los principios fundamentales de la lógica es la ley de identidad: "A es A". Es decir, cualquier cosa es igual a sí misma.
+- Otro principio fundamental es la ley de no contradicción: "A no puede ser al mismo tiempo A y no A". Es decir, una cosa no puede ser y no ser al mismo tiempo.
+
+## Trabajo de Russell en lógica
+
+- Russell hizo importantes contribuciones al desarrollo de la lógica matemática.
+- Junto con Alfred North Whitehead, escribió la obra *Principia Mathematica*, que es considerada como uno de los trabajos más importantes en la lógica matemática del siglo XX.
+- En este trabajo, Russell y Whitehead intentaron demostrar que toda la matemática podía ser derivada de un conjunto de axiomas lógicos fundamentales.
+
+## Paradoja de Russell
+
+- Una de las contribuciones más famosas de Russell a la lógica es la llamada Paradoja de Russell.
+- La paradoja es una contradicción que surge cuando se considera el conjunto de todos los conjuntos que no se contienen a sí mismos. Si este conjunto se contiene a sí mismo, entonces no debería estar en el conjunto, y si no se contiene a sí mismo, entonces debería estar en el conjunto.
+- La paradoja fue un desafío importante para la lógica y llevó a la revisión de algunos de los principios fundamentales.
+
+## Conclusión
+
+- Bertrand Russell fue uno de los filósofos y matemáticos más influyentes del siglo XX, especialmente conocido por su trabajo en la lógica.
+- Sus contribuciones a la lógica matemática y su Paradoja de Russell siguen siendo objeto de estudio y debate hoy en día.
 
 
 [Ir a inicio](#inicio)
