@@ -395,10 +395,10 @@ Conocer es la filosofía segunda/ los segundos principios. En ese sentido las de
 * verdad / correspondencia / 
 * aseveración
 * razones/ justificación/ motivos
-* oraciones/ promociones
+* oraciones/ promociones / su forma física y su forma lógica
 * juicio / movimiento del alma / 
-* criterio de verdad
-* comunidad epistemica -->
+* criterio de verdad / lo que tomo en cuenta para emitir juicio
+* comunidad epistemic -->
 
 
 
@@ -470,7 +470,22 @@ En conclusión, para Luis Villoro, la creencia es una actitud personal y subjeti
 
 # SEMANA 6
 
+<!-- 
+## Glosario=
+* creer / tres: biografía/ motivos / 
+* conocer /cercanía /descripción / implica saber algo de
+* saber  / no implica conocer necesariamente / de una oración a un hecho pasa a aseveración y su referencia
+* verdad / correspondencia / 
+* aseveración
+* razones/ justificación/ motivos
+* oraciones/ proposiciones / su forma física y su forma lógica
+* juicio / movimiento del alma / 
+* criterio de verdad / lo que tomo en cuenta para emitir juicio/ reglas método puntos a considerar/ para determinar si es o no verdad
+sin criterios claros ni uno mismo esta seguro.
+también podría ser como coherencia interna.
 
+
+* comunidad epistemic -->
 
 
 
@@ -489,6 +504,8 @@ En conclusión, para Luis Villoro, la creencia es una actitud personal y subjeti
 <a name="SEMANA_8">8</a>
 
 # SEMANA 8
+Empirismo y escepticismo
+Representantes y argumentos
 
 
 [Ir a inicio](#inicio)

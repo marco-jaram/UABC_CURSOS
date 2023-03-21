@@ -4,7 +4,7 @@
 <a name="inicio">INICIO</a>
 
 [Antología de curso](https://drive.google.com/drive/folders/1luKkDwKoW4djBfgFfDpasoix1zpMdTjO?usp=share_link)
-
+* [EXPOSICIONES DE ALUMNOS](#EXPO)
 * [SEMANA_1](#SEMANA_1)
 * [SEMANA_2](#SEMANA_2)
 * [SEMANA_3](#SEMANA_3)
@@ -25,6 +25,13 @@
 
 <!-- <img src="" width="300px"> -->
 <!-- ![Titulo](http) -->
+
+
+
+# Relacion de exposciones de alumnos
+<a name="EXPO">*</a>
+[![2023-03-21-163234-1372x458-scrot.png](https://i.postimg.cc/K8tQyL8b/2023-03-21-163234-1372x458-scrot.png)](https://postimg.cc/LJ6jtJPQ)
+
 
 <a name="SEMANA_1">1</a>
 
