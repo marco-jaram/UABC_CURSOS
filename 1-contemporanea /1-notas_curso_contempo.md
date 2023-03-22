@@ -30,7 +30,6 @@
 
 # Relacion de exposciones de alumnos
 <a name="EXPO">*</a>
-[![2023-03-21-163234-1372x458-scrot.png](https://i.postimg.cc/K8tQyL8b/2023-03-21-163234-1372x458-scrot.png)](https://postimg.cc/LJ6jtJPQ)
 
 
 <a name="SEMANA_1">1</a>

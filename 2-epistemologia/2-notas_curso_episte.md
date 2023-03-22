@@ -2,7 +2,7 @@
 <a name="inicio">INICIO</a>
 
 [Videos](https://drive.google.com/drive/folders/1gaImpXuMtUl2cuuhFD1H2qHXdC-sDB5S?usp=share_link)
-
+* [EXPOSICIONES DE ALUMNOS](#EXPO)
 * [SEMANA_1](#SEMANA_1)
 * [SEMANA_2](#SEMANA_2)
 * [SEMANA_3](#SEMANA_3)
@@ -21,6 +21,11 @@
 * [SEMANA_16](#SEMANA_16)
 * [SEMANA_17](#SEMANA_17)
 
+
+
+# Relacion de exposciones de alumnos
+<a name="EXPO">*</a>
+[![2023-03-21-163234-1372x458-scrot.png](https://i.postimg.cc/K8tQyL8b/2023-03-21-163234-1372x458-scrot.png)](https://postimg.cc/LJ6jtJPQ)
 <a name="SEMANA_1">1</a>
 
 # SEMANA 1
