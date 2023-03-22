@@ -677,12 +677,6 @@ este; pero frente a un deseo que se satisface quedan al menos diez incumplidos: 
 exigencias llegan hasta el infinito; la satisfacción es breve y se escatima. 
 >después de que el hombre hubo puesto todos los sufrimientos y tormentos en el infierno, para el
 cielo no quedó más que aburrimiento.
-
-
-[Ir a inicio](#inicio)
-<a name="SEMANA_7">7</a>
-
-# SEMANA 7
 ### Nietzsche
 
 Quizá el filósofo mas leído fuera de la disciplina
@@ -712,7 +706,134 @@ Lo que no te mata te hace mas fuerte
 Dios ha muerto
 El eterno retorno de los mismo
 
-La historia como una osiclacion. Nihilismo- decadencia
+La historia como una oscilación. Nihilismo- decadencia
+
+
+### Bergson
+# Henri Bergson 
+
+Henri Bergson fue un filósofo francés que vivió entre 1859 y 1941. Fue uno de los pensadores más influyentes de su tiempo y sus ideas siguen siendo estudiadas y debatidas en la actualidad. Bergson es conocido por su trabajo en la filosofía de la percepción, la conciencia y el tiempo.
+
+## Filosofía de la percepción
+
+Bergson argumentaba que la percepción no es simplemente una cuestión de captar imágenes visuales, sino que implica una comprensión más profunda de la realidad. Según él, la percepción implica una intuición inmediata y directa de las cosas tal como son, y no como se presentan en forma de imágenes.
+
+## Filosofía de la conciencia
+
+Bergson también se interesó por la naturaleza de la conciencia. Según él, la conciencia no puede ser reducida a una serie de estados mentales o procesos cognitivos. En cambio, la conciencia es un flujo continuo de experiencia que siempre está en movimiento y cambiando. Bergson se refirió a este flujo como "duración".
+
+## Filosofía del tiempo
+
+Quizás la contribución más importante de Bergson a la filosofía es su trabajo sobre el tiempo. Argumentaba que el tiempo no puede ser comprendido simplemente como una sucesión de momentos separados, sino que debe ser entendido como una duración continua y en constante cambio. Según Bergson, el tiempo es esencialmente cualitativo y no cuantitativo, y no puede ser medido con precisión.
+
+## Obras destacadas
+
+Entre las obras más destacadas de Bergson se encuentran:
+
+- *Ensayo sobre los datos inmediatos de la conciencia* (1889)
+- *Materia y memoria* (1896)
+- *La risa* (1900)
+- *La evolución creadora* (1907)
+
+## Legado
+
+La obra de Bergson tuvo un gran impacto en la filosofía del siglo XX y sigue siendo influyente en la actualidad. Sus ideas sobre la percepción, la conciencia y el tiempo han sido estudiadas y debatidas por filósofos y científicos de todo el mundo. Bergson también tuvo un impacto significativo en el movimiento modernista de la literatura y el arte, y su influencia se puede ver en las obras de escritores y artistas como James Joyce, Virginia Woolf y Pablo Picasso.
+
+## Bergson, H. (2014). Introducción a la metafísica. Ediciones Akal.
+
+**Citas**
+
+**Intro**
+> A cuenta, pues, de la metafísica
+sostendremos esta "filosofía de la ciencia" o "metafísica de la
+ciencia" que habita el espíritu de los grandes sabios, que es
+inmanente a su ciencia y en muchas ocasiones su inspiradora
+invisible. En el presente artículo la dejamos todavía a cuenta
+de la ciencia, pues ha sido practicada de hecho por los
+investigadores que generalmente se ha dado en llamar
+"sabios", más bien que "metafísicos
+
+>La metafísica es,
+pues, la ciencia que pretende abstenerse de símbolos
+
+
+**Análisis e intuición**
+>dos maneras
+radicalmente distintas de conocer una cosa. La primera
+implica que se dan vueltas alrededor de esa cosa, la
+segunda, que se entra en ella. La primera depende del punto
+de vista donde uno se coloque y de los símbolos que la
+expresan. La segunda no se toma dé ningún punto de vista y
+no se apoya sobre ningún símbolo. Se dirá del primer
+conocimiento que se detiene en lo relativo, del segundo,
+cuando sea posible, que llega a lo absoluto
+
+>Cuando
+hablo de un movimiento absoluto, atribuyo al móvil un interior
+y como estados de alma, simpatizo por esto con los estados y
+me meto en ellos por un esfuerzo de imaginación. Pero
+entonces, según que el objeto sea móvil o inmóvil, según que
+adopte uno u otro movimiento, no experimentaré la misma
+cosa
+
+>Símbolos y puntos de vista me
+colocan, pues, fuera de ella, de ella no me entregan sino lo
+que tiene de común con otras y no le pertenece en propiedad.
+Pero lo que es propiamente ella, aquello que constituye su
+esencia, no podría advertirse desde fuera, pues es interior
+por definición, ni expresarse por símbolos, pues es
+inconmensurable por cualquier otra cosa
+
+>un poema en todas las lenguas posibles podrán añadir
+matices y matices y, por una especie de retoque recíproco,
+corregirse una a otra y dar una imagen más y más fiel del
+poema que traducen, pero jamás devolverán el sentido
+interior del ori-[pág.11] 
+
+> lo absoluto y lo infinito. Si quiero co-
+municar al que no sabe griego la impresión simple que me
+deja un verso de Homero, daré la traducción del verso, des-
+pués comentaré mi traducción, luego desarrollaré mi comen-
+tario, y de explicación en explicación me acercaré más y más
+a aquello que quiero expresar
+
+>un absoluto no podrá ser dado
+sino en una intuición, mientras que todo lo demás surge del
+análisis. Llamamos aquí intuición a la simpatía por la cual uno
+se transporta al interior de un objeto, para coincidir con
+aquello que tiene de único y en consecuencia de inexpresa-
+ble
+
+>El análisis es al contrario la operación que reduce el ob-
+jeto a elementos ya conocidos, es decir, comunes a este
+objeto y a otros.
+
+**Duración y conciencia**
+
+>Hay, por lo menos, una realidad que todos captamos desde
+dentro, por intuición y no por simple análisis. Es nuestra
+propia persona en su fluencia por el tiempo. Es nuestro yo
+que dura. Podemos no simpatizar intelectualmente, o mejor,
+espiritualmente, con alguna otra cosa. Pero simpatizamos se-
+guramente con nosotros mismos.
+
+>Vivir consiste en envejecer. Pero es también un
+enrollamiento continuo, como el de un hilo sobre una bola,
+pues nuestro pasado nos sigue, se agranda sin cesa
+
+[Ir a inicio](#inicio)
+<a name="SEMANA_7">7</a>
+
+# SEMANA 7
+## FENOMENOLOGÍA
+
+### Husserl
+
+### Heidegger
+
+### Sartre
+
+### Simone de Beauvoir
 
 
 [Ir a inicio](#inicio)
@@ -726,10 +847,7 @@ La historia como una osiclacion. Nihilismo- decadencia
 <a name="SEMANA_9">9</a>
 
 # SEMANA 9
----
-theme: default
-paginate: true
----
+
 
 # Bertrand Russell y la Lógica
 
