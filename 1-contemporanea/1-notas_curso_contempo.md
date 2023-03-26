@@ -820,6 +820,9 @@ guramente con nosotros mismos.
 enrollamiento continuo, como el de un hilo sobre una bola,
 pues nuestro pasado nos sigue, se agranda sin cesa
 
+
+
+
 [Ir a inicio](#inicio)
 <a name="SEMANA_7">7</a>
 
