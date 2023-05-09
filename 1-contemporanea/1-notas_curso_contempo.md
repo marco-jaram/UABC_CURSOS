@@ -929,7 +929,7 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 ## Materialismo filosófico
 
 ### Representantes
-- Gustavo Bueno, ensayos materialistas, el ego trascendental
+- Gustavo Bueno, Ensayos materialistas(1972), El ego trascendental (2016)
 - Javier Perez Jara
 - Paloma Hernandez [Bio](https://www.filosofia.org/ave/003/c077.htm)
 - Ramón Rubinat
