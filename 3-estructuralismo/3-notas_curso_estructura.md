@@ -527,6 +527,12 @@ Los gráficos utilizados para representar las formas elementales del parentesco 
 <a name="SEMANA_9">9</a>
 
 # SEMANA 9
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Tw9Y6FyN/diagramade-VEN6-COMPLEMENTO-RELATIVO.png" alt="diagramade-VEN6-COMPLEMENTO-RELATIVO"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/RF9V240n/diagramas-de-VEN2-UNION.png" alt="diagramas-de-VEN2-UNION"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/T132Y0gd/diagramas-de-VEN3-INTERSECCION.png" alt="diagramas-de-VEN3-INTERSECCION"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/NFCsyXk1/diagramasde-VEN1-CONJUNTO.png" alt="diagramasde-VEN1-CONJUNTO"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/y8MNXF4j/diagramasde-VEN4-DIFERENCIA-SIMETRICA.png" alt="diagramasde-VEN4-DIFERENCIA-SIMETRICA"/></a><br/><br/>
+<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/Gm82yXN9/diagramasde-VEN5-COMPLEMENTO-ABSOLUTO.png" alt="diagramasde-VEN5-COMPLEMENTO-ABSOLUTO"/></a><br/><br/>
 
 
 [Ir a inicio](#inicio)
