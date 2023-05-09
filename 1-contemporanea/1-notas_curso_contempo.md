@@ -931,6 +931,7 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 ### Representantes
 - Gustavo Bueno, ensayos materialistas, el ego trascendental
 - Javier Perez Jara
+- Paloma Hernandez [Bio](https://www.filosofia.org/ave/003/c077.htm)
 - Ramón Rubinat
 
 ### El punto de partida de la filosofía materialista (video)
