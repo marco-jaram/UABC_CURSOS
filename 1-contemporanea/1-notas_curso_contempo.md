@@ -934,6 +934,13 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 - Paloma Hernandez [Bio](https://www.filosofia.org/ave/003/c077.htm)
 - Ramón Rubinat
 
+* Publicaciones
+* Catoblepas [Revista](https://www.nodulo.org/ec/)
+* El bassilisco [revista](https://www.filosofia.org/rev/bas/index.htm)
+* Fundacion Gustavo Bueno [Sitio web](https://www.fgbueno.es/) [Canal-Youtube](https://www.youtube.com/@fgbuenotv)
+* Nodulo Tv [Canal-Youtube](https://www.youtube.com/@nodulotv)
+
+
 ### El punto de partida de la filosofía materialista (video)
 - No hay puntos de partida
 - Pensar en pensar en contra de algo
