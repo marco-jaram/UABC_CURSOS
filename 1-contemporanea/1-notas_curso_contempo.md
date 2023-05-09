@@ -820,6 +820,9 @@ guramente con nosotros mismos.
 enrollamiento continuo, como el de un hilo sobre una bola,
 pues nuestro pasado nos sigue, se agranda sin cesa
 
+
+
+
 [Ir a inicio](#inicio)
 <a name="SEMANA_7">7</a>
 
@@ -923,6 +926,76 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 <a name="SEMANA_16">16</a>
 
 ## SEMANA 16
+## Materialismo filosófico
+
+### Representantes
+- Gustavo Bueno, ensayos materialistas, el ego trascendental
+- Javier Perez Jara
+- Ramón Rubinat
+
+### El punto de partida de la filosofía materialista (video)
+- No hay puntos de partida
+- Pensar en pensar en contra de algo
+- No tiene sentido pensar solo por pensar
+
+### Creacionismo / evolucionismo
+- Creacionismo: supone causa trascendente, exterior, dos
+- Evolucionismo: causa inmanente, se produce desde sí mismo
+
+### Monismo
+- Todo está relacionado con todo
+- Es el continuismo de una totalidad en partes. Interconectadas unas con otras
+- Parménides, Hegel, Schelling
+
+### Pluralismo
+- Nada está relacionado con nada
+- Hay una desconexión de la causa con otras cosas
+- Teoría del azar, la ciencia desaparece
+
+### Ejemplos
+#### Monismo
+- Vas al doctor porque te duele el hígado
+- El doctor monista: como todo está conectado con todo, tal vez le duele por una conjunción astral de los planetas.
+
+### Leyes naturales
+- No hay tal cosa
+- Los positivistas dicen leyes en la ciencia, pero no hay tal cosa
+- Lo que hay son estructuras
+- No hay fundamento de la dignidad humana, solo hay resultado a partir de la convivencia de los seres humanos
+
+### Metafísica
+- Sustancializa algo que no lo es
+- La Humanidad es abstracta, no es un sujeto que reflexiona sobre sí misma
+- Hay que operarse
+
+### Teoría del conocimiento (video)
+- Una teoría tiene que ser distinta y clara, un campo definido respecto de otras teorías
+- En Teoría del conocimiento no hay nada definido
+- La teoría del conocimiento no es una teoría como la teoría de la relatividad
+- Solo hay opiniones sobre las teorías del conocimiento
+
+### Ego Trascendental
+- Parecido al idealismo alemán, pero en MF es importante mostrar ideas que ya habían, establecer nexos lazos a la tradición filosófica
+- Ego trascendental está tomada de Kant
+- Sujeto operatorio, lógica y sociológicamente
+
+### Ética materialista
+- Normas definidas por el objeto de las normas éticas, la preservación de los cuerpos
+- El delito mayor es hacer daño corporal al otro
+
+### Realidad y ficción
+- En la literatura, realidad y ficción no son opuestos, son conjugados
+- La ficción desborda la realidad, es más real que la realidad
+
+### Plástica
+- Corrupción ideológica en las artes
+- La filosofía del arte desde el materialismo filosófico
+
+### Escultura
+- La poiesis escultórica implica tener una idea en mente y plasmarla en la obra
+- Las técnicas y tecnologías están basadas en la destrucción
+- Significación sustantiva: partir de lo adjetivo para llegar a la significación más profunda
+
 
 
 [Ir a inicio](#inicio)
@@ -934,171 +1007,4 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 [Ir a inicio](#inicio)
 
 
-
-
-
-## Helgel
-fechas y sus contemporáneas
-la fenomenología del espíritu
-general
-Ideas del prologo
-filosofía y ciencia
-el capullo
-el saber y la revelación
-Vet introducción y el papel de la filosofía ante la ciencia o lo
-absoluto  
-## Fenomenología del espíritu
-prologo
-intro, la sonrisa del absoluto
-solo ven contradicción, no ven ello e unidad
-
-certeza sensible, primer movimiento
-la estructura de la obra
-
-## Schelling
-intro, vida obra
-ideas entorno a la naturaleza y el arte
-comparación de Schelling con Fichte
-de su libro filosofía de la naturaleza = física especulativa
-el movimiento mecánico y al movimiento absoluto
-fuerzas ciegas de la naturaleza
-el milagro del arte = alcanzar el/lo absoluto
-el arte puede lo que la razón no/ lo que la filosofía no
-
-el sentimiento de lo absoluto/ lo absoluto
-que quiere Schelling
-## Marx
-lista de cosas que debemos saber
-es parte de la izquierda hegeliana
-
-obra principal
-los libros mas leído de Marx
-manifiesto del partido comunista (revolución rusa, padre del comunismo)
-manuscritos económicos filosóficos (motivos Marcuse, la enajenación)
-el capital
-diferencia marx - marxismo
-materialismo histórico. dialéctica histórica(leyes). la revolución como aceleración
-la propuesta política de Marx. dictadura del proletariado. la practica actual y anterior
-los interese en abstracto del la clase obrera
-la supresión/superación del la propiedad privada
-vs comunismo grosero
-
-el capital Hegel y la reconciliación
-la primera internacional obrera
-marx dice no es suficiente exigir trabajar menos horas y mas paga
-
-marx vs anarquistas
-Stirner San stirner
-Bakunin el obeso
-Miseria de la filosofía vs filosofía de la miseria
-tesis de feurebacha no se trata de contemplar el mundo sino de transformarlo
-## Bergson
-Vjitalista también habla de la vida y el impuso
-el análisis contraponiéndose a la intuicion
-contra los símbolos
-Hay algo mas
-se capto lo absoluto por intuicion, simpatía
-LA esencia del tiempo no es el tiempo es la duración/ el tiempo que no tiene que ver con el movimiento
-buscar definición/ nunca es lo suficientemente claro
-los conceptos flexibles
-
-El debate con Einstein
-filosofía vs ciencia?
-y la filosofía anglosajona de ese tiempo 
-Russel y el ABC de la teoría de la relatividad
-## Nietzsche  
-la actitud frente a la voluntad
-voluntad es la naturaleza la vida
-decirle si a la vida
-Lo bueno y lo malo, la trasmutación/mutación/ metamorfosis de los conceptos
-La voluntad de poder y las nuevas tablas de valores
-El nihilismo como la falta a la respuesta al por que
-El eterno retorno de los mismo, 
-el retorno como una retribucion
-una paga
-sufro mucho entonces mi paga debe ser una alegría
-gozo mucho entonces mi paga debe ser un sufrimiento
-
-## VITALISMO 
-## Schopenhauer
-conceptos
-mundo, representación, voluntad
-reproche a Kant
-vs Fichte
-definición de voluntad
-el suicidio
-el nirvana
-el arte
-la filosofía
-
-
-
-## Fenomenología
-=jHusserl=
-la conciencia
-a las cosas mismas
-La conciencia intencional
-El método
-
-pasar del noema a la noesis
-
-
-
-==epoje==
-Se horizontaliza 
-suspender los juicios sobre lo que es real. el mundo natural
-tomas conciencia de lo que sabes, de las teorías y puedes suspenderlas
-
-
-el noema= descripción textural,de lo que aparece= prerrefelxiva, NO-teorías, tal como aparece a la conciencia. 
-
-
-
-==se acaba la epoje==
-
-la noesis la estructura= descripción estructural.  = reflexivo, teoría
-
-
-
-No puedes alcanzar la noesis, descripción estructural sin saber el noema
-==reporte de la esencia del fenómeno==
-noema + lo que se
-==método==
-1. seleccionar conjunto al invetigar
-2. epoje irreflexión. descripción. categorizar
-3. aplicar reflexión. resultados de loa análisis. características universales. categorizas.
-hacen mas subconjuntos
-1. la esencia. de lo particular a lo general INDUCCIÓN. escribes resultados.
-2. ensayo,tesis,articulo
-
-==filosofar como trabajar con conceptos==
-1. seleccionar a grupo de conceptos. de un filosofo o grupo de filósofos
-2. epoje. quitar lo que se cobre esos conceptos. describir esos conceptos en sus relaciones
-categorizar lo que encontré en la epoje
-3. de esos particular alanzar lo general
-4. ensayo, tesis, articulo
-5. 
-
-
-## Sartre
-
-
-## Existencialismo=
-==Heidegger==
-vida
-partido nazi
-rector de uni de berlin
-obra
-que es metafísica
-ser y tiempo
-
-## Neopositivismo y filosofía analítica=
-=Existencialismo=
-_________________
-Simone Beauvoir
-símbolos, cambiar el lema de la universidad
-
-
-## Teoría critica=
-presentación con temas generales
 

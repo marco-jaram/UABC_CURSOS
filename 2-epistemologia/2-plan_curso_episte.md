@@ -68,7 +68,7 @@ general con una actitud crítica.
 | -      | 4.1.0 Lenguaje y conocimiento                        |           |           |       |
 | 12[][] | 4.1.1 Russell y la teoría de conjuntos               |           |           |       |
 | 13[][] | 4.1.2 La paradoja en la principia matemática         |           |           |       |
-| 14[][] | 4.1.3 Canto y Platón según Badiou                    |           |           |       |
+| 14[][] | 4.1.3 Canto y Platón según Badiou   12321                 |           |           |       |
 | 15[][] | 4.2.0 Noción de episteme en Foucault                 |           |           |       |
 | 16[][] | 4.2.1 La episteme en las palabras y las cosas        |           |           |       |
 | 17[]   | 4.3.0 Realismo especulativo                          |           |           |       |

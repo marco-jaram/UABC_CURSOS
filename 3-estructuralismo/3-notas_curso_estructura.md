@@ -151,10 +151,12 @@ Por otro lado, el estructuralismo fue un movimiento intelectual más amplio que 
 
 En resumen, aunque el formalismo ruso y el estructuralismo comparten algunas similitudes, como el énfasis en la forma y la estructura, son corrientes teóricas distintas con diferencias en cuanto a sus enfoques y orígenes históricos.
 
+-----------------------------------------------------------------------------------------
 
 **Características de la estructura**
 
-  1. El enfoque en los elementos que conforman una estructura: el estructuralismo se centra en los elementos que conforman una estructura, y en cómo estos elementos se relacionan entre sí. En lugar de estudiar los fenómenos culturales o lingüísticos de forma aislada, el estructuralismo busca entender cómo estas manifestaciones culturales están compuestas por elementos que se relacionan entre sí.
+  1. El enfoque en los elementos que conforman una estructura: el estructuralismo se centra en los elementos que conforman una estructura, y en cómo estos elementos se relacionan entre sí. En lugar de estudiar los fenómenos culturales o lingüísticos de forma aislada, el estructuralismo busca entender  estas manifestaciones culturales están compuestas por elementos que se relacionan entre sí.
+
 
   2. La importancia de las reglas que rigen una estructura: el estructuralismo destaca la importancia de las reglas que gobiernan una estructura. Estas reglas son consideradas como la base para la comprensión de la estructura, y ayudan a explicar cómo los elementos de la estructura interactúan entre sí.
 
@@ -163,6 +165,17 @@ En resumen, aunque el formalismo ruso y el estructuralismo comparten algunas sim
   4. La búsqueda de patrones y regularidades: el estructuralismo busca identificar patrones y regularidades en las estructuras que estudia. Al encontrar estos patrones, los estructuralistas pueden establecer las reglas que rigen una estructura y entender cómo los elementos de la estructura interactúan entre sí.
 
   5. La creencia de que el significado es construido a través de las relaciones entre los elementos de una estructura: en el estructuralismo, el significado se considera como algo que es construido a través de las relaciones entre los elementos de una estructura. Esto significa que el significado no es algo que existe de forma aislada, sino que es el resultado de la relación entre los elementos de una estructura.
+
+  --------------------------------------------------------------------------------------
+
+  1. La modificacion de una altera al conjunto
+  2. Una estructura pertenece a un grupo
+  3. La estructura debe permitir predecir algo
+  4. Debe dar cuenta de la totalidad
+  
+  5. Dejar la simple descripcion
+
+  -------------------------------------------------------------------------------------
 
 
 ***Muestras para análisis**

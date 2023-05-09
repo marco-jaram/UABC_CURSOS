@@ -13,7 +13,7 @@ Analiza los antecedentes históricos y metodológicos del estructuralismo a trav
 | 2      | 1.1.2 Estructuras ¿empíricas o teóricas?                              |           |           |       |
 | 2      | 1.1.3 El modelo lingüístico                                           |           |           |       |
 | 2      | 1.1.4 La disputa del humanismo                                        |           |           |       |
-| 2 ]    | 1.1.5 La historia en el exilio                                        |           |           |       |
+| 2      | 1.1.5 La historia en el exilio                                        |           |           |       |
 | -      | 1.2.0 **Antecedentes del estructuralismo. Ferdinand de Saussure.**    |           |           |       |
 | 3      | 1.2.1 Principios generales                                            |           |           |       |
 | 3      | 1.2.2 Signo, significado, significante                                |           |           |       |
@@ -95,7 +95,7 @@ Analiza las críticas al estructuralismo por parte de autores que se les reconoc
 | Semana | Tema                                                           | Actividad | Evidencia | valor |
 |--------|----------------------------------------------------------------|-----------|-----------|-------|
 | 15     | 5.1.0 Deleuze                                                  |           |           |       |
-|        | 5.1.1 Pensamiento nómada                                       |           |           |       |
+| a       | 5.1.1 Pensamiento nómada                                       |           |           |       |
 |        | 5.1.2 Análisis político del deseo: capitalismo y esquizofrenia |           |           |       |
 |        | 5.1.3 ¿Dónde reconocer el estructuralismo?                     |           |           |       |
 | 16     | 5.2.0 Derrida                                                  |           |           |       |

@@ -539,6 +539,102 @@ Representantes y argumentos
 <a name="SEMANA_12">12</a>
 
 # SEMANA 12
+# Conocimiento y Lenguaje
+
+## Lenguaje
+
+- Lenguaje
+- Lengua
+- Habla
+
+## Conocimiento y Lenguaje
+
+* El lenguaje es inabarcable, y por esa razón ha sido objeto de estudio para los metafísicos. Heidegger II sostiene que el lenguaje es la casa del ser, mientras que Heidegger I tiene una visión negativa respecto al estudio del lenguaje en filosofía.
+
+* Otro enfoque en el estudio del lenguaje ha sido realizado por filósofos como Frege, Russell (el epistemólogo del siglo XX, autor de "Principia Mathematica"), Carnap (filósofo y lógico) y Wittgenstein (autor de "Tractatus" e "Investigaciones Filosóficas"). Además, se ha explorado la relación entre la lógica y la metafísica en el positivismo lógico y la filosofía analítica, así como en el Círculo de Viena, donde se encuentran los lógicos.
+
+* Galileo, Descartes y Leibniz también han contribuido al estudio del conocimiento y el lenguaje. Leibniz, en particular, estudió matemáticas en 1646 y 1663, y en 1684 publicó su trabajo sobre cálculo infinitesimal. La integral tiene diversas aplicaciones, incluso en situaciones aparentemente no relacionadas como el juego de billar.
+
+* El sueño de Leibniz nos hace reflexionar sobre la polisemia de nuestro lenguaje, donde una palabra puede tener múltiples sentidos. Esto nos lleva a la incertidumbre en la comprensión cuando hablamos.
+
+* La paradoja y la contradicción son fenómenos que pueden surgir en el lenguaje y el pensamiento. Una paradoja implica una declaración aparentemente contradictoria que puede ser verdadera, mientras que una contradicción entra en conflicto directo con otra afirmación.
+
+## La teoría de conjuntos
+### La teoria de conjuntos es un área fundamental de las matemáticas que estudia las propiedades y las relaciones entre los conjuntos
+
+
+* Conjunto A
+
+┌───┬───┬───┐
+│ 1 │ 2 │ 3 │
+└───┴───┴───┘
+* Conjunto B
+
+┌───┬───┬───┐
+│ 2 │ 3 │ 4 │
+└───┴───┴───┘
+
+* Relaciones basicas
+
+**Unión de A y B (A ∪ B):**
+
+┌───┬───┬───┬───┐
+│ 1 │ 2 │ 3 │ 4 │
+└───┴───┴───┴───┘
+* Intersección de A y B (A ∩ B):
+
+┌───┬───┬───┐
+│ 2 │ 3 │   │
+└───┴───┴───┘
+* Diferencia entre A y B (A - B):
+
+┌───┐
+│ 1 │
+└───┘
+
+### Caracteristicas basicas de la teoria de conjuntos
+
+1. **Elementos:** Un conjunto está compuesto por elementos, que pueden ser objetos, números, letras o cualquier otra entidad. Se denota usualmente mediante letras mayúsculas (A, B, C, etc.) y se representa enumerando sus elementos entre llaves. Por ejemplo, el conjunto A puede definirse como:
+
+   A = {a, b, c}
+
+2. **Igualdad de conjuntos:** Dos conjuntos son iguales si y solo si tienen los mismos elementos. Es decir, A = B si todos los elementos de A pertenecen a B y viceversa.
+
+3. **Cardinalidad:** La cardinalidad de un conjunto se refiere a la cantidad de elementos que contiene. Se denota como |A|, donde A es el conjunto. Por ejemplo, si tenemos el conjunto A = {1, 2, 3}, su cardinalidad es |A| = 3, ya que contiene tres elementos.
+
+4. **Conjunto vacío:** Existe un conjunto especial llamado conjunto vacío, denotado por ∅ o {}. Este conjunto no contiene ningún elemento. Es importante mencionar que el conjunto vacío es un subconjunto de cualquier conjunto.
+
+5. **Subconjuntos:** Un conjunto A es subconjunto de otro conjunto B si todos los elementos de A también pertenecen a B. Se denota como A ⊆ B. Si existe al menos un elemento en A que no pertenece a B, entonces A no es subconjunto de B.
+
+6. **Operaciones de conjuntos:** En la teoría de conjuntos, existen varias operaciones comunes, como la unión, la intersección y la diferencia. Estas operaciones permiten combinar conjuntos y obtener nuevos conjuntos resultantes. Algunas operaciones importantes son:
+
+   - Unión (A ∪ B): El conjunto que contiene todos los elementos que pertenecen a A o a B, o a ambos conjuntos.
+   - Intersección (A ∩ B): El conjunto que contiene todos los elementos que pertenecen tanto a A como a B.
+   - Diferencia (A - B): El conjunto que contiene los elementos de A que no pertenecen a B.
+   - Complemento (A'): El conjunto que contiene todos los elementos que no pertenecen a A, en relación con un conjunto universal.
+
+### 
+## Clasificación de los números
+
+En matemáticas, los números se pueden clasificar en diferentes categorías:
+
+1. **Números naturales:** Los números naturales son aquellos números enteros no negativos que se utilizan para contar elementos. Se representan con el símbolo ℕ. Por ejemplo: 0, 1, 2, 3, ...
+
+2. **Números enteros:** Los números enteros incluyen tanto los números naturales como sus opuestos (números negativos). Se representan con el símbolo ℤ. Por ejemplo: ..., -3, -2, -1, 0, 1, 2, 3, ...
+
+3. **Números racionales:** Los números racionales son aquellos que se pueden expresar como el cociente de dos números enteros, donde el denominador no es cero. Se representan con el símbolo ℚ. Por ejemplo: 1/2, -3/4, 2/7, ...
+
+4. **Números irracionales:** Los números irracionales son aquellos que no pueden ser expresados como una fracción exacta y tienen una expansión decimal infinita y no periódica. Algunos ejemplos famosos de números irracionales son π (pi) y √2 (raíz cuadrada de 2).
+
+5. **Números reales:** Los números reales incluyen tanto los números racionales como los números irracionales. Se representan con el símbolo ℝ. Los números reales representan todos los posibles valores en la recta numérica.
+
+6. **Números complejos:** Los números complejos son una extensión de los números reales que incluyen una parte real y una parte imaginaria. Se representan con el símbolo ℂ. Por ejemplo: 3 + 4i, -2i, 1 - 2i.
+
+Esta es una clasificación básica de los números utilizada en matemáticas. Cada categoría tiene sus propiedades y características específicas.
+
+         
+   
+
 
 
 [Ir a inicio](#inicio)
@@ -546,18 +642,176 @@ Representantes y argumentos
 <a name="SEMANA_13">13</a>
 
 # SEMANA 13
+# Demostración de la existencia de muchos infinitos de Cantor
 
+Consideremos una lista de los números naturales del 1 al 10 y una lista de los números reales que fluctúan del 0 al 0.09 con 20 dígitos decimales:
+
+1. 0.00000000000000000001∞
+2. 0.01000000000000000000∞
+3. 0.02000000000000000000∞
+4. 0.03000000000000000000∞
+5. 0.04000000000000000000∞
+6. 0.05000000000000000000∞
+7. 0.06000000000000000000∞
+8. 0.07000000000000000000∞
+9. 0.08000000000000000000∞
+10. 0.0900000000000000000∞
+
+Queremos demostrar que existen infinitos números reales que no pueden estar en esta lista. Utilizaremos el método de la diagonal para construir un número real que difiera de cada número en la lista.
+
+Tomamos la diagonal de la lista y construimos un nuevo número real seleccionando un dígito diferente en cada posición de la diagonal. Por ejemplo, podemos seleccionar los siguientes dígitos:
+
+- En la posición 1 de la diagonal, seleccionamos el dígito 1.
+- En la posición 2 de la diagonal, seleccionamos el dígito 2.
+- En la posición 3 de la diagonal, seleccionamos el dígito 3.
+- En la posición 4 de la diagonal, seleccionamos el dígito 4.
+- En la posición 5 de la diagonal, seleccionamos el dígito 5.
+- ...
+
+Construimos así el número real 0.12345...
+
+Ahora, observemos que este número difiere de cada número real en la lista en al menos una posición decimal. Por lo tanto, el número 0.12345... no puede estar en la lista original, lo que implica que existen infinitos números reales que no han sido incluidos en la lista.
+
+Podemos repetir este proceso infinitamente para construir una cantidad infinita de números reales que no están en la lista original. Esto demuestra que existen infinitos tamaños de infinito cuando comparamos los números naturales del 1 al 10 con los números reales que fluctúan del 0
+
+### Numeros transfinitos ℵ
+Un número transfinito se representa con la letra hebrea omega (ω) y se utiliza para describir la cardinalidad de los conjuntos infinitos contables, es decir, aquellos conjuntos que pueden ponerse en correspondencia uno a uno con los números naturales (1, 2, 3, ...). Estos conjuntos se llaman conjuntos numerables o conjuntos con cardinalidad aleph-cero (ℵ₀).
+
+El número transfinito omega (ω) es el siguiente número después de todos los números naturales. Se puede pensar como el "último número" de la secuencia de los números naturales. Sin embargo, es importante destacar que ω no es un número real en el sentido tradicional, sino que es un número transfinito que se utiliza en el contexto de la teoría de conjuntos y la cardinalidad.
+
+Además de ω, existen otros números transfinitos, como omega más uno (ω + 1), omega al cuadrado (ω²) y así sucesivamente. Estos números transfinitos representan conjuntos infinitos de cardinalidades cada vez más grandes.
+
+La teoría de los números transfinitos y la cardinalidad infinita son temas avanzados en matemáticas y se estudian en la teoría de conjuntos y la teoría de números.
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_14">14</a>
 
 # SEMANA 14
+# Paradoja de Russell
+
+La paradoja de Russell es un famoso problema lógico formulado por el filósofo y lógico Bertrand Russell a principios del siglo XX. La paradoja surge dentro del ámbito de la teoría de conjuntos y cuestiona la consistencia de la teoría ingenua de conjuntos.
+
+La paradoja se presenta de la siguiente manera: Consideremos el conjunto R de todos los conjuntos que no se contienen a sí mismos. En otras palabras, R es el conjunto que contiene a todos los conjuntos que no son miembros de sí mismos.
+
+Ahora, surge la pregunta: ¿R es miembro de sí mismo? 
+
+Formalmente, si definimos el conjunto R como:
+
+R = {x | x ∉ x}
+
+Podemos preguntarnos si R ∈ R o R ∉ R.
+
+Si asumimos que R ∈ R, entonces R cumple la condición de ser un conjunto que no se contiene a sí mismo y, por lo tanto, debería pertenecer a R. Sin embargo, esto lleva a una contradicción, ya que si R pertenece a sí mismo, entonces no cumple la condición de no pertenecer a sí mismo.
+
+Por otro lado, si asumimos que R ∉ R, entonces R también cumple la condición de ser un conjunto que no se contiene a sí mismo y, por lo tanto, debería pertenecer a R. Nuevamente, esto lleva a una contradicción, ya que si R no pertenece a sí mismo, entonces cumple la condición de pertenecer a R.
+
+Esta paradoja plantea un desafío para la teoría de conjuntos y la lógica clásica, ya que muestra una inconsistencia en el razonamiento lógico. Como resultado, ha llevado al desarrollo de enfoques más rigurosos y formales en la teoría de conjuntos, como la teoría de conjuntos Zermelo-Fraenkel, que evitan la paradoja de Russell y otros problemas similares.
+
+## Ejemplo concreto
+
+Un ejemplo concreto de la paradoja de Russell se puede ver al considerar el conjunto de todos los conjuntos que no se contienen a sí mismos en el contexto de los animales.
+
+Supongamos que tenemos un conjunto A que contiene a todos los animales que no son miembros de sí mismos. En este caso, se presenta la pregunta: ¿A es miembro de sí mismo?
+
+Si asumimos que A es miembro de sí mismo, entonces A cumple la condición de ser un animal que no se contiene a sí mismo y, por lo tanto, debería pertenecer a A. Sin embargo, esto lleva a una contradicción, ya que si A es un animal que pertenece a sí mismo, entonces no cumple la condición de no pertenecer a sí mismo.
+
+Por otro lado, si asumimos que A no es miembro de sí mismo, entonces A también cumple la condición de ser un animal que no se contiene a sí mismo y, por lo tanto, debería pertenecer a A. Nuevamente, esto lleva a una contradicción, ya que si A no es un animal que pertenece a sí mismo, entonces cumple la condición de pertenecer a A.
+
+Este ejemplo concreto
 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_15">15</a>
 
 # SEMANA 15
+# Epistemología
+
+**Prof. Marco Jaramillo**
+
+## Plan de trabajo
+
+Estimados alumnos. El trabajo que está en proceso tiene como propósito que tengan una noción clara de un procedimiento (método) mediante la experiencia y su entorno inmediato. A resumidas cuentas harán un plan de trabajo de investigación vinculado con sus intereses personales, tomando en cuenta sus tiempos y disponibilidades. El trabajo consiste en cuatro pasos.
+
+A continuación pueden ver el procedimiento completo:
+
+## Primera parte
+
+1. Contesta tres preguntas:
+   - Anota tres preguntas filosóficas de tu interés.
+   - En qué rama de la filosofía están implicadas.
+   - ¿Cómo crees que los problemas anteriores se vinculan (o podrían vincularse) con la epistemología?
+
+## Segunda parte
+
+a. El profesor marca los conceptos clave o palabras relevantes. Ya sea por falta de precisión o por una comprensión del problema mismo.
+
+b. Se pide que sustituyas dichos conceptos marcados por un enunciado completo. El fin de este ejercicio de sustitución es, por un lado, revelar una determinación de la pregunta elegida (reescribir) y, por otro, obtener variables que se desprenden de cada pregunta de la primera parte.
+
+## Tercera parte
+
+Tendrás en cuenta los fenómenos que se te muestran en torno a tu pregunta de la primera parte. Escribirás una lista de fenómenos (en un enunciado mínimo cada uno). Elegirás solo un fenómeno de la lista y lo describirás en una cuartilla.
+
+Escribe al menos 3 preguntas más que le subyacen a la pregunta principal que ya elegiste.
+
+## Cuarta parte y última
+
+Plan de lecturas
+
+El alumno busca al menos 30 referencias bibliográficas, directas o indirectas según la problemática.
+
+**Plan de lecturas**. Elabora un plan de lectura semanal. Según referencia e importancia (qué leer primero o en qué orden es el adecuado). En un listado determina lectura semanal. Sección, capítulo o todo el libro.
+
+De cada lectura qué consideras importante registrar ¿un reporte, notas, ensayo, resumen?
+
+**Ejemplo:**
+
+## Plan de lecturas
+
+MES | REFERENCIA | REGISTRO
+--- | --- | ---
+JUNIO | | 
+Semana 1 | Foucault, Michel. (1998). Las palabras y las cosas. (Vigesimosexta edición) México: Siglo XXI editores. (Segunda edición). México: Fondo de cultura económica | Primer capítulo (resumen de lectura y notas)
+Semana 2 | Foucault, Michel. (1998). Las palabras y las cosas. (Vigesimosexta edición) México: Siglo XXI editores. (Segunda edición). México: Fondo de cultura económica | Segundo capítulo (resumen)
+Semana 3 | Foucault, Michel. (1998). Las palabras y las cosas. (Vigesimosexta edición) México: Siglo XXI editores. (Segunda edición). México: Fondo de cultura económica | Séptimo capítulo (resumen)
+
+NOTA
+## La episteme en Foucacult
+* LAs palabras y las cosas
+Postestructuralista
+Filsosfo del poder y de la discontinuidad
+La episteme "esta investigacion arqueologica muestra dos grandes discontinuidades en la episteme de nuestra cultura occidental: aquella con la que unaugura la epoca clasica (hacia mediandos del siglo XVII) y aquella que, a principiosdel siglo XIX, señala  el umbral de nuestra modernidad. El orden a partir del cual pensamos no tien el mismo modo de ser que el de los clasicos"
+LA prosa del mundo: siglo XVI la semejanza: concepto muy rico
+las palabras y las cosas estan juntas
+El mundo es una prosa
+A aprtir del siglo XIX las palabras y las cosas se sparan
+el mundo es un verso
+
+F.   despertar del sueño antropologico
+Kant despertar del sueño dogmático
+por que sueño: por que es imposible despertar como el mismo despertar filosofico. Como si la filosofia inicara con el despertar. Dejar ese sueño que el dogmatismo nos presentaba
+El sueño dogmático. Dejar ese sueó que el antropologicismo nos presenta
+Analisis precritico de lo que es el hombre su esencia
+17
+K en sus tres preguntas
+    ¿Qué puedo saber? epistemologia
+    ¿Qué debo hacer? etica
+    ¿Qué puedo esperar? las consecuencias
+ se resumian en ¿Qué es el hombre? es la pregunta antropológica
+recuera que una de las preguntas es ¿qué puedo saber?
+que implica saber primero cuales son mis limites, que tanto puedo conocer algo digamos
+
+KRV. por eso el debate de que si es epistemologia o metafisica
+se supone que la conclusion es que la metafisica no puedo lo que presenta
+
+Entonces la metodologia F. buscar investiga y expone las continuidades ilegitimas o falsas
+Incluso encuetra continuidad donde aparentemete no la hay
+
+* El cuidado de si
+* La locura, la anormalidad
+* El racismo
+Si la episteme es que la que posibilita los saberes entonces el conocimiento mismo esta sujeto a ello
+pero la episteme quien la sostiene? no son las mismas ciencias? 
+Quiza no solo las ciencias sino un trabado de variables. politicas, solciales y culturales
 
 
 [Ir a inicio](#inicio)
