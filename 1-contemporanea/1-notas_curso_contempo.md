@@ -914,13 +914,47 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 <a name="SEMANA_14">14</a>
 
 # SEMANA 14
+**Derrida**
+
+ * Derrida, J. (2001). La escritura y la diferencia. Trad. Patricio Peñalver. Anthropos Editorial.
+ * Derrida, J. (1997). De la gramatología. Trad. Óscar Pujol. Siglo XXI Editores.
+ * Derrida, J. (2003). Espectros de Marx: el estado de la deuda, el trabajo del duelo y la nueva Internacional. Trad. Juan Carlos Gentile Vitale. Trotta.
+ * Derrida, J. (1993). La hospitalidad. Trad. Mónica Belevan. Calima Ediciones.
+ * Derrida, J. (2004). La desconstrucción en las fronteras de la filosofía: en respuesta a los críticos. Trad. Alberto Moreiras. Fondo de Cultura Económica.
+
+    
+  * Deconstruccion
+     * Rousseau
+     * Saussure
+     
+  * Logocentrismo
+    * La voz y la escritura
+  * Ontoteologia
+
 
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_15">15</a>
 
 # SEMANA 15
+**Deleuze**
 
+  * Deleuze, G. (2006). Diferencia y repetición. Trad. José Vázquez Pérez. Ediciones Paidós Ibérica.
+  * Deleuze, G. (2001). El antiedipo: capitalismo y esquizofrenia. Trad. Joaquín Chamorro Mielke. Ediciones Paidós Ibérica.
+  * Deleuze, G. (2012). Mil mesetas: capitalismo y esquizofrenia. Trad. Tomás Pollán. Pre-Textos.
+  * Deleuze, G. (2005). Nietzsche y la filosofía. Trad. M. Sáez Rueda. Ediciones Cátedra.
+  * Deleuze, G. (2008). ¿Qué es la filosofía? Trad. Tomás Fernández Aúz y José Luis Pardo. Ediciones Paidós Ibérica.
+
+* Rizoma
+* Flujos y conexiones
+* El calco
+* Principios 
+    * Conexion
+    * Heterogeneidad
+    * Multiplicidad
+    * Ruptura significante
+    * Cartografia
+    * Calcomania
 
 [Ir a inicio](#inicio)
 <a name="SEMANA_16">16</a>

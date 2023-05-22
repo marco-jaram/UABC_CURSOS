@@ -575,6 +575,11 @@ Los gráficos utilizados para representar las formas elementales del parentesco 
 ## SEMANA 15
 
 
+Según Derrida, la tradición filosófica occidental ha privilegiado la presencia como algo que es directo, inmediato y plenamente presente en contraposición a la ausencia o la mediación. Ha habido una tendencia a considerar que la presencia es más auténtica, más valiosa y más verdadera que la ausencia o la mediación
+La deconstrucción derridiana busca desestabilizar la idea de presencia mostrando cómo se difiere y se desplaza constantemente en el lenguaje y el pensamiento. Argumenta que no hay una presencia plena y auténtica que se pueda alcanzar, sino que todas las manifestaciones de presencia están atravesadas por diferencias y ausencias.
+
+
+
 [Ir a inicio](#inicio)
 <a name="SEMANA_16">16</a>
 
