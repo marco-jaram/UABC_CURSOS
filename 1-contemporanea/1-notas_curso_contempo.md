@@ -708,8 +708,7 @@ El eterno retorno de los mismo
 La historia como una oscilación. Nihilismo- decadencia
 
 
-### Bergson
-# Henri Bergson 
+### Bergson3 
 
 Henri Bergson fue un filósofo francés que vivió entre 1859 y 1941. Fue uno de los pensadores más influyentes de su tiempo y sus ideas siguen siendo estudiadas y debatidas en la actualidad. Bergson es conocido por su trabajo en la filosofía de la percepción, la conciencia y el tiempo.
 
@@ -851,7 +850,7 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 # SEMANA 9
 
 
-# Bertrand Russell y la Lógica
+## Bertrand Russell y la Lógica
 
 ## Introducción
 
@@ -914,7 +913,7 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 <a name="SEMANA_14">14</a>
 
 # SEMANA 14
-**Derrida**
+## Derrida
 
  * Derrida, J. (2001). La escritura y la diferencia. Trad. Patricio Peñalver. Anthropos Editorial.
  * Derrida, J. (1997). De la gramatología. Trad. Óscar Pujol. Siglo XXI Editores.
@@ -937,7 +936,7 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 <a name="SEMANA_15">15</a>
 
 # SEMANA 15
-**Deleuze**
+## Deleuze
 
   * Deleuze, G. (2006). Diferencia y repetición. Trad. José Vázquez Pérez. Ediciones Paidós Ibérica.
   * Deleuze, G. (2001). El antiedipo: capitalismo y esquizofrenia. Trad. Joaquín Chamorro Mielke. Ediciones Paidós Ibérica.
@@ -961,18 +960,27 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 
 ## SEMANA 16
 ## Materialismo filosófico
-
+ 
 ### Representantes
-- Gustavo Bueno, Ensayos materialistas(1972), El ego trascendental (2016)
+- Gustavo Bueno: 
+    - Ensayos materialistas(1972) [Descarga libro](https://fgbueno.es/med/dig/gb1972em.pdf)
+    - El ego trascendental (2016) [Descarga lLibro](https://ia601801.us.archive.org/30/items/bueno-g.-el-ego-trascendental/Bueno%20G.%2C%20El%20Ego%20trascendental.pdf)
 - Javier Perez Jara
-- Paloma Hernandez [Bio](https://www.filosofia.org/ave/003/c077.htm)
+    - Presentación de Contemporary Materialism: Its Ontology and Epistemology 2022 [Video](https://www.youtube.com/watch?v=0DWP3kwl03Y)
+- Paloma Hernandez:
+   - Biografía [Bio](https://www.filosofia.org/ave/003/c077.htm)
+   - Crítica a la idea de arte como práctica política desde los años setenta 2021 [Video conferenica](https://www.youtube.com/watch?v=NfBa6b5QMz8) 
 - Ramón Rubinat
+    - El concepto de ficción en la Crítica de la Razón Literaria [Video conferencia](https://www.youtube.com/watch?v=EcIIwoxO25U)
+- Julen Robledo:
+    - Presentación del libro "Contra Žižek" 2017 [Video](https://www.youtube.com/watch?v=5SOJUnGONnQ)
+- Carlos Madrid Casado
+    - Filosofía de la Inteligencia Artificial 2023 [Video](https://www.youtube.com/watch?v=12_c7-eL7Cc&t=4s)
 
-* Publicaciones
-* Catoblepas [Revista](https://www.nodulo.org/ec/)
-* El bassilisco [revista](https://www.filosofia.org/rev/bas/index.htm)
-* Fundacion Gustavo Bueno [Sitio web](https://www.fgbueno.es/) [Canal-Youtube](https://www.youtube.com/@fgbuenotv)
-* Nodulo Tv [Canal-Youtube](https://www.youtube.com/@nodulotv)
+* Difusion:
+  * Catoblepas [Revista](https://www.nodulo.org/ec/)
+  * El bassilisco [revista](https://www.filosofia.org/rev/bas/index.htm)
+  * Nodulo Tv [Canal-Youtube](https://www.youtube.com/@nodulotv)
 
 
 ### El punto de partida de la filosofía materialista (video)
@@ -981,7 +989,7 @@ pues nuestro pasado nos sigue, se agranda sin cesa
 - No tiene sentido pensar solo por pensar
 
 ### Creacionismo / evolucionismo
-- Creacionismo: supone causa trascendente, exterior, dos
+- Creacionismo: supone causa trascendente, exterior
 - Evolucionismo: causa inmanente, se produce desde sí mismo
 
 ### Monismo
