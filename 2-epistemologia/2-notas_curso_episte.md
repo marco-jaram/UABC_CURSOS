@@ -1,4 +1,4 @@
-# Notas de Filosofía contemporánea
+# Notas de Epistemologia
 <a name="inicio">INICIO</a>
 
 [Videos](https://drive.google.com/drive/folders/1gaImpXuMtUl2cuuhFD1H2qHXdC-sDB5S?usp=share_link)
