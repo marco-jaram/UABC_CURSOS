@@ -118,7 +118,7 @@ Calificación en escala del 0 al 100, con un mínimo aprobatorio de 60.
 * Bergson, H. (1996) Introducción a la Metafísica. México, Porrúa.
 * Comte, A. (2006) La filosofía positiva. México. Porrúa.
 * Nietzsche, F. (1993) Crepúsculo de los ídolos. Madrid, Alianza.
-* Hegel, F.(2009 Fenomenología del Espíritu; traducción de Manuel Jiménez, España: PRE-TEXTOS
+* Hegel, F.(2009) Fenomenología del Espíritu; traducción de Manuel Jiménez, España: PRE-TEXTOS
 * Adorno, T.W. y Horkheimer, M. (1981) Dialéctica de la Ilustración, España, Akal.
 * Deleuze, G. y Guattari, F. (1978) Rizoma, introducción al Antiedipo. México, Premia editores.
 * Derrida, J. (1998) De la Gramatología. México, Siglo XXI.      

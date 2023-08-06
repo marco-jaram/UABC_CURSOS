@@ -21,7 +21,7 @@ textoslas tesis principales. Dialogando crítica y respetuosamente.
 | Semana | Tema                          | Actividad      | Evidencia       | valor |
 |--------|-------------------------------|----------------|-----------------|-------|
 | 1 []   | Presentación                  |                |                 |       |
-| 1 []   | 1.1.0 **Romanticismo**        |                |                 |       |
+| 1 []   | 1.1.0 **Romanticismo** Intro  |                |                 |       |
 | 2 [][] | 1.1.2 Fichte                  | Autoevaluación | Autoevaluación  |       |
 | 3 []   | 1.1.3 Schelling               | Antología      | Autoevaluación  |       |
 | 3 []   | 1.1.4 Hegel                   | Antología      | Autoevaluación  |       |
@@ -54,9 +54,9 @@ critica.
 |        | 2.3.0 **Positivismo y neopositivismo** |           |           |       |
 | 9[]    | 2.3.1 Diferencias                      |           |           |       |
 | 9 []   | 2.3.2 Carnap                           |           |           |       |
-| 11[][] | 2.3.3 Wittgenstein                     |           |           |       |
+| 10[][] | 2.3.3 Wittgenstein                     |           |           |       |
 |        | 2.4 .0 **Teoría Crítica**              |           |           |       |
-| 12[][] | 2.4.1 Adorno, Horkheimer, y Marcuse    |           |           |       |
+| 11[][] | 2.4.1 Adorno, Horkheimer, y Marcuse    |           |           |       |
 
 
 
@@ -68,15 +68,15 @@ critica.
 | Semana | Tema                                          | Actividad | Evidencia | valor |
 |--------|-----------------------------------------------|-----------|-----------|-------|
 |        | 3.1.0 **Estructuralismo**                     |           |           |       |
-| 13[]   | 3.1.1 Introducción al estructuralismo         |           |           |       |
-| 13[]   | 3.1.2 Bathes, Foucault                        |           |           |       |
+| 12[]   | 3.1.1 Introducción al estructuralismo         |           |           |       |
+| 12[]   | 3.1.2 Bathes, Foucault                        |           |           |       |
 |        | 3.2.0 **Posmodernidad**                       |           |           |       |
-| 14[][] | 3.1.2 Derrida                                 |           |           |       |
-| 15[][] | 3.3.3 Deleuze                                 |           |           |       |
+| 13[][] | 3.1.2 Derrida                                 |           |           |       |
+| 14[][] | 3.3.3 Deleuze                                 |           |           |       |
 |        | 3.3.0 Nuevo materialismo                      |           |           |       |
+| 15[][] | 3.3.1 **Materialismo filosófico de G. Bueno** |           |           |       |
 | 16[][] | 3.3.1 **Materialismo filosófico de G. Bueno** |           |           |       |
-| 17[][] | 3.3.1 **Materialismo filosófico de G. Bueno** |           |           |       |
-| 18[][] | libre y fin                                   |           |           |       |
+| 17[][] | libre y fin                                   |           |           |       |
 
 
 
@@ -87,24 +87,24 @@ critica.
 
 | Seman- | dias- | Mes         | Observaciones    |
 |--------|-------|-------------|------------------|
-| 1      | 31-3  | **Febrero** |                  |
-| 2      | 6-11  |             |                  |
-| 3      | 13-17 |             |                  |
-| 4      | 20-24 |             |                  |
-| 5      | 28-3  | **Marzo**   |                  |
-| 6      | 6-10  |             |                  |
-| 7      | 13-17 |             |                  |
-| 8      | 20-24 |             |                  |
-| 9      | 27-31 |             |                  |
-| 10     | 3-7   | **Abril**   | **vacaciones**   |
-| 11     | 10-14 |             |                  |
-| 12     | 17-21 |             |                  |
-| 13     | 24-28 |             |                  |
-| 14     | 1-5   | **Mayo**    |                  |
-| 15     | 8-12  |             |                  |
-| 16     | 15-19 |             |                  |
-| 17     | 22-26 |             |                  |
-| 18     | 29-2  |             | fin/semana libre |
+| 1      | 07-11 | **Agosto**  |                  |
+| 2      | 14-18 |             |                  |
+| 3      | 21-25 |             |                  |
+| 4      | 28-01 |             |                  |
+| 5      | 04-08 | **Septiem** |                  |
+| 6      | 11-15 |             |                  |
+| 7      | 18-22 |             |                  |
+| 8      | 25-29 |             |                  |
+| 9      | 02-06 | **Octub**   |                  |
+| 10     | 09-13 |             |                  |
+| 11     | 16-20 |             |                  |
+| 12     | 23-27 |             |                  |
+| 13     | 30-03 |             |                  |
+| 14     | 06-10 | **Novie**   | Jue-2 suspen     |
+| 15     | 13-17 |             |                  |
+| 16     | 20-24 |             | Lun-20 suspen    |
+| 17     | 27-01 | **Dici**    | Semana libre     |
+
 
 
 
