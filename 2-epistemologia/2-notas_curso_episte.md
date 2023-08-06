@@ -168,7 +168,7 @@ Mortiz, Carnap, Reichenbach, Kraft…Popper
 >**Tarea**: Leer libro X de la República de Platón
 
 <img src="https://i.postimg.cc/sgH97Cv6/Conocimiento-Clasicos-Platon-2.jpg" width="500px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/220px-Plato_Pio-Clemetino_Inv305.jpg" width="500px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/220px-Plato_Pio-Clemetino_Inv305.jpg" width="300px">
 <img src="https://www.socialhizo.com/images/filosofia/platon/teoria-ideas.png" width="500px">
 
 **Dejando los cartones de Platón**
