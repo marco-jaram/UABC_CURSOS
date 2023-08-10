@@ -50,8 +50,8 @@ visión crítica.
 | 9      | 3.2.1 El fundamento  del conocimiento |           |           |       |
 | 9      | 3.2.2 La existencia de las cosas      |           |           |       |
 | -      | 3.3.0 Idealismo                       |           |           |       |
-| 11     | 3.3.1 Rasgos generales                |           |           |       |
-| 11     | 3.3.2 De Platón a Kant                |           |           |       |
+| 10     | 3.3.1 Rasgos generales                |           |           |       |
+| 10     | 3.3.2 De Platón a Kant                |           |           |       |
  
 
  
@@ -66,13 +66,13 @@ general con una actitud crítica.
 | Semana | Tema                                                 | Actividad | Evidencia | valor |
 |--------|------------------------------------------------------|-----------|-----------|-------|
 | -      | 4.1.0 Lenguaje y conocimiento                        |           |           |       |
-| 12[][] | 4.1.1 Russell y la teoría de conjuntos               |           |           |       |
-| 13[][] | 4.1.2 La paradoja en la principia matemática         |           |           |       |
-| 14[][] | 4.1.3 Canto y Platón según Badiou   12321                 |           |           |       |
-| 15[][] | 4.2.0 Noción de episteme en Foucault                 |           |           |       |
-| 16[][] | 4.2.1 La episteme en las palabras y las cosas        |           |           |       |
-| 17[]   | 4.3.0 Realismo especulativo                          |           |           |       |
-| 17[]   | 4.3.1 Realismo especulativo y conocimiento ancestral |           |           |       |
+| 11[][] | 4.1.1 Russell y la teoría de conjuntos               |           |           |       |
+| 12[][] | 4.1.2 La paradoja en la principia matemática         |           |           |       |
+| 13[][] | 4.1.3 Canto y Platón según Badiou   12321                 |           |           |       |
+| 14[][] | 4.2.0 Noción de episteme en Foucault                 |           |           |       |
+| 15[][] | 4.2.1 La episteme en las palabras y las cosas        |           |           |       |
+| 16[]   | 4.3.0 Realismo especulativo                          |           |           |       |
+| 16[]   | 4.3.1 Realismo especulativo y conocimiento ancestral |           |           |       |
 
 
 

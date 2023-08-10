@@ -1,4 +1,5 @@
-# Plan de Clase: Introducción a la Epistemología
+
+Plan de Clase: Introducción a la Epistemología
 
 ## Índice
 <a name="inicio">Inicio</a>
@@ -63,8 +64,66 @@
 
 **Nota**: Se anima a los estudiantes a acercarse con dudas al finalizar la clase y a mantener un diálogo respetuoso durante las sesiones.
 
-Contenido de la Seman 01.
+**Recomendaciones**
+[Video A Brief History of Epistemology](https://youtu.be/C_f2L8D4T24)
+
 ### Parte 2
+# **Planeación de Clase: Epistemología**
+
+## **Tema:**
+El Concepto de Epistemología
+
+## **Duración:**
+1 hora 30 minutos
+
+---
+
+### **Objetivo:**
+Que los estudiantes comprendan la naturaleza y el alcance de la epistemología, su relación y distinción con conceptos afines como la teoría del conocimiento, la filosofía de la ciencia y la metodología.
+
+---
+
+### **Actividades:**
+
+1. **Introducción (10 min)**
+    * Breve definición del concepto de epistemología.
+    * Pregunta para los estudiantes: "¿Qué entienden por epistemología?"
+
+2. **Distinción y Correlación (20 min)**
+    * Explicación y discusión sobre la relación entre:
+        - Epistemología
+        - Teoría del conocimiento
+        - Filosofía de la ciencia
+        - Metodología
+    * Visualización de citas de "Sergio Rabade" y "Blanche" para ilustrar estos puntos.
+
+3. **Historia y Evolución (20 min)**
+    * Resumen de cómo el problema del conocimiento ha evolucionado desde la época medieval hasta el presente.
+    * Discusión sobre cómo la modernidad transformó el enfoque del conocimiento y cómo Descartes y otros filósofos influenciaron este cambio.
+
+4. **Epistemología vs. Teoría del Conocimiento (15 min)**
+    * Exploración profunda de las diferencias entre la teoría del conocimiento y la epistemología basada en las observaciones de "Sergio Rabade".
+    * Discusión en clase sobre: "¿Hacen inútil las epistemologías la teoría del conocimiento general?"
+
+5. **Filosofía de la Ciencia y Metodología (20 min)**
+    * Descripción de cómo la filosofía de la ciencia y la epistemología están relacionadas pero son distintas, basadas en las observaciones de "Blanche".
+    * Discusión sobre cómo la metodología surge de la lógica pero ha evolucionado para ser considerada parte de la epistemología.
+
+6. **Conclusión (5 min)**
+    * Resumen de los puntos clave discutidos.
+    * Pregunta para reflexión final: "¿Cómo ven la relación entre la epistemología, la teoría del conocimiento, la filosofía de la ciencia y la metodología en la actualidad?"
+
+---
+
+### **Recursos/Materiales:**
+* Pizarra o proyector para mostrar citas y puntos clave.
+* Extractos de los textos de "Sergio Rabade", "Blanche", "Roiger Verneaux", "Jonathan Dancy" y "Bunge".
+* Material de escritura para que los estudiantes tomen notas.
+
+---
+
+### **Evaluación:**
+Al final de la clase, se realizará una breve actividad en la que los estudiantes escribirán sus propias definiciones y comprensiones sobre epistemología, teoría del conocimiento, filosofía de la ciencia y metodología. Posteriormente, se podría realizar un seguimiento con una discusión o debate en clase sobre las percepciones de los estudiantes.
 
 [Ir a inicio](#inicio)
 ## Semana 02
