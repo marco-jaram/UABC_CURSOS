@@ -94,7 +94,7 @@
 * Mancosu, P. (2008). Filosofía de las matemáticas. Alianza Editorial.* 
 * Aberdein, A. (2010). Philosophy of Mathematics: An Introduction to the World of Proofs and Pictures. Routledge.* 
 * Lützen, J. (1990). Filosofía de las matemáticas: una introducción histórica. Alianza Editorial.* 
-* Bueno, O. (2000). Filosofía de las matemáticas: una introducción. Editorial Trotta.* 
+* Carlos Madrid. (2000). Filosofía de las matemáticas: una introducción. Editorial Trotta.* 
 * Parsons, C. (2014). Filosofía de las matemáticas en el siglo XX. Fondo de Cultura Económica.* 
 * Cellucci, C. (2016). Filosofía de las matemáticas. Editorial Gedisa.* 
 * Chihara, C. S. (2004). Filosofía de las matemáticas: una guía para el estudiante. UNAM.* 
@@ -131,7 +131,7 @@
 <a name="SEMANA_2">2</a>
 
 ## SEMANA 2
-
+Hola
 
 [Ir a inicio](#inicio)
 
