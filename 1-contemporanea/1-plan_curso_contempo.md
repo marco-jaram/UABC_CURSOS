@@ -71,7 +71,7 @@ critica.
 | 12[]   | 3.1.1 Introducción al estructuralismo         |           |           |       |
 | 12[]   | 3.1.2 Bathes, Foucault                        |           |           |       |
 |        | 3.2.0 **Posmodernidad**                       |           |           |       |
-| 13[][] | 3.1.2 Derrida                                 |           |           |       |
+| Hasta aqui 13[][] | 3.1.2 Derrida                                 |           |           |       |
 | 14[][] | 3.3.3 Deleuze                                 |           |           |       |
 |        | 3.3.0 Nuevo materialismo                      |           |           |       |
 | 15[][] | 3.3.1 **Materialismo filosófico de G. Bueno** |           |           |       |
@@ -85,25 +85,25 @@ critica.
 
 
 
-| Seman- | dias- | Mes         | Observaciones    |
+| Seman  | dias  | Mes         | Observaciones    |
 |--------|-------|-------------|------------------|
-| 1      | 29-02 | **Enero**   |                  |
-| 2      | 05-09 | **Febrero** | suspension L05   |
-| 3      | 12-16 |             |                  |
-| 4      | 19-23 |             |                  |
-| 5      | 26-29 |             | susp Lun26       |
-| 6      | 11-15 | **Marzo**   |                  |
-| 7      | 18-22 |             | susp Lun18       |
-| 8      | 25-29 |**Vacacion** | Vacas  25-31     |
-| 9      | 01-05 | **Abril**   |                  |
-| 10     | 08-12 |             |                  |
-| 11     | 15-19 |             |                  |
-| 12     | 22-26 |             |                  |
-| 13     | 29-03 |             | susp Mie01       |
-| 14     | 06-10 | **Mayo**    |                  |
-| 15     | 13-17 |             | susp Lun13       |
-| 16     | 20-24 |             | susp Lun20       |
-| 17     | 27-31 |             |                  |
+| 01     | 29-02 | **Enero**   |                  |
+| 02     | 05-09 | **Febrero** | suspension L05   |
+| 03     | 12-16 |             |                  |
+| 04     | 19-23 |             |                  |
+| 05     | 26-29 |             | susp Lun26       |
+| 06     | 11-15 | **Marzo**   |                  |
+| 07     | 18-22 |             | susp Lun18       |
+| X      | 25-29 |**Vacacion** | Vacas  25-31     |
+| 08     | 01-05 | **Abril**   |                  |
+| 09     | 08-12 |             |                  |
+| 10     | 15-19 |             |                  |
+| 11     | 22-26 |             |                  |
+| 12     | 29-03 |             | susp Mie01       |
+| 13     | 06-10 | **Mayo**    |                  |
+| 14     | 13-17 |             | susp Lun13       |
+| 15     | 20-24 |             | susp Lun20       |
+| 16     | 27-31 |             |                  |
 
 
 
